@@ -8,6 +8,15 @@ import styles from "./reader.module.css";
 
 type Props = { params: { ang: string } };
 
+/** Prerender every ang at build time — the reader is fully static in production. */
+export function generateStaticParams() {
+  return Array.from({ length: TOTAL_ANGS }, (_, i) => ({
+    ang: String(i + 1),
+  }));
+}
+
+export const dynamicParams = false;
+
 export function generateMetadata({ params }: Props): Metadata {
   return {
     title: `Ang ${params.ang} — Sri Guru Granth Sahib — Chardi Kala`,
