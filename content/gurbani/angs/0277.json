@@ -1,0 +1,383 @@
+{
+ "ang": 277,
+ "lines": [
+  {
+   "gurmukhi": "ਹੁਕਮੇ ਧਾਰਿ ਅਧਰ ਰਹਾਵੈ ॥",
+   "translit": "hukame dhaar adhar rahaavai |",
+   "english": "By His Order, He established the earth, and He maintains it unsupported.",
+   "shabadId": "1G1"
+  },
+  {
+   "gurmukhi": "ਅੰਤੁ ਨਹੀ ਕਿਛੁ ਪਾਰਾਵਾਰਾ ॥",
+   "translit": "ant nahee kichh paaraavaaraa |",
+   "english": "He has no end or limitation.",
+   "shabadId": "1G1"
+  },
+  {
+   "gurmukhi": "ਹੁਕਮੇ ਊਚ ਨੀਚ ਬਿਉਹਾਰ ॥",
+   "translit": "hukame aooch neech biauhaar |",
+   "english": "By His Order, one's occupation is high or low.",
+   "shabadId": "1G1"
+  },
+  {
+   "gurmukhi": "ਹੁਕਮੇ ਉਪਜੈ ਹੁਕਮਿ ਸਮਾਵੈ ॥",
+   "translit": "hukame upajai hukam samaavai |",
+   "english": "By His Order, the world was created; by His Order, it shall merge again into Him.",
+   "shabadId": "1G1"
+  },
+  {
+   "gurmukhi": "ਕਰਿ ਕਰਿ ਦੇਖੈ ਅਪਨੀ ਵਡਿਆਈ ॥",
+   "translit": "kar kar dekhai apanee vaddiaaee |",
+   "english": "Having created the Creation, He beholds His own greatness.",
+   "shabadId": "1G1"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਸਭ ਮਹਿ ਰਹਿਆ ਸਮਾਈ ॥੧॥",
+   "translit": "naanak sabh meh rahiaa samaaee |1|",
+   "english": "O Nanak, He is pervading in all. ||1||",
+   "shabadId": "1G1"
+  },
+  {
+   "gurmukhi": "ਹੁਕਮੇ ਅਨਿਕ ਰੰਗ ਪਰਕਾਰ ॥",
+   "translit": "hukame anik rang parakaar |",
+   "english": "By His Order, there are so many colors and forms.",
+   "shabadId": "1G1"
+  },
+  {
+   "gurmukhi": "ਪ੍ਰਭ ਭਾਵੈ ਤਾ ਹਰਿ ਗੁਣ ਭਾਖੈ ॥",
+   "translit": "prabh bhaavai taa har gun bhaakhai |",
+   "english": "If it pleases God, then one chants the Lord's Glorious Praises.",
+   "shabadId": "QYL"
+  },
+  {
+   "gurmukhi": "ਪ੍ਰਭ ਭਾਵੈ ਤਾ ਪਾਥਰ ਤਰਾਵੈ ॥",
+   "translit": "prabh bhaavai taa paathar taraavai |",
+   "english": "If it pleases God, then even stones can swim.",
+   "shabadId": "QYL"
+  },
+  {
+   "gurmukhi": "ਪ੍ਰਭ ਭਾਵੈ ਮਾਨੁਖ ਗਤਿ ਪਾਵੈ ॥",
+   "translit": "prabh bhaavai maanukh gat paavai |",
+   "english": "If it pleases God, one attains salvation.",
+   "shabadId": "QYL"
+  },
+  {
+   "gurmukhi": "ਪ੍ਰਭ ਭਾਵੈ ਬਿਨੁ ਸਾਸ ਤੇ ਰਾਖੈ ॥",
+   "translit": "prabh bhaavai bin saas te raakhai |",
+   "english": "If it pleases God, the body is preserved, even without the breath of life.",
+   "shabadId": "QYL"
+  },
+  {
+   "gurmukhi": "ਆਪਿ ਕਰੈ ਆਪਨ ਬੀਚਾਰੈ ॥",
+   "translit": "aap karai aapan beechaarai |",
+   "english": "He Himself acts, and He Himself contemplates.",
+   "shabadId": "QYL"
+  },
+  {
+   "gurmukhi": "ਪ੍ਰਭ ਭਾਵੈ ਤਾ ਪਤਿਤ ਉਧਾਰੈ ॥",
+   "translit": "prabh bhaavai taa patit udhaarai |",
+   "english": "If it pleases God, then even sinners are saved.",
+   "shabadId": "QYL"
+  },
+  {
+   "gurmukhi": "ਦੁਹਾ ਸਿਰਿਆ ਕਾ ਆਪਿ ਸੁਆਮੀ ॥",
+   "translit": "duhaa siriaa kaa aap suaamee |",
+   "english": "He Himself is the Master of both worlds.",
+   "shabadId": "QYL"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਦ੍ਰਿਸਟੀ ਅਵਰੁ ਨ ਆਵੈ ॥੨॥",
+   "translit": "naanak drisattee avar na aavai |2|",
+   "english": "Nanak sees no other than Him. ||2||",
+   "shabadId": "QYL"
+  },
+  {
+   "gurmukhi": "ਜੋ ਭਾਵੈ ਸੋ ਕਾਰ ਕਰਾਵੈ ॥",
+   "translit": "jo bhaavai so kaar karaavai |",
+   "english": "As He wills, He causes actions to be done.",
+   "shabadId": "QYL"
+  },
+  {
+   "gurmukhi": "ਖੇਲੈ ਬਿਗਸੈ ਅੰਤਰਜਾਮੀ ॥",
+   "translit": "khelai bigasai antarajaamee |",
+   "english": "He plays and He enjoys; He is the Inner-knower, the Searcher of hearts.",
+   "shabadId": "QYL"
+  },
+  {
+   "gurmukhi": "ਕਹੁ ਮਾਨੁਖ ਤੇ ਕਿਆ ਹੋਇ ਆਵੈ ॥",
+   "translit": "kahu maanukh te kiaa hoe aavai |",
+   "english": "Tell me - what can a mere mortal do?",
+   "shabadId": "3UK"
+  },
+  {
+   "gurmukhi": "ਇਸ ਕੈ ਹਾਥਿ ਹੋਇ ਤਾ ਸਭੁ ਕਿਛੁ ਲੇਇ ॥",
+   "translit": "eis kai haath hoe taa sabh kichh lee |",
+   "english": "If it were in our hands, we would grab up everything.",
+   "shabadId": "3UK"
+  },
+  {
+   "gurmukhi": "ਜੋ ਤਿਸੁ ਭਾਵੈ ਸੋਈ ਕਰੇਇ ॥",
+   "translit": "jo tis bhaavai soee karee |",
+   "english": "Whatever pleases God - that is what He does.",
+   "shabadId": "3UK"
+  },
+  {
+   "gurmukhi": "ਜੋ ਤਿਸੁ ਭਾਵੈ ਸੋਈ ਕਰਾਵੈ ॥",
+   "translit": "jo tis bhaavai soee karaavai |",
+   "english": "Whatever pleases God is what He causes us to do.",
+   "shabadId": "3UK"
+  },
+  {
+   "gurmukhi": "ਅਨਜਾਨਤ ਬਿਖਿਆ ਮਹਿ ਰਚੈ ॥",
+   "translit": "anajaanat bikhiaa meh rachai |",
+   "english": "Through ignorance, people are engrossed in corruption.",
+   "shabadId": "3UK"
+  },
+  {
+   "gurmukhi": "ਭਰਮੇ ਭੂਲਾ ਦਹ ਦਿਸਿ ਧਾਵੈ ॥",
+   "translit": "bharame bhoolaa deh dis dhaavai |",
+   "english": "Deluded by doubt, they wander around in the ten directions.",
+   "shabadId": "3UK"
+  },
+  {
+   "gurmukhi": "ਜੇ ਜਾਨਤ ਆਪਨ ਆਪ ਬਚੈ ॥",
+   "translit": "je jaanat aapan aap bachai |",
+   "english": "If they knew better, they would save themselves.",
+   "shabadId": "3UK"
+  },
+  {
+   "gurmukhi": "ਕਰਿ ਕਿਰਪਾ ਜਿਸੁ ਅਪਨੀ ਭਗਤਿ ਦੇਇ ॥",
+   "translit": "kar kirapaa jis apanee bhagat dee |",
+   "english": "Those whom the Lord mercifully blesses with His devotional worship",
+   "shabadId": "3UK"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਤੇ ਜਨ ਨਾਮਿ ਮਿਲੇਇ ॥੩॥",
+   "translit": "naanak te jan naam milee |3|",
+   "english": "- O Nanak, they are absorbed into the Naam. ||3||",
+   "shabadId": "3UK"
+  },
+  {
+   "gurmukhi": "ਨਿਮਖ ਮਾਹਿ ਚਾਰਿ ਕੁੰਟ ਫਿਰਿ ਆਵੈ ॥",
+   "translit": "nimakh maeh chaar kuntt fir aavai |",
+   "english": "In an instant, their minds go around the four corners of the world and come back again.",
+   "shabadId": "3UK"
+  },
+  {
+   "gurmukhi": "ਜਾ ਕਾ ਦ੍ਰਿਸਟਿ ਕਛੂ ਨ ਆਵੈ ॥",
+   "translit": "jaa kaa drisatt kachhoo na aavai |",
+   "english": "Even one who has never been seen at all,",
+   "shabadId": "5MP"
+  },
+  {
+   "gurmukhi": "ਪਾਰਬ੍ਰਹਮ ਗਰੀਬ ਨਿਵਾਜ ॥",
+   "translit": "paarabraham gareeb nivaaj |",
+   "english": "The Supreme Lord God is the Protector of the humble.",
+   "shabadId": "5MP"
+  },
+  {
+   "gurmukhi": "ਖਿਨ ਮਹਿ ਨੀਚ ਕੀਟ ਕਉ ਰਾਜ ॥",
+   "translit": "khin meh neech keett kau raaj |",
+   "english": "In an instant, the lowly worm is transformed into a king.",
+   "shabadId": "5MP"
+  },
+  {
+   "gurmukhi": "ਜਾ ਕਉ ਅਪੁਨੀ ਕਰੈ ਬਖਸੀਸ ॥",
+   "translit": "jaa kau apunee karai bakhasees |",
+   "english": "And that one upon whom He bestows His blessings",
+   "shabadId": "5MP"
+  },
+  {
+   "gurmukhi": "ਤਿਸੁ ਤਤਕਾਲ ਦਹ ਦਿਸ ਪ੍ਰਗਟਾਵੈ ॥",
+   "translit": "tis tatakaal deh dis pragattaavai |",
+   "english": "becomes instantly famous in the ten directions.",
+   "shabadId": "5MP"
+  },
+  {
+   "gurmukhi": "ਤਾ ਕਾ ਲੇਖਾ ਨ ਗਨੈ ਜਗਦੀਸ ॥",
+   "translit": "taa kaa lekhaa na ganai jagadees |",
+   "english": "the Lord of the world does not hold him to his account.",
+   "shabadId": "5MP"
+  },
+  {
+   "gurmukhi": "ਘਟਿ ਘਟਿ ਪੂਰਨ ਬ੍ਰਹਮ ਪ੍ਰਗਾਸ ॥",
+   "translit": "ghatt ghatt pooran braham pragaas |",
+   "english": "Each and every heart is illuminated by the Perfect Lord God.",
+   "shabadId": "5MP"
+  },
+  {
+   "gurmukhi": "ਅਪਨੀ ਬਣਤ ਆਪਿ ਬਨਾਈ ॥",
+   "translit": "apanee banat aap banaaee |",
+   "english": "He Himself fashioned His own handiwork.",
+   "shabadId": "5MP"
+  },
+  {
+   "gurmukhi": "ਜੀਉ ਪਿੰਡੁ ਸਭ ਤਿਸ ਕੀ ਰਾਸਿ ॥",
+   "translit": "jeeo pindd sabh tis kee raas |",
+   "english": "Soul and body are all His property.",
+   "shabadId": "5MP"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਜੀਵੈ ਦੇਖਿ ਬਡਾਈ ॥੪॥",
+   "translit": "naanak jeevai dekh baddaaee |4|",
+   "english": "Nanak lives by beholding His greatness. ||4||",
+   "shabadId": "5MP"
+  },
+  {
+   "gurmukhi": "ਇਸ ਕਾ ਬਲੁ ਨਾਹੀ ਇਸੁ ਹਾਥ ॥",
+   "translit": "eis kaa bal naahee is haath |",
+   "english": "There is no power in the hands of mortal beings;",
+   "shabadId": "EVF"
+  },
+  {
+   "gurmukhi": "ਕਰਨ ਕਰਾਵਨ ਸਰਬ ਕੋ ਨਾਥ ॥",
+   "translit": "karan karaavan sarab ko naath |",
+   "english": "the Doer, the Cause of causes is the Lord of all.",
+   "shabadId": "EVF"
+  },
+  {
+   "gurmukhi": "ਕਬਹੂ ਊਚ ਨੀਚ ਮਹਿ ਬਸੈ ॥",
+   "translit": "kabahoo aooch neech meh basai |",
+   "english": "Sometimes, they abide in exaltation; sometimes, they are depressed.",
+   "shabadId": "EVF"
+  },
+  {
+   "gurmukhi": "ਆਗਿਆਕਾਰੀ ਬਪੁਰਾ ਜੀਉ ॥",
+   "translit": "aagiaakaaree bapuraa jeeo |",
+   "english": "The helpless beings are subject to His Command.",
+   "shabadId": "EVF"
+  },
+  {
+   "gurmukhi": "ਜੋ ਤਿਸੁ ਭਾਵੈ ਸੋਈ ਫੁਨਿ ਥੀਉ ॥",
+   "translit": "jo tis bhaavai soee fun theeo |",
+   "english": "That which pleases Him, ultimately comes to pass.",
+   "shabadId": "EVF"
+  },
+  {
+   "gurmukhi": "ਕਬਹੂ ਸੋਗ ਹਰਖ ਰੰਗਿ ਹਸੈ ॥",
+   "translit": "kabahoo sog harakh rang hasai |",
+   "english": "Sometimes, they are sad, and sometimes they laugh with joy and delight.",
+   "shabadId": "EVF"
+  },
+  {
+   "gurmukhi": "ਕਬਹੂ ਨਿੰਦ ਚਿੰਦ ਬਿਉਹਾਰ ॥",
+   "translit": "kabahoo nind chind biauhaar |",
+   "english": "Sometimes, they are occupied with slander and anxiety.",
+   "shabadId": "EVF"
+  },
+  {
+   "gurmukhi": "ਕਬਹੂ ਊਭ ਅਕਾਸ ਪਇਆਲ ॥",
+   "translit": "kabahoo aoobh akaas peaal |",
+   "english": "Sometimes, they are high in the Akaashic Ethers, sometimes in the nether regions of the underworld.",
+   "shabadId": "EVF"
+  },
+  {
+   "gurmukhi": "ਕਬਹੂ ਬੇਤਾ ਬ੍ਰਹਮ ਬੀਚਾਰ ॥",
+   "translit": "kabahoo betaa braham beechaar |",
+   "english": "Sometimes, they know the contemplation of God.",
+   "shabadId": "EVF"
+  },
+  {
+   "gurmukhi": "ਕਬਹੂ ਨਿਰਤਿ ਕਰੈ ਬਹੁ ਭਾਤਿ ॥",
+   "translit": "kabahoo nirat karai bahu bhaat |",
+   "english": "Sometimes, they dance in various ways.",
+   "shabadId": "KZ9"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਆਪਿ ਮਿਲਾਵਣਹਾਰ ॥੫॥",
+   "translit": "naanak aap milaavanahaar |5|",
+   "english": "O Nanak, God Himself unites them with Himself. ||5||",
+   "shabadId": "EVF"
+  },
+  {
+   "gurmukhi": "ਕਬਹੂ ਮਹਾ ਕ੍ਰੋਧ ਬਿਕਰਾਲ ॥",
+   "translit": "kabahoo mahaa krodh bikaraal |",
+   "english": "Sometimes, they are awesome, in terrible rage.",
+   "shabadId": "KZ9"
+  },
+  {
+   "gurmukhi": "ਕਬਹੂ ਸੋਇ ਰਹੈ ਦਿਨੁ ਰਾਤਿ ॥",
+   "translit": "kabahoo soe rahai din raat |",
+   "english": "Sometimes, they remain asleep day and night.",
+   "shabadId": "KZ9"
+  },
+  {
+   "gurmukhi": "ਕਬਹੂੰ ਸਰਬ ਕੀ ਹੋਤ ਰਵਾਲ ॥",
+   "translit": "kabahoon sarab kee hot ravaal |",
+   "english": "Sometimes, they are the dust of the feet of all.",
+   "shabadId": "KZ9"
+  },
+  {
+   "gurmukhi": "ਕਬਹੂ ਹੋਇ ਬਹੈ ਬਡ ਰਾਜਾ ॥",
+   "translit": "kabahoo hoe bahai badd raajaa |",
+   "english": "Sometimes, they sit as great kings.",
+   "shabadId": "KZ9"
+  },
+  {
+   "gurmukhi": "ਕਬਹੁ ਭੇਖਾਰੀ ਨੀਚ ਕਾ ਸਾਜਾ ॥",
+   "translit": "kabahu bhekhaaree neech kaa saajaa |",
+   "english": "Sometimes, they wear the coat of a lowly beggar.",
+   "shabadId": "KZ9"
+  },
+  {
+   "gurmukhi": "ਕਬਹੂ ਭਲਾ ਭਲਾ ਕਹਾਵੈ ॥",
+   "translit": "kabahoo bhalaa bhalaa kahaavai |",
+   "english": "Sometimes, they are known as very, very good.",
+   "shabadId": "KZ9"
+  },
+  {
+   "gurmukhi": "ਗੁਰ ਪ੍ਰਸਾਦਿ ਨਾਨਕ ਸਚੁ ਕਹੈ ॥੬॥",
+   "translit": "gur prasaad naanak sach kahai |6|",
+   "english": "By Guru's Grace, O Nanak, the Truth is told. ||6||",
+   "shabadId": "KZ9"
+  },
+  {
+   "gurmukhi": "ਜਿਉ ਪ੍ਰਭੁ ਰਾਖੈ ਤਿਵ ਹੀ ਰਹੈ ॥",
+   "translit": "jiau prabh raakhai tiv hee rahai |",
+   "english": "As God keeps them, so they remain.",
+   "shabadId": "KZ9"
+  },
+  {
+   "gurmukhi": "ਕਬਹੂ ਅਪਕੀਰਤਿ ਮਹਿ ਆਵੈ ॥",
+   "translit": "kabahoo apakeerat meh aavai |",
+   "english": "Sometimes, they come to have evil reputations.",
+   "shabadId": "KZ9"
+  },
+  {
+   "gurmukhi": "ਕਬਹੂ ਹੋਇ ਪੰਡਿਤੁ ਕਰੇ ਬਖੵਾਨੁ ॥",
+   "translit": "kabahoo hoe panddit kare bakhayaan |",
+   "english": "Sometimes, as scholars, they deliver lectures.",
+   "shabadId": "145"
+  },
+  {
+   "gurmukhi": "ਕਬਹੂ ਮੋਨਿਧਾਰੀ ਲਾਵੈ ਧਿਆਨੁ ॥",
+   "translit": "kabahoo monidhaaree laavai dhiaan |",
+   "english": "Sometimes, they hold to silence in deep meditation.",
+   "shabadId": "145"
+  },
+  {
+   "gurmukhi": "ਕਬਹੂ ਤਟ ਤੀਰਥ ਇਸਨਾਨ ॥",
+   "translit": "kabahoo tatt teerath isanaan |",
+   "english": "Sometimes, they take cleansing baths at places of pilgrimage.",
+   "shabadId": "145"
+  },
+  {
+   "gurmukhi": "ਕਬਹੂ ਸਿਧ ਸਾਧਿਕ ਮੁਖਿ ਗਿਆਨ ॥",
+   "translit": "kabahoo sidh saadhik mukh giaan |",
+   "english": "Sometimes, as Siddhas or seekers, they impart spiritual wisdom.",
+   "shabadId": "145"
+  },
+  {
+   "gurmukhi": "ਕਬਹੂ ਕੀਟ ਹਸਤਿ ਪਤੰਗ ਹੋਇ ਜੀਆ ॥",
+   "translit": "kabahoo keett hasat patang hoe jeea |",
+   "english": "Sometimes, they becomes worms, elephants, or moths.",
+   "shabadId": "145"
+  },
+  {
+   "gurmukhi": "ਅਨਿਕ ਜੋਨਿ ਭਰਮੈ ਭਰਮੀਆ ॥",
+   "translit": "anik jon bharamai bharameea |",
+   "english": "They may wander and roam through countless incarnations.",
+   "shabadId": "145"
+  }
+ ]
+}

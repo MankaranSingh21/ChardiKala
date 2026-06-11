@@ -1,0 +1,16 @@
+---
+title: Every Seat at the Floor
+gurmukhi: ਸਭ ਦਾ ਥਾਂ
+kicker: On LGBTQ+ Sikhs and the wideness of the door
+order: 12
+summary: >-
+  The scripture is silent on orientation, eloquent on the soul beyond gender, and unambiguous about the floor: everyone sits. An honest essay on queer Sikhs, the debates, and the direction of the bani.
+---
+
+Honesty first, as the open door requires: the Guru Granth Sahib says **nothing** about sexual orientation. Not condemnation, not endorsement — silence. Anyone who tells you the scripture forbids queerness is quoting culture, not canon; anyone who tells you it celebrates queerness is doing the same in the other direction. What the scripture *does* say, at length and on purpose, sits adjacent and points somewhere: the soul, the bani insists, is **beyond gender** — the divine is mother and father, lover and beloved, and the Gurus wrote their deepest theology in the voice of a bride longing for the Beloved, men singing as women without the smallest embarrassment, because the body's accidents were never the spirit's identity. A tradition whose poets crossed gender every time they opened their mouths to God has no native scripture of rigidity to defend.
+
+What it has is the floor. The langar seats everyone — that has been this platform's refrain, and it is not suspended for this essay. A queer Sikh in the sangat is not a guest, a problem, or a debate topic; she is **sangat**, with the same claim to the same daal as the granthi. No Sikh ceremony screens for orientation; no amrit question asks it; the kakaar fit every body that takes them on. The tradition's daily practice is, in fact, already more inclusive than its dinner-table conversation — which is the usual Sikh gap, encountered in essay after essay on this site: the architecture ahead of the inhabitants.
+
+The honest middle of this essay is the debate, reported straight. The community argues — about Anand Karaj for same-sex couples (some diaspora gurdwaras have hosted blessings; institutional bodies have ruled against the full rite; the argument cites, on one side, the Lavan's bride-and-groom imagery, and on the other, the rite's actual theology, which is two souls circling one Guru); about visibility versus izzat; about whether silence in scripture licenses welcome or demands caution. These arguments are real and unfinished, and pretending the Panth has resolved them would patronize everyone involved. But notice what the argument is *about*: the wedding — one ceremony. No serious voice in it proposes what other traditions have spent centuries enforcing: exclusion from worship, from sangat, from seva, from the floor. The fight is over the last room, not the door.
+
+And the direction of travel is set by the tradition's own precedents. Every boundary Sikh history has examined — caste, gender, faith of origin — has resolved the same way, eventually: toward the floor's logic and away from the gate's. Queer Sikhs exist, have always existed, and increasingly refuse the closet's bargain — organizing, writing, taking amrit, doing seva in dastars at Pride and in gurdwaras alike. The platform's position is the one its name imposes. Chardi Kala is not selective uplift. Every seat at the floor means **every seat** — and the daal, as ever, asks nothing before it is served.

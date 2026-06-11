@@ -1,0 +1,112 @@
+.hukamPage {
+  max-width: 860px;
+}
+
+.meta {
+  margin: 2.6rem 0 1.4rem;
+  display: grid;
+  gap: 0.3rem;
+}
+
+.date {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  color: var(--marigold);
+}
+
+.nanakshahi {
+  font-family: var(--font-body);
+  font-style: italic;
+  font-size: 0.95rem;
+  color: var(--cream-dim);
+}
+
+.info {
+  font-style: italic;
+  font-size: 0.95rem;
+  color: var(--cream-dim);
+}
+
+.lines {
+  list-style: none;
+  display: grid;
+  gap: 1.5rem;
+  padding: 2.4rem 2.4rem;
+  border: 1px solid rgba(240, 163, 46, 0.3);
+  border-radius: 16px;
+  background:
+    radial-gradient(120% 50% at 50% 0%, rgba(240, 163, 46, 0.08) 0%, transparent 65%),
+    rgba(16, 23, 51, 0.55);
+}
+
+.line {
+  display: grid;
+  gap: 0.25rem;
+}
+
+.gurmukhi {
+  font-size: 1.6rem;
+  line-height: 1.75;
+  color: var(--cream);
+}
+
+.translit {
+  font-style: italic;
+  font-size: 0.98rem;
+  color: var(--river);
+}
+
+.english {
+  font-size: 1.08rem;
+  line-height: 1.65;
+  color: var(--cream-dim);
+}
+
+.actions {
+  margin-top: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.2rem;
+}
+
+.action {
+  padding: 0.6rem 1.4rem;
+  border: 1px solid var(--saffron);
+  border-radius: 999px;
+  color: var(--marigold);
+  font-size: 0.98rem;
+  transition: background 0.25s var(--ease-soft), color 0.25s var(--ease-soft);
+}
+
+.action:hover {
+  background: var(--saffron);
+  color: var(--night);
+}
+
+.actionSecondary {
+  font-style: italic;
+  font-size: 0.95rem;
+  color: var(--cream-dim);
+  border-bottom: 1px solid var(--line);
+}
+
+.actionSecondary:hover {
+  color: var(--marigold);
+}
+
+.credits {
+  margin-top: 2.6rem;
+  font-size: 0.86rem;
+  font-style: italic;
+  color: var(--muted);
+}
+
+@media (max-width: 560px) {
+  .lines {
+    padding: 1.4rem 1.2rem;
+  }
+  .gurmukhi {
+    font-size: 1.3rem;
+  }
+}

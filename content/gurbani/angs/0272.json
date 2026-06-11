@@ -1,0 +1,371 @@
+{
+ "ang": 272,
+ "lines": [
+  {
+   "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਕਲੂਖਤ ਹਰੈ ॥",
+   "translit": "saadh kai sang kalookhat harai |",
+   "english": "In the Company of the Holy, blemishes are removed.",
+   "shabadId": "CKH"
+  },
+  {
+   "gurmukhi": "ਦਰਸਨੁ ਭੇਟਤ ਹੋਤ ਨਿਹਾਲ ॥",
+   "translit": "darasan bhettat hot nihaal |",
+   "english": "The Blessed Vision of their Darshan brings a sublime, happy peace.",
+   "shabadId": "CKH"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਸਾਧ ਕੈ ਸੰਗਿ ਸਫਲ ਜਨੰਮ ॥੫॥",
+   "translit": "naanak saadh kai sang safal janam |5|",
+   "english": "O Nanak, in the Company of the Holy, one's life becomes fruitful. ||5||",
+   "shabadId": "CT2"
+  },
+  {
+   "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਨਹੀ ਕਛੁ ਘਾਲ ॥",
+   "translit": "saadh kai sang nahee kachh ghaal |",
+   "english": "In the Company of the Holy, there is no suffering.",
+   "shabadId": "CKH"
+  },
+  {
+   "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਨਰਕ ਪਰਹਰੈ ॥",
+   "translit": "saadh kai sang narak paraharai |",
+   "english": "In the Company of the Holy, hell is far away.",
+   "shabadId": "CKH"
+  },
+  {
+   "gurmukhi": "ਸਾਧਸੰਗਿ ਬਿਛੁਰਤ ਹਰਿ ਮੇਲਾ ॥",
+   "translit": "saadhasang bichhurat har melaa |",
+   "english": "In the Company of the Holy, the separated ones are reunited with the Lord.",
+   "shabadId": "CKH"
+  },
+  {
+   "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਈਹਾ ਊਹਾ ਸੁਹੇਲਾ ॥",
+   "translit": "saadh kai sang eehaa aoohaa suhelaa |",
+   "english": "In the Company of the Holy, one is happy here and hereafter.",
+   "shabadId": "CKH"
+  },
+  {
+   "gurmukhi": "ਜੋ ਇਛੈ ਸੋਈ ਫਲੁ ਪਾਵੈ ॥",
+   "translit": "jo ichhai soee fal paavai |",
+   "english": "The fruits of one's desires are obtained.",
+   "shabadId": "CKH"
+  },
+  {
+   "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਨ ਬਿਰਥਾ ਜਾਵੈ ॥",
+   "translit": "saadh kai sang na birathaa jaavai |",
+   "english": "In the Company of the Holy, no one goes empty-handed.",
+   "shabadId": "CKH"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਉਧਰੈ ਸਾਧ ਸੁਨਿ ਰਸੈ ॥੬॥",
+   "translit": "naanak udharai saadh sun rasai |6|",
+   "english": "O Nanak, listening to the sweet words of the Holy, one is saved. ||6||",
+   "shabadId": "CKH"
+  },
+  {
+   "gurmukhi": "ਪਾਰਬ੍ਰਹਮੁ ਸਾਧ ਰਿਦ ਬਸੈ ॥",
+   "translit": "paarabraham saadh rid basai |",
+   "english": "The Supreme Lord God dwells in the hearts of the Holy.",
+   "shabadId": "CKH"
+  },
+  {
+   "gurmukhi": "ਸਾਧਸੰਗਿ ਹਰਿ ਕੇ ਗੁਨ ਗਾਉ ॥",
+   "translit": "saadhasang har ke gun gaau |",
+   "english": "In the Company of the Holy, sing the Glorious Praises of the Lord.",
+   "shabadId": "GPX"
+  },
+  {
+   "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਸੁਨਉ ਹਰਿ ਨਾਉ ॥",
+   "translit": "saadh kai sang sunau har naau |",
+   "english": "In the Company of the Holy, listen to the Name of the Lord.",
+   "shabadId": "GPX"
+  },
+  {
+   "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਨ ਮਨ ਤੇ ਬਿਸਰੈ ॥",
+   "translit": "saadh kai sang na man te bisarai |",
+   "english": "In the Company of the Holy, do not forget Him from your mind.",
+   "shabadId": "GPX"
+  },
+  {
+   "gurmukhi": "ਸਾਧੂ ਕੈ ਸੰਗਿ ਘਟਿ ਘਟਿ ਡੀਠਾ ॥",
+   "translit": "saadhoo kai sang ghatt ghatt ddeetthaa |",
+   "english": "In the Company of the Holy, He is seen in each and every heart.",
+   "shabadId": "GPX"
+  },
+  {
+   "gurmukhi": "ਸਾਧਸੰਗਿ ਸਰਪਰ ਨਿਸਤਰੈ ॥",
+   "translit": "saadhasang sarapar nisatarai |",
+   "english": "In the Company of the Holy, you shall surely be saved.",
+   "shabadId": "GPX"
+  },
+  {
+   "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਲਗੈ ਪ੍ਰਭੁ ਮੀਠਾ ॥",
+   "translit": "saadh kai sang lagai prabh meetthaa |",
+   "english": "In the Company of the Holy, God seems very sweet.",
+   "shabadId": "GPX"
+  },
+  {
+   "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਮਿਟੇ ਸਭਿ ਰੋਗ ॥",
+   "translit": "saadh kai sang mitte sabh rog |",
+   "english": "In the Company of the Holy, all diseases are cured.",
+   "shabadId": "GPX"
+  },
+  {
+   "gurmukhi": "ਸਾਧਸੰਗਿ ਗਤਿ ਭਈ ਹਮਾਰੀ ॥",
+   "translit": "saadhasang gat bhee hamaaree |",
+   "english": "In the Company of the Holy, we obtain the state of salvation.",
+   "shabadId": "GPX"
+  },
+  {
+   "gurmukhi": "ਸਾਧਸੰਗਿ ਭਏ ਆਗਿਆਕਾਰੀ ॥",
+   "translit": "saadhasang bhe aagiaakaaree |",
+   "english": "In the Company of the Holy, we become obedient to the Lord.",
+   "shabadId": "GPX"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਸਾਧ ਭੇਟੇ ਸੰਜੋਗ ॥੭॥",
+   "translit": "naanak saadh bhette sanjog |7|",
+   "english": "O Nanak, one meets with the Holy, by highest destiny. ||7||",
+   "shabadId": "GPX"
+  },
+  {
+   "gurmukhi": "ਸਾਧ ਕੀ ਉਪਮਾ ਤਿਹੁ ਗੁਣ ਤੇ ਦੂਰਿ ॥",
+   "translit": "saadh kee upamaa tihu gun te door |",
+   "english": "The greatness of the Holy people is beyond the three qualities.",
+   "shabadId": "EEW"
+  },
+  {
+   "gurmukhi": "ਜੇਤਾ ਸੁਨਹਿ ਤੇਤਾ ਬਖਿਆਨਹਿ ॥",
+   "translit": "jetaa suneh tetaa bakhiaaneh |",
+   "english": "They can describe only what they have heard.",
+   "shabadId": "EEW"
+  },
+  {
+   "gurmukhi": "ਸਾਧ ਕੀ ਮਹਿਮਾ ਬੇਦ ਨ ਜਾਨਹਿ ॥",
+   "translit": "saadh kee mahimaa bed na jaaneh |",
+   "english": "The glory of the Holy people is not known to the Vedas.",
+   "shabadId": "EEW"
+  },
+  {
+   "gurmukhi": "ਸਾਧ ਕੀ ਸੋਭਾ ਸਦਾ ਬੇਅੰਤ ॥",
+   "translit": "saadh kee sobhaa sadaa beant |",
+   "english": "The glory of the Holy people is infinite and eternal.",
+   "shabadId": "EEW"
+  },
+  {
+   "gurmukhi": "ਸਾਧ ਕੀ ਉਪਮਾ ਰਹੀ ਭਰਪੂਰਿ ॥",
+   "translit": "saadh kee upamaa rahee bharapoor |",
+   "english": "The greatness of the Holy people is all-pervading.",
+   "shabadId": "EEW"
+  },
+  {
+   "gurmukhi": "ਸਾਧ ਕੀ ਸੋਭਾ ਕਾ ਨਾਹੀ ਅੰਤ ॥",
+   "translit": "saadh kee sobhaa kaa naahee ant |",
+   "english": "The glory of the Holy people has no limit.",
+   "shabadId": "EEW"
+  },
+  {
+   "gurmukhi": "ਸਾਧ ਕੀ ਸੋਭਾ ਊਚ ਤੇ ਊਚੀ ॥",
+   "translit": "saadh kee sobhaa aooch te aoochee |",
+   "english": "The glory of the Holy people is the highest of the high.",
+   "shabadId": "EEW"
+  },
+  {
+   "gurmukhi": "ਸਾਧ ਕੀ ਸੋਭਾ ਸਾਧ ਬਨਿ ਆਈ ॥",
+   "translit": "saadh kee sobhaa saadh ban aaee |",
+   "english": "The glory of the Holy people is theirs alone;",
+   "shabadId": "EEW"
+  },
+  {
+   "gurmukhi": "ਸਾਧ ਕੀ ਸੋਭਾ ਮੂਚ ਤੇ ਮੂਚੀ ॥",
+   "translit": "saadh kee sobhaa mooch te moochee |",
+   "english": "The glory of the Holy people is the greatest of the great.",
+   "shabadId": "EEW"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਸਾਧ ਪ੍ਰਭ ਭੇਦੁ ਨ ਭਾਈ ॥੮॥੭॥",
+   "translit": "naanak saadh prabh bhed na bhaaee |8|7|",
+   "english": "O Nanak, there is no difference between the Holy people and God. ||8||7||",
+   "shabadId": "EEW"
+  },
+  {
+   "gurmukhi": "ਸਲੋਕੁ ॥",
+   "translit": "salok |",
+   "english": "Salok:",
+   "shabadId": "XWW"
+  },
+  {
+   "gurmukhi": "ਅਵਰੁ ਨ ਪੇਖੈ ਏਕਸੁ ਬਿਨੁ ਕੋਇ ॥",
+   "translit": "avar na pekhai ekas bin koe |",
+   "english": "He sees only the One.",
+   "shabadId": "XWW"
+  },
+  {
+   "gurmukhi": "ਮਨਿ ਸਾਚਾ ਮੁਖਿ ਸਾਚਾ ਸੋਇ ॥",
+   "translit": "man saachaa mukh saachaa soe |",
+   "english": "The True One is on his mind, and the True One is upon his lips.",
+   "shabadId": "XWW"
+  },
+  {
+   "gurmukhi": "ਜੈਸੇ ਜਲ ਮਹਿ ਕਮਲ ਅਲੇਪ ॥",
+   "translit": "jaise jal meh kamal alep |",
+   "english": "as the lotus in the water remains detached.",
+   "shabadId": "F5A"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਇਹ ਲਛਣ ਬ੍ਰਹਮ ਗਿਆਨੀ ਹੋਇ ॥੧॥",
+   "translit": "naanak ih lachhan braham giaanee hoe |1|",
+   "english": "O Nanak, these are the qualities of the God-conscious being. ||1||",
+   "shabadId": "XWW"
+  },
+  {
+   "gurmukhi": "ਅਸਟਪਦੀ ॥",
+   "translit": "asattapadee |",
+   "english": "Ashtapadee:",
+   "shabadId": "F5A"
+  },
+  {
+   "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਸਦਾ ਨਿਰਲੇਪ ॥",
+   "translit": "braham giaanee sadaa niralep |",
+   "english": "The God-conscious being is always unattached,",
+   "shabadId": "F5A"
+  },
+  {
+   "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੈ ਦ੍ਰਿਸਟਿ ਸਮਾਨਿ ॥",
+   "translit": "braham giaanee kai drisatt samaan |",
+   "english": "The God-conscious being looks upon all alike,",
+   "shabadId": "F5A"
+  },
+  {
+   "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਸਦਾ ਨਿਰਦੋਖ ॥",
+   "translit": "braham giaanee sadaa niradokh |",
+   "english": "The God-conscious being is always unstained,",
+   "shabadId": "F5A"
+  },
+  {
+   "gurmukhi": "ਜੈਸੇ ਸੂਰੁ ਸਰਬ ਕਉ ਸੋਖ ॥",
+   "translit": "jaise soor sarab kau sokh |",
+   "english": "like the sun, which gives its comfort and warmth to all.",
+   "shabadId": "F5A"
+  },
+  {
+   "gurmukhi": "ਜੈਸੇ ਰਾਜ ਰੰਕ ਕਉ ਲਾਗੈ ਤੁਲਿ ਪਵਾਨ ॥",
+   "translit": "jaise raaj rank kau laagai tul pavaan |",
+   "english": "like the wind, which blows equally upon the king and the poor beggar.",
+   "shabadId": "F5A"
+  },
+  {
+   "gurmukhi": "ਜਿਉ ਬਸੁਧਾ ਕੋਊ ਖੋਦੈ ਕੋਊ ਚੰਦਨ ਲੇਪ ॥",
+   "translit": "jiau basudhaa koaoo khodai koaoo chandan lep |",
+   "english": "like the earth, which is dug up by one, and anointed with sandal paste by another.",
+   "shabadId": "F5A"
+  },
+  {
+   "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੈ ਧੀਰਜੁ ਏਕ ॥",
+   "translit": "braham giaanee kai dheeraj ek |",
+   "english": "The God-conscious being has a steady patience,",
+   "shabadId": "F5A"
+  },
+  {
+   "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕਾ ਇਹੈ ਗੁਨਾਉ ॥",
+   "translit": "braham giaanee kaa ihai gunaau |",
+   "english": "This is the quality of the God-conscious being:",
+   "shabadId": "F5A"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਜਿਉ ਪਾਵਕ ਕਾ ਸਹਜ ਸੁਭਾਉ ॥੧॥",
+   "translit": "naanak jiau paavak kaa sehaj subhaau |1|",
+   "english": "O Nanak, his inherent nature is like a warming fire. ||1||",
+   "shabadId": "F5A"
+  },
+  {
+   "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੈ ਮਨਿ ਹੋਇ ਪ੍ਰਗਾਸੁ ॥",
+   "translit": "braham giaanee kai man hoe pragaas |",
+   "english": "The God-conscious being's mind is enlightened,",
+   "shabadId": "2AT"
+  },
+  {
+   "gurmukhi": "ਜੈਸੇ ਮੈਲੁ ਨ ਲਾਗੈ ਜਲਾ ॥",
+   "translit": "jaise mail na laagai jalaa |",
+   "english": "filth does not stick to water.",
+   "shabadId": "2AT"
+  },
+  {
+   "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਨਿਰਮਲ ਤੇ ਨਿਰਮਲਾ ॥",
+   "translit": "braham giaanee niramal te niramalaa |",
+   "english": "The God-conscious being is the purest of the pure;",
+   "shabadId": "2AT"
+  },
+  {
+   "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੈ ਮਿਤ੍ਰ ਸਤ੍ਰੁ ਸਮਾਨਿ ॥",
+   "translit": "braham giaanee kai mitr satru samaan |",
+   "english": "To the God-conscious being, friend and foe are the same.",
+   "shabadId": "2AT"
+  },
+  {
+   "gurmukhi": "ਜੈਸੇ ਧਰ ਊਪਰਿ ਆਕਾਸੁ ॥",
+   "translit": "jaise dhar aoopar aakaas |",
+   "english": "like the sky above the earth.",
+   "shabadId": "2AT"
+  },
+  {
+   "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੈ ਨਾਹੀ ਅਭਿਮਾਨ ॥",
+   "translit": "braham giaanee kai naahee abhimaan |",
+   "english": "The God-conscious being has no egotistical pride.",
+   "shabadId": "2AT"
+  },
+  {
+   "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਸੇ ਜਨ ਭਏ ॥",
+   "translit": "braham giaanee se jan bhe |",
+   "english": "They alone become God-conscious beings,",
+   "shabadId": "2AT"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਜਿਨ ਪ੍ਰਭੁ ਆਪਿ ਕਰੇਇ ॥੨॥",
+   "translit": "naanak jin prabh aap karee |2|",
+   "english": "O Nanak, whom God Himself makes so. ||2||",
+   "shabadId": "2AT"
+  },
+  {
+   "gurmukhi": "ਮਨਿ ਅਪਨੈ ਹੈ ਸਭ ਤੇ ਨੀਚਾ ॥",
+   "translit": "man apanai hai sabh te neechaa |",
+   "english": "Within his own mind, he is the most humble of all.",
+   "shabadId": "2AT"
+  },
+  {
+   "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਊਚ ਤੇ ਊਚਾ ॥",
+   "translit": "braham giaanee aooch te aoochaa |",
+   "english": "The God-conscious being is the highest of the high.",
+   "shabadId": "2AT"
+  },
+  {
+   "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੀ ਸਭ ਊਪਰਿ ਮਇਆ ॥",
+   "translit": "braham giaanee kee sabh aoopar meaa |",
+   "english": "The God-conscious being shows kindness to all.",
+   "shabadId": "FJV"
+  },
+  {
+   "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਸਗਲ ਕੀ ਰੀਨਾ ॥",
+   "translit": "braham giaanee sagal kee reenaa |",
+   "english": "The God-conscious being is the dust of all.",
+   "shabadId": "FJV"
+  },
+  {
+   "gurmukhi": "ਆਤਮ ਰਸੁ ਬ੍ਰਹਮ ਗਿਆਨੀ ਚੀਨਾ ॥",
+   "translit": "aatam ras braham giaanee cheenaa |",
+   "english": "The God-conscious being knows the nature of the soul.",
+   "shabadId": "FJV"
+  },
+  {
+   "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਸਦਾ ਸਮਦਰਸੀ ॥",
+   "translit": "braham giaanee sadaa samadarasee |",
+   "english": "The God-conscious being is always impartial.",
+   "shabadId": "FJV"
+  },
+  {
+   "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਤੇ ਕਛੁ ਬੁਰਾ ਨ ਭਇਆ ॥",
+   "translit": "braham giaanee te kachh buraa na bheaa |",
+   "english": "No evil comes from the God-conscious being.",
+   "shabadId": "FJV"
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+.opening {
+  margin: 3rem 0 2.5rem;
+  padding: 2rem 2.2rem;
+  text-align: center;
+  border: 1px solid rgba(240, 163, 46, 0.3);
+  border-radius: 14px;
+  background:
+    radial-gradient(110% 80% at 50% 0%, rgba(240, 163, 46, 0.08) 0%, transparent 60%),
+    rgba(16, 23, 51, 0.55);
+}
+
+.openingGurmukhi {
+  font-size: clamp(1.3rem, 3vw, 1.8rem);
+  line-height: 1.7;
+  color: var(--cream);
+}
+
+.openingEnglish {
+  margin-top: 0.9rem;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.05rem;
+  color: var(--marigold);
+}
+
+.jumpRow {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1.2rem;
+  margin-bottom: 3.2rem;
+}
+
+.beginLink {
+  padding: 0.55rem 1.4rem;
+  border: 1px solid var(--saffron);
+  border-radius: 999px;
+  color: var(--marigold);
+  font-size: 0.97rem;
+  transition: background 0.25s var(--ease-soft), color 0.25s var(--ease-soft);
+}
+
+.beginLink:hover {
+  background: var(--saffron);
+  color: var(--night);
+}
+
+.waypointsTitle {
+  font-family: var(--font-display);
+  font-weight: 540;
+  font-size: 1.5rem;
+  margin-bottom: 1.2rem;
+}
+
+.waypoints {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+.waypoint {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  height: 100%;
+  padding: 1.1rem 1.2rem;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: rgba(16, 23, 51, 0.5);
+  transition: border-color 0.3s var(--ease-soft), transform 0.3s var(--ease-soft);
+}
+
+.waypoint:hover {
+  border-color: rgba(240, 163, 46, 0.45);
+  transform: translateY(-2px);
+}
+
+.waypointAng {
+  font-size: 0.8rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--saffron);
+}
+
+.waypointName {
+  font-family: var(--font-display);
+  font-weight: 540;
+  font-size: 1.15rem;
+}
+
+.waypointNote {
+  font-size: 0.88rem;
+  font-style: italic;
+  color: var(--cream-dim);
+}
+
+.credits {
+  margin-top: 3.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--line);
+  font-size: 0.88rem;
+  font-style: italic;
+  color: var(--muted);
+  display: grid;
+  gap: 0.3rem;
+}
+
+@media (max-width: 760px) {
+  .waypoints {
+    grid-template-columns: 1fr;
+  }
+}

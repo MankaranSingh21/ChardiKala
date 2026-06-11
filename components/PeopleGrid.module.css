@@ -1,0 +1,85 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.6rem;
+  margin-top: 4rem;
+}
+
+/* asymmetry: alternate cards sit slightly lower, like a phulkari offset weave */
+.card:nth-child(even) {
+  transform: translateY(1.6rem);
+}
+
+.card {
+  position: relative;
+  padding: 2rem 2rem 1.8rem;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background:
+    radial-gradient(120% 70% at 85% 0%, rgba(240, 163, 46, 0.06) 0%, transparent 55%),
+    rgba(16, 23, 51, 0.5);
+  transition: border-color 0.3s var(--ease-soft);
+}
+
+.card:hover {
+  border-color: rgba(240, 163, 46, 0.4);
+}
+
+.punjabi {
+  font-size: 1.15rem;
+  color: var(--saffron);
+}
+
+.name {
+  font-family: var(--font-display);
+  font-weight: 560;
+  font-size: 1.7rem;
+  line-height: 1.12;
+  margin: 0.3rem 0 0.5rem;
+}
+
+.role {
+  font-size: 0.97rem;
+  color: var(--cream-dim);
+  line-height: 1.5;
+}
+
+.era {
+  margin-top: 0.35rem;
+  font-style: italic;
+  font-size: 0.88rem;
+  color: var(--muted);
+}
+
+.quote {
+  margin: 1.4rem 0;
+  padding: 0.2rem 0 0.2rem 1.1rem;
+  border-left: 2px solid var(--saffron);
+}
+
+.quote p {
+  font-family: var(--font-display);
+  font-weight: 420;
+  font-style: italic;
+  font-size: 1.18rem;
+  line-height: 1.5;
+  color: var(--cream);
+}
+
+.quote p::before { content: "“"; color: var(--saffron); }
+.quote p::after { content: "”"; color: var(--saffron); }
+
+.note {
+  font-size: 0.96rem;
+  line-height: 1.65;
+  color: var(--cream-dim);
+}
+
+@media (max-width: 760px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+  .card:nth-child(even) {
+    transform: none;
+  }
+}

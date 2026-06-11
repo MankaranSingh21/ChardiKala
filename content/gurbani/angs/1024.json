@@ -1,0 +1,293 @@
+{
+ "ang": 1024,
+ "lines": [
+  {
+   "gurmukhi": "ਗੁਰਮੁਖਿ ਵਿਰਲਾ ਚੀਨੈ ਕੋਈ ॥",
+   "translit": "guramukh viralaa cheenai koee |",
+   "english": "Only a few, as Gurmukh, remembered the Lord.",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਦੁਇ ਪਗ ਧਰਮੁ ਧਰੇ ਧਰਣੀਧਰ ਗੁਰਮੁਖਿ ਸਾਚੁ ਤਿਥਾਈ ਹੇ ॥੮॥",
+   "translit": "due pag dharam dhare dharaneedhar guramukh saach tithaaee he |8|",
+   "english": "Dharmic faith, which upholds and supports the earth, had only two feet; Truth was revealed to the Gurmukhs. ||8||",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਰਾਜੇ ਧਰਮੁ ਕਰਹਿ ਪਰਥਾਏ ॥",
+   "translit": "raaje dharam kareh parathaae |",
+   "english": "The kings acted righteously only out of self-interest.",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਰਾਮ ਨਾਮ ਬਿਨੁ ਮੁਕਤਿ ਨ ਹੋਈ ਥਾਕੇ ਕਰਮ ਕਮਾਈ ਹੇ ॥੯॥",
+   "translit": "raam naam bin mukat na hoee thaake karam kamaaee he |9|",
+   "english": "Without the Lord's Name, liberation did not come, although they grew weary of performing rituals. ||9||",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਆਸਾ ਬੰਧੇ ਦਾਨੁ ਕਰਾਏ ॥",
+   "translit": "aasaa bandhe daan karaae |",
+   "english": "Tied to hopes of reward, they gave to charities.",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਗੁਰਸਬਦੈ ਮੁਕਤਿ ਨ ਹੋਈ ਪਰਪੰਚੁ ਕਰਿ ਭਰਮਾਈ ਹੇ ॥੧੦॥",
+   "translit": "bin gurasabadai mukat na hoee parapanch kar bharamaaee he |10|",
+   "english": "Without the Word of the Guru's Shabad, liberation is not obtained; practicing hypocrisy, they wander around confused. ||10||",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਮੁਕਤਿ ਪਦਾਰਥੁ ਸਬਦਿ ਸਲਾਹੀ ॥",
+   "translit": "mukat padaarath sabad salaahee |",
+   "english": "but the treasure of liberation comes only by praising the Shabad.",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਕਰਮ ਧਰਮ ਕਰਿ ਮੁਕਤਿ ਮੰਗਾਹੀ ॥",
+   "translit": "karam dharam kar mukat mangaahee |",
+   "english": "Practicing religious rituals, they sought liberation,",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਮਾਇਆ ਮਮਤਾ ਛੋਡੀ ਨ ਜਾਈ ॥",
+   "translit": "maaeaa mamataa chhoddee na jaaee |",
+   "english": "Love and attachment to Maya cannot be abandoned.",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਅਹਿਨਿਸਿ ਭਗਤਿ ਰਤੇ ਵੀਚਾਰੀ ਠਾਕੁਰ ਸਿਉ ਬਣਿ ਆਈ ਹੇ ॥੧੧॥",
+   "translit": "ahinis bhagat rate veechaaree tthaakur siau ban aaee he |11|",
+   "english": "Day and night, the devotees remain imbued with contemplative meditation; they become just like their Lord and Master. ||11||",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਸੇ ਛੂਟੇ ਸਚੁ ਕਾਰ ਕਮਾਈ ॥",
+   "translit": "se chhootte sach kaar kamaaee |",
+   "english": "They alone find release, who practice deeds of Truth.",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਇਕਿ ਜਪ ਤਪ ਕਰਿ ਕਰਿ ਤੀਰਥ ਨਾਵਹਿ ॥",
+   "translit": "eik jap tap kar kar teerath naaveh |",
+   "english": "Some chant and practice intensive meditation, and take cleansing baths at sacred shrines of pilgrimage.",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਜਿਉ ਤੁਧੁ ਭਾਵੈ ਤਿਵੈ ਚਲਾਵਹਿ ॥",
+   "translit": "jiau tudh bhaavai tivai chalaaveh |",
+   "english": "They walk as You will them to walk.",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਹਠਿ ਨਿਗ੍ਰਹਿ ਅਪਤੀਜੁ ਨ ਭੀਜੈ ਬਿਨੁ ਹਰਿ ਗੁਰ ਕਿਨਿ ਪਤਿ ਪਾਈ ਹੇ ॥੧੨॥",
+   "translit": "hatth nigreh apateej na bheejai bin har gur kin pat paaee he |12|",
+   "english": "By stubborn rituals of self-suppression, the Lord is not pleased. No one has ever obtained honor, without the Lord, without the Guru. ||12||",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਕਲੀ ਕਾਲ ਮਹਿ ਇਕ ਕਲ ਰਾਖੀ ॥",
+   "translit": "kalee kaal meh ik kal raakhee |",
+   "english": "In the Iron Age, the Dark Age of Kali Yuga, only one power remains.",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਗੁਰ ਪੂਰੇ ਕਿਨੈ ਨ ਭਾਖੀ ॥",
+   "translit": "bin gur poore kinai na bhaakhee |",
+   "english": "Without the Perfect Guru, no one has even described it.",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਮਨਮੁਖਿ ਕੂੜੁ ਵਰਤੈ ਵਰਤਾਰਾ ਬਿਨੁ ਸਤਿਗੁਰ ਭਰਮੁ ਨ ਜਾਈ ਹੇ ॥੧੩॥",
+   "translit": "manamukh koorr varatai varataaraa bin satigur bharam na jaaee he |13|",
+   "english": "The self-willed manmukhs have staged the show of falsehood. Without the True Guru, doubt does not depart. ||13||",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਜੋ ਤਿਸੁ ਸੇਵੇ ਸੋ ਅਬਿਨਾਸੀ ਨਾ ਤਿਸੁ ਕਾਲੁ ਸੰਤਾਈ ਹੇ ॥੧੪॥",
+   "translit": "jo tis seve so abinaasee naa tis kaal santaaee he |14|",
+   "english": "Whoever serves Him becomes immortal and imperishable, and will not be tortured by death. ||14||",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਨਾ ਜਮ ਕਾਣਿ ਨ ਛੰਦਾ ਬੰਦਾ ॥",
+   "translit": "naa jam kaan na chhandaa bandaa |",
+   "english": "He does not fear death, and He is not dependent on mortal men.",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਸਤਿਗੁਰੁ ਵੇਪਰਵਾਹੁ ਸਿਰੰਦਾ ॥",
+   "translit": "satigur veparavaahu sirandaa |",
+   "english": "The True Guru is the Creator Lord, independent and carefree.",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਗੁਰਮੁਖਿ ਕੋਟਿ ਅਸੰਖ ਉਧਾਰੇ ॥",
+   "translit": "guramukh kott asankh udhaare |",
+   "english": "The Gurmukh saves countless millions.",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਗੁਰ ਮਹਿ ਆਪੁ ਰਖਿਆ ਕਰਤਾਰੇ ॥",
+   "translit": "gur meh aap rakhiaa karataare |",
+   "english": "The Creator Lord has enshrined Himself within the Guru.",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਸਗਲੇ ਜਾਚਹਿ ਗੁਰ ਭੰਡਾਰੀ ॥",
+   "translit": "sagale jaacheh gur bhanddaaree |",
+   "english": "Everyone begs from the Guru, God's Treasurer.",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਸਰਬ ਜੀਆ ਜਗਜੀਵਨੁ ਦਾਤਾ ਨਿਰਭਉ ਮੈਲੁ ਨ ਕਾਈ ਹੇ ॥੧੫॥",
+   "translit": "sarab jeea jagajeevan daataa nirbhau mail na kaaee he |15|",
+   "english": "The Life of the World is the Great Giver of all beings. The Fearless Lord has no filth at all. ||15||",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕੁ ਸਾਚੁ ਕਹੈ ਪ੍ਰਭ ਜਾਚੈ ਮੈ ਦੀਜੈ ਸਾਚੁ ਰਜਾਈ ਹੇ ॥੧੬॥੪॥",
+   "translit": "naanak saach kahai prabh jaachai mai deejai saach rajaaee he |16|4|",
+   "english": "Nanak speaks the Truth; he begs from God. Please bless me with the Truth, by Your Will. ||16||4||",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਆਪਿ ਨਿਰੰਜਨੁ ਅਲਖ ਅਪਾਰੀ ॥",
+   "translit": "aap niranjan alakh apaaree |",
+   "english": "He Himself is the immaculate, unknowable, infinite Lord.",
+   "shabadId": "48S"
+  },
+  {
+   "gurmukhi": "ਤ੍ਰਿਭਵਣ ਜੋਤਿ ਧਰੀ ਪਰਮੇਸਰਿ ਅਵਰੁ ਨ ਦੂਜਾ ਭਾਈ ਹੇ ॥੧॥",
+   "translit": "tribhavan jot dharee paramesar avar na doojaa bhaaee he |1|",
+   "english": "The Light of the Transcendent Lord pervades the three worlds; there is no other at all, O Siblings of Destiny. ||1||",
+   "shabadId": "BGR"
+  },
+  {
+   "gurmukhi": "ਸਾਚੈ ਮੇਲੇ ਸਬਦਿ ਮਿਲਾਏ ॥",
+   "translit": "saachai mele sabad milaae |",
+   "english": "The True Lord unites with those who are united with the Word of the Shabad.",
+   "shabadId": "BGR"
+  },
+  {
+   "gurmukhi": "ਜਾ ਤਿਸੁ ਭਾਣਾ ਸਹਜਿ ਸਮਾਏ ॥",
+   "translit": "jaa tis bhaanaa sehaj samaae |",
+   "english": "When it pleases Him, we intuitively merge with Him.",
+   "shabadId": "BGR"
+  },
+  {
+   "gurmukhi": "ਮਾਰੂ ਮਹਲਾ ੧ ॥",
+   "translit": "maaroo mahalaa 1 |",
+   "english": "Maaroo, First Mehl:",
+   "shabadId": "BGR"
+  },
+  {
+   "gurmukhi": "ਸਬਦਿ ਪਤੀਜੈ ਅਲਖ ਅਭੇਵਾ ॥",
+   "translit": "sabad pateejai alakh abhevaa |",
+   "english": "He is unknowable and mysterious; He is pleased by the Shabad.",
+   "shabadId": "BGR"
+  },
+  {
+   "gurmukhi": "ਜਿਸ ਕੇ ਚਾਕਰ ਤਿਸ ਕੀ ਸੇਵਾ ॥",
+   "translit": "jis ke chaakar tis kee sevaa |",
+   "english": "I am His servant; I serve Him.",
+   "shabadId": "BGR"
+  },
+  {
+   "gurmukhi": "ਲੈ ਲੈ ਮੁਕਰਿ ਪਉਦੇ ਕਾਚੇ ॥",
+   "translit": "lai lai mukar paude kaache |",
+   "english": "The false ones receive, and then deny having received.",
+   "shabadId": "BGR"
+  },
+  {
+   "gurmukhi": "ਭਗਤਾ ਕਾ ਗੁਣਕਾਰੀ ਕਰਤਾ ਬਖਸਿ ਲਏ ਵਡਿਆਈ ਹੇ ॥੨॥",
+   "translit": "bhagataa kaa gunakaaree karataa bakhas le vaddiaaee he |2|",
+   "english": "The Creator is the Benefactor of His devotees. He forgives them - such is His greatness. ||2||",
+   "shabadId": "BGR"
+  },
+  {
+   "gurmukhi": "ਦੇਦੇ ਤੋਟਿ ਨ ਆਵੈ ਸਾਚੇ ॥",
+   "translit": "dede tott na aavai saache |",
+   "english": "The True Lord gives and gives; His blessings never run short.",
+   "shabadId": "BGR"
+  },
+  {
+   "gurmukhi": "ਸਾਚੇ ਕੀ ਲਿਵ ਗੁਰਮਤਿ ਜਾਤੀ ॥",
+   "translit": "saache kee liv guramat jaatee |",
+   "english": "Following the Guru's Teachings, they know the Love of the True Lord.",
+   "shabadId": "BGR"
+  },
+  {
+   "gurmukhi": "ਮੂਲੁ ਨ ਬੂਝਹਿ ਸਾਚਿ ਨ ਰੀਝਹਿ ਦੂਜੈ ਭਰਮਿ ਭੁਲਾਈ ਹੇ ॥੩॥",
+   "translit": "mool na boojheh saach na reejheh doojai bharam bhulaaee he |3|",
+   "english": "They do not understand their origins, they are not pleased with the Truth, and so they wander in duality and doubt. ||3||",
+   "shabadId": "BGR"
+  },
+  {
+   "gurmukhi": "ਗੁਰਮੁਖਿ ਜਾਗਿ ਰਹੇ ਦਿਨ ਰਾਤੀ ॥",
+   "translit": "guramukh jaag rahe din raatee |",
+   "english": "The Gurmukhs remain awake and aware, day and night.",
+   "shabadId": "BGR"
+  },
+  {
+   "gurmukhi": "ਮਨਮੁਖ ਸੋਇ ਰਹੇ ਸੇ ਲੂਟੇ ਗੁਰਮੁਖਿ ਸਾਬਤੁ ਭਾਈ ਹੇ ॥੪॥",
+   "translit": "manamukh soe rahe se lootte guramukh saabat bhaaee he |4|",
+   "english": "The self-willed manmukhs remain asleep, and are plundered. The Gurmukhs remain safe and sound, O Siblings of Destiny. ||4||",
+   "shabadId": "BGR"
+  },
+  {
+   "gurmukhi": "ਕੂੜੇ ਆਵੈ ਕੂੜੇ ਜਾਵੈ ॥",
+   "translit": "koorre aavai koorre jaavai |",
+   "english": "The false come, and the false go;",
+   "shabadId": "BGR"
+  },
+  {
+   "gurmukhi": "ਸਬਦਿ ਮਿਲੇ ਸੇ ਦਰਗਹ ਪੈਧੇ ਗੁਰਮੁਖਿ ਸੁਰਤਿ ਸਮਾਈ ਹੇ ॥੫॥",
+   "translit": "sabad mile se daragah paidhe guramukh surat samaaee he |5|",
+   "english": "Those who are imbued with the Shabad are robed in honor in the Court of the Lord; the Gurmukhs focus their consciousness on Him. ||5||",
+   "shabadId": "BGR"
+  },
+  {
+   "gurmukhi": "ਕੂੜੇ ਰਾਤੀ ਕੂੜੁ ਕਮਾਵੈ ॥",
+   "translit": "koorre raatee koorr kamaavai |",
+   "english": "imbued with falsehood, they practice only falsehood.",
+   "shabadId": "BGR"
+  },
+  {
+   "gurmukhi": "ਕੂੜਿ ਮੁਠੀ ਠਗੀ ਠਗਵਾੜੀ ॥",
+   "translit": "koorr mutthee tthagee tthagavaarree |",
+   "english": "The false are cheated, and robbed by the robbers.",
+   "shabadId": "BGR"
+  },
+  {
+   "gurmukhi": "ਜਿਉ ਵਾੜੀ ਓਜਾੜਿ ਉਜਾੜੀ ॥",
+   "translit": "jiau vaarree ojaarr ujaarree |",
+   "english": "The garden is laid waste, like the rough wilderness.",
+   "shabadId": "BGR"
+  },
+  {
+   "gurmukhi": "ਨਾਮ ਬਿਨਾ ਕਿਛੁ ਸਾਦਿ ਨ ਲਾਗੈ ਹਰਿ ਬਿਸਰਿਐ ਦੁਖੁ ਪਾਈ ਹੇ ॥੬॥",
+   "translit": "naam binaa kichh saad na laagai har bisariai dukh paaee he |6|",
+   "english": "Without the Naam, the Name of the Lord, nothing tastes sweet; forgetting the Lord, they suffer in sorrow. ||6||",
+   "shabadId": "BGR"
+  },
+  {
+   "gurmukhi": "ਚੀਨੈ ਆਪੁ ਪਛਾਣੈ ਸੋਈ ਜੋਤੀ ਜੋਤਿ ਮਿਲਾਈ ਹੇ ॥੭॥",
+   "translit": "cheenai aap pachhaanai soee jotee jot milaaee he |7|",
+   "english": "One who understands his own self, realizes the Lord. His light merges into the Light. ||7||",
+   "shabadId": "BGR"
+  },
+  {
+   "gurmukhi": "ਨਾਮ ਰਤਨੁ ਸਾਚੀ ਵਡਿਆਈ ॥",
+   "translit": "naam ratan saachee vaddiaaee |",
+   "english": "True is the glorious greatness of the jewel of the Name.",
+   "shabadId": "BGR"
+  },
+  {
+   "gurmukhi": "ਭੋਜਨੁ ਸਾਚੁ ਮਿਲੈ ਆਘਾਈ ॥",
+   "translit": "bhojan saach milai aaghaaee |",
+   "english": "Receiving the food of Truth, one is satisfied.",
+   "shabadId": "BGR"
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+.entryPage {
+  max-width: 800px;
+}
+
+.entryPage :global(.pageKicker) a:hover {
+  color: var(--marigold);
+}
+
+.crumbCategory {
+  color: var(--cream-dim);
+}
+
+.crumbCategory::before {
+  content: "· ";
+  color: var(--muted);
+}
+
+.term {
+  display: flex;
+  align-items: baseline;
+  gap: 0.9rem;
+  flex-wrap: wrap;
+  margin-top: 0.4rem;
+}
+
+.termGurmukhi {
+  font-size: 1.7rem;
+  color: var(--marigold);
+}
+
+.termTranslit {
+  font-style: italic;
+  font-size: 1.05rem;
+  color: var(--cream-dim);
+}
+
+.summary {
+  margin-top: 1.3rem;
+  padding: 1.1rem 1.4rem;
+  border-left: 2px solid var(--saffron);
+  background: rgba(240, 163, 46, 0.05);
+  border-radius: 0 10px 10px 0;
+  font-family: var(--font-display);
+  font-weight: 430;
+  font-style: italic;
+  font-size: 1.12rem;
+  line-height: 1.6;
+  color: var(--cream);
+}
+
+.body {
+  margin-top: 2.2rem;
+  font-size: 1.05rem;
+  line-height: 1.78;
+  color: var(--cream-dim);
+}
+
+.body p {
+  margin-bottom: 1.15rem;
+}
+
+.body p strong {
+  color: var(--cream);
+  font-weight: 600;
+}
+
+.body h2 {
+  font-family: var(--font-display);
+  font-weight: 550;
+  font-size: 1.45rem;
+  color: var(--cream);
+  margin: 2rem 0 0.8rem;
+}
+
+.body blockquote {
+  margin: 1.4rem 0;
+  padding: 0.9rem 1.3rem;
+  border-left: 2px solid var(--river);
+  background: rgba(95, 168, 184, 0.06);
+  border-radius: 0 10px 10px 0;
+  font-style: italic;
+  color: var(--cream);
+}
+
+.body ul {
+  margin: 0 0 1.15rem 1.2rem;
+}
+
+.body li {
+  margin-bottom: 0.4rem;
+}
+
+.body li::marker {
+  color: var(--saffron);
+}
+
+.related {
+  margin-top: 3rem;
+  padding-top: 1.8rem;
+  border-top: 1px solid var(--line);
+}
+
+.relatedTitle {
+  font-family: var(--font-body);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--saffron);
+  margin-bottom: 1rem;
+}
+
+.relatedList {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.6rem;
+}
+
+.relatedLink {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  padding: 0.8rem 1rem;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  font-family: var(--font-display);
+  font-weight: 520;
+  font-size: 1.02rem;
+  transition: border-color 0.25s var(--ease-soft);
+}
+
+.relatedLink:hover {
+  border-color: rgba(240, 163, 46, 0.5);
+}
+
+.relatedCategory {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 0.72rem;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--saffron);
+}
+
+@media (max-width: 560px) {
+  .relatedList {
+    grid-template-columns: 1fr;
+  }
+}

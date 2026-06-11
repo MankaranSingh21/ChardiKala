@@ -1,0 +1,299 @@
+{
+ "ang": 1240,
+ "lines": [
+  {
+   "gurmukhi": "ਪਉੜੀ ॥",
+   "translit": "paurree |",
+   "english": "Pauree:",
+   "shabadId": "MQ5"
+  },
+  {
+   "gurmukhi": "ਆਖਣਿ ਅਉਖਾ ਨਾਨਕਾ ਆਖਿ ਨ ਜਾਪੈ ਆਖਿ ॥੨॥",
+   "translit": "aakhan aaukhaa naanakaa aakh na jaapai aakh |2|",
+   "english": "It is so difficult to chant it, O Nanak; it cannot be chanted with the mouth. ||2||",
+   "shabadId": "47G"
+  },
+  {
+   "gurmukhi": "ਨਾਇ ਸੁਣਿਐ ਮਨੁ ਰਹਸੀਐ ਨਾਮੇ ਸਾਂਤਿ ਆਈ ॥",
+   "translit": "naae suniai man rahaseeai naame saant aaee |",
+   "english": "Hearing the Name, the mind is delighted. The Name brings peace and tranquility.",
+   "shabadId": "MQ5"
+  },
+  {
+   "gurmukhi": "ਨਾਇ ਸੁਣਿਐ ਨਾਉ ਊਪਜੈ ਨਾਮੇ ਵਡਿਆਈ ॥",
+   "translit": "naae suniai naau aoopajai naame vaddiaaee |",
+   "english": "Hearing the Name, one becomes famous; the Name brings glorious greatness.",
+   "shabadId": "MQ5"
+  },
+  {
+   "gurmukhi": "ਨਾਇ ਸੁਣਿਐ ਮਨੁ ਤ੍ਰਿਪਤੀਐ ਸਭ ਦੁਖ ਗਵਾਈ ॥",
+   "translit": "naae suniai man tripateeai sabh dukh gavaaee |",
+   "english": "Hearing the Name, the mind is satisfied, and all pains are taken away.",
+   "shabadId": "MQ5"
+  },
+  {
+   "gurmukhi": "ਗੁਰਮੁਖਿ ਨਾਮੁ ਧਿਆਈਐ ਨਾਨਕ ਲਿਵ ਲਾਈ ॥੬॥",
+   "translit": "guramukh naam dhiaaeeai naanak liv laaee |6|",
+   "english": "The Gurmukh meditates on the Name; Nanak is lovingly attuned to the Name. ||6||",
+   "shabadId": "MQ5"
+  },
+  {
+   "gurmukhi": "ਨਾਮੇ ਹੀ ਸਭ ਜਾਤਿ ਪਤਿ ਨਾਮੇ ਗਤਿ ਪਾਈ ॥",
+   "translit": "naame hee sabh jaat pat naame gat paaee |",
+   "english": "The Name brings all honor and status; through the Name, salvation is obtained.",
+   "shabadId": "MQ5"
+  },
+  {
+   "gurmukhi": "ਜੂਠਿ ਨ ਅੰਨੀ ਜੂਠਿ ਨ ਨਾਈ ॥",
+   "translit": "jootth na anee jootth na naaee |",
+   "english": "Impurity does not come from food; impurity does not come from ritual cleansing baths.",
+   "shabadId": "M57"
+  },
+  {
+   "gurmukhi": "ਸਲੋਕ ਮਹਲਾ ੧ ॥",
+   "translit": "salok mahalaa 1 |",
+   "english": "Salok, First Mehl:",
+   "shabadId": "M57"
+  },
+  {
+   "gurmukhi": "ਜੂਠਿ ਨ ਚੰਦ ਸੂਰਜ ਕੀ ਭੇਦੀ ॥",
+   "translit": "jootth na chand sooraj kee bhedee |",
+   "english": "Impurity does not come from the phases of the sun and the moon.",
+   "shabadId": "M57"
+  },
+  {
+   "gurmukhi": "ਜੂਠਿ ਨ ਰਾਗਂ‍ੀ ਜੂਠਿ ਨ ਵੇਦਂ‍ੀ ॥",
+   "translit": "jootth na raaganee jootth na vedanee |",
+   "english": "Impurity does not come from music; impurity does not come from the Vedas.",
+   "shabadId": "M57"
+  },
+  {
+   "gurmukhi": "ਜੂਠਿ ਨ ਪਉਣੈ ਮਾਹਿ ਸਮਾਣੀ ॥",
+   "translit": "jootth na paunai maeh samaanee |",
+   "english": "Impurity does not come from the air which is diffused everywhere.",
+   "shabadId": "M57"
+  },
+  {
+   "gurmukhi": "ਜੂਠਿ ਨ ਧਰਤੀ ਜੂਠਿ ਨ ਪਾਣੀ ॥",
+   "translit": "jootth na dharatee jootth na paanee |",
+   "english": "Impurity does not come from the earth; impurity does not come from the water.",
+   "shabadId": "M57"
+  },
+  {
+   "gurmukhi": "ਜੂਠਿ ਨ ਮੀਹੁ ਵਰ੍ਹਿਐ ਸਭ ਥਾਈ ॥",
+   "translit": "jootth na meehu varhiai sabh thaaee |",
+   "english": "Impurity does not come from the rain, which falls everywhere.",
+   "shabadId": "M57"
+  },
+  {
+   "gurmukhi": "ਮੁਹਿ ਫੇਰਿਐ ਮੁਹੁ ਜੂਠਾ ਹੋਇ ॥੧॥",
+   "translit": "muhi feriai muhu jootthaa hoe |1|",
+   "english": "Impurity comes from turning one's face away from God. ||1||",
+   "shabadId": "M57"
+  },
+  {
+   "gurmukhi": "ਮਹਲਾ ੧ ॥",
+   "translit": "mahalaa 1 |",
+   "english": "First Mehl:",
+   "shabadId": "UU1"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਨਿਗੁਰਿਆ ਗੁਣੁ ਨਾਹੀ ਕੋਇ ॥",
+   "translit": "naanak niguriaa gun naahee koe |",
+   "english": "O Nanak, the one who has no Guru, has no redeeming virtues at all.",
+   "shabadId": "M57"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਚੁਲੀਆ ਸੁਚੀਆ ਜੇ ਭਰਿ ਜਾਣੈ ਕੋਇ ॥",
+   "translit": "naanak chuleea sucheea je bhar jaanai koe |",
+   "english": "O Nanak, the mouth is truly cleansed by ritual cleansing, if you really know how to do it.",
+   "shabadId": "UU1"
+  },
+  {
+   "gurmukhi": "ਸੁਰਤੇ ਚੁਲੀ ਗਿਆਨ ਕੀ ਜੋਗੀ ਕਾ ਜਤੁ ਹੋਇ ॥",
+   "translit": "surate chulee giaan kee jogee kaa jat hoe |",
+   "english": "For the intuitively aware, cleansing is spiritual wisdom. For the Yogi, it is self-control.",
+   "shabadId": "UU1"
+  },
+  {
+   "gurmukhi": "ਬ੍ਰਹਮਣ ਚੁਲੀ ਸੰਤੋਖ ਕੀ ਗਿਰਹੀ ਕਾ ਸਤੁ ਦਾਨੁ ॥",
+   "translit": "brahaman chulee santokh kee girahee kaa sat daan |",
+   "english": "For the Brahmin, cleansing is contentment; for the householder, it is truth and charity.",
+   "shabadId": "UU1"
+  },
+  {
+   "gurmukhi": "ਰਾਜੇ ਚੁਲੀ ਨਿਆਵ ਕੀ ਪੜਿਆ ਸਚੁ ਧਿਆਨੁ ॥",
+   "translit": "raaje chulee niaav kee parriaa sach dhiaan |",
+   "english": "For the king, cleansing is justice; for the scholar, it is true meditation.",
+   "shabadId": "UU1"
+  },
+  {
+   "gurmukhi": "ਪਾਣੀ ਚਿਤੁ ਨ ਧੋਪਈ ਮੁਖਿ ਪੀਤੈ ਤਿਖ ਜਾਇ ॥",
+   "translit": "paanee chit na dhopee mukh peetai tikh jaae |",
+   "english": "The consciousness is not washed with water; you drink it to quench your thirst.",
+   "shabadId": "UU1"
+  },
+  {
+   "gurmukhi": "ਪਾਣੀ ਪਿਤਾ ਜਗਤ ਕਾ ਫਿਰਿ ਪਾਣੀ ਸਭੁ ਖਾਇ ॥੨॥",
+   "translit": "paanee pitaa jagat kaa fir paanee sabh khaae |2|",
+   "english": "Water is the father of the world; in the end, water destroys it all. ||2||",
+   "shabadId": "UU1"
+  },
+  {
+   "gurmukhi": "ਪਉੜੀ ॥",
+   "translit": "paurree |",
+   "english": "Pauree:",
+   "shabadId": "91J"
+  },
+  {
+   "gurmukhi": "ਨਾਇ ਸੁਣਿਐ ਸਭ ਸਿਧਿ ਹੈ ਰਿਧਿ ਪਿਛੈ ਆਵੈ ॥",
+   "translit": "naae suniai sabh sidh hai ridh pichhai aavai |",
+   "english": "Hearing the Name, all supernatural spiritual powers are obtained, and wealth follows along.",
+   "shabadId": "91J"
+  },
+  {
+   "gurmukhi": "ਨਾਇ ਸੁਣਿਐ ਸੰਤੋਖੁ ਹੋਇ ਕਵਲਾ ਚਰਨ ਧਿਆਵੈ ॥",
+   "translit": "naae suniai santokh hoe kavalaa charan dhiaavai |",
+   "english": "Hearing the Name, contentment comes, and Maya meditates at one's feet.",
+   "shabadId": "91J"
+  },
+  {
+   "gurmukhi": "ਨਾਇ ਸੁਣਿਐ ਨਉ ਨਿਧਿ ਮਿਲੈ ਮਨ ਚਿੰਦਿਆ ਪਾਵੈ ॥",
+   "translit": "naae suniai nau nidh milai man chindiaa paavai |",
+   "english": "Hearing the Name, the nine treasures are received, and the mind's desires are obtained.",
+   "shabadId": "91J"
+  },
+  {
+   "gurmukhi": "ਗੁਰਮਤੀ ਨਾਉ ਪਾਈਐ ਨਾਨਕ ਗੁਣ ਗਾਵੈ ॥੭॥",
+   "translit": "guramatee naau paaeeai naanak gun gaavai |7|",
+   "english": "Through the Guru's Teachings, the Name is obtained; O Nanak, sing His Glorious Praises. ||7||",
+   "shabadId": "91J"
+  },
+  {
+   "gurmukhi": "ਨਾਇ ਸੁਣਿਐ ਸਹਜੁ ਊਪਜੈ ਸਹਜੇ ਸੁਖੁ ਪਾਵੈ ॥",
+   "translit": "naae suniai sehaj aoopajai sahaje sukh paavai |",
+   "english": "Hearing the Name, intuitive peace and poise wells up.",
+   "shabadId": "91J"
+  },
+  {
+   "gurmukhi": "ਸਲੋਕ ਮਹਲਾ ੧ ॥",
+   "translit": "salok mahalaa 1 |",
+   "english": "Salok, First Mehl:",
+   "shabadId": "W7D"
+  },
+  {
+   "gurmukhi": "ਦੁਖੁ ਦੁਖੁ ਅਗੈ ਆਖੀਐ ਪੜੑਿ ਪੜੑਿ ਕਰਹਿ ਪੁਕਾਰ ॥",
+   "translit": "dukh dukh agai aakheeai parra parra kareh pukaar |",
+   "english": "Hereafter, there is said to be pain, only pain; the more the mortals read, the more they cry out.",
+   "shabadId": "W7D"
+  },
+  {
+   "gurmukhi": "ਦੁਖ ਵਿਚਿ ਜੰਮਣੁ ਦੁਖਿ ਮਰਣੁ ਦੁਖਿ ਵਰਤਣੁ ਸੰਸਾਰਿ ॥",
+   "translit": "dukh vich jaman dukh maran dukh varatan sansaar |",
+   "english": "In pain, we are born; in pain, we die. In pain, we deal with the world.",
+   "shabadId": "W7D"
+  },
+  {
+   "gurmukhi": "ਦੁਖ ਵਿਚਿ ਜੀਉ ਜਲਾਇਆ ਦੁਖੀਆ ਚਲਿਆ ਰੋਇ ॥",
+   "translit": "dukh vich jeeo jalaaeaa dukheea chaliaa roe |",
+   "english": "In pain, the soul burns; in pain, it departs weeping and wailing.",
+   "shabadId": "W7D"
+  },
+  {
+   "gurmukhi": "ਦੁਖ ਕੀਆ ਪੰਡਾ ਖੁਲੑੀਆ ਸੁਖੁ ਨ ਨਿਕਲਿਓ ਕੋਇ ॥",
+   "translit": "dukh keea panddaa khulaeea sukh na nikalio koe |",
+   "english": "The packages of pain are untied, but peace does not emerge.",
+   "shabadId": "W7D"
+  },
+  {
+   "gurmukhi": "ਦੁਖ ਕੀਆ ਅਗੀ ਮਾਰੀਅਹਿ ਭੀ ਦੁਖੁ ਦਾਰੂ ਹੋਇ ॥੧॥",
+   "translit": "dukh keea agee maareeeh bhee dukh daaroo hoe |1|",
+   "english": "In the fire of pain, the mortals die; but pain is also the cure. ||1||",
+   "shabadId": "W7D"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਸਿਫਤੀ ਰਤਿਆ ਮਨੁ ਤਨੁ ਹਰਿਆ ਹੋਇ ॥",
+   "translit": "naanak sifatee ratiaa man tan hariaa hoe |",
+   "english": "O Nanak, imbued with the Lord's Praise, the mind and body blossom forth, rejuvenated.",
+   "shabadId": "W7D"
+  },
+  {
+   "gurmukhi": "ਭਸੋ ਭਸੁ ਕਮਾਵਣੀ ਭੀ ਭਸੁ ਭਰੀਐ ਦੇਹ ॥",
+   "translit": "bhaso bhas kamaavanee bhee bhas bhareeai deh |",
+   "english": "The mortal earns only the dust of the dust; his body is covered with dust.",
+   "shabadId": "JAB"
+  },
+  {
+   "gurmukhi": "ਮਹਲਾ ੧ ॥",
+   "translit": "mahalaa 1 |",
+   "english": "First Mehl:",
+   "shabadId": "JAB"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਦੁਨੀਆ ਭਸੁ ਰੰਗੁ ਭਸੂ ਹੂ ਭਸੁ ਖੇਹ ॥",
+   "translit": "naanak duneea bhas rang bhasoo hoo bhas kheh |",
+   "english": "O Nanak, worldly pleasures are nothing more than dust. They are the dust of the dust of ashes.",
+   "shabadId": "JAB"
+  },
+  {
+   "gurmukhi": "ਜਾ ਜੀਉ ਵਿਚਹੁ ਕਢੀਐ ਭਸੂ ਭਰਿਆ ਜਾਇ ॥",
+   "translit": "jaa jeeo vichahu kadteeai bhasoo bhariaa jaae |",
+   "english": "When the soul is taken out of the body, it too is covered with dust.",
+   "shabadId": "JAB"
+  },
+  {
+   "gurmukhi": "ਅਗੈ ਲੇਖੈ ਮੰਗਿਐ ਹੋਰ ਦਸੂਣੀ ਪਾਇ ॥੨॥",
+   "translit": "agai lekhai mangiai hor dasoonee paae |2|",
+   "english": "And when one's account is called for in the world hereafter, he receives only ten times more dust. ||2||",
+   "shabadId": "JAB"
+  },
+  {
+   "gurmukhi": "ਨਾਇ ਸੁਣਿਐ ਸੁਚਿ ਸੰਜਮੋ ਜਮੁ ਨੇੜਿ ਨ ਆਵੈ ॥",
+   "translit": "naae suniai such sanjamo jam nerr na aavai |",
+   "english": "Hearing the Name, one is blessed with purity and self-control, and the Messenger of Death will not draw near.",
+   "shabadId": "2WN"
+  },
+  {
+   "gurmukhi": "ਨਾਇ ਸੁਣਿਐ ਘਟਿ ਚਾਨਣਾ ਆਨੑੇਰੁ ਗਵਾਵੈ ॥",
+   "translit": "naae suniai ghatt chaananaa aanaer gavaavai |",
+   "english": "Hearing the Name, the heart is illumined, and darkness is dispelled.",
+   "shabadId": "2WN"
+  },
+  {
+   "gurmukhi": "ਪਉੜੀ ॥",
+   "translit": "paurree |",
+   "english": "Pauree:",
+   "shabadId": "2WN"
+  },
+  {
+   "gurmukhi": "ਨਾਇ ਸੁਣਿਐ ਪਾਪ ਕਟੀਅਹਿ ਨਿਰਮਲ ਸਚੁ ਪਾਵੈ ॥",
+   "translit": "naae suniai paap katteeeh niramal sach paavai |",
+   "english": "Hearing the Name, sins are eradicated, and one meets the Immaculate True Lord.",
+   "shabadId": "2WN"
+  },
+  {
+   "gurmukhi": "ਨਾਇ ਸੁਣਿਐ ਆਪੁ ਬੁਝੀਐ ਲਾਹਾ ਨਾਉ ਪਾਵੈ ॥",
+   "translit": "naae suniai aap bujheeai laahaa naau paavai |",
+   "english": "Hearing the Name, one comes to understand his own self, and the profit of the Name is obtained.",
+   "shabadId": "2WN"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਨਾਇ ਸੁਣਿਐ ਮੁਖ ਉਜਲੇ ਨਾਉ ਗੁਰਮੁਖਿ ਧਿਆਵੈ ॥੮॥",
+   "translit": "naanak naae suniai mukh ujale naau guramukh dhiaavai |8|",
+   "english": "O Nanak, hearing the Name, one's face becomes radiant. As Gurmukh, meditate on the Name. ||8||",
+   "shabadId": "2WN"
+  },
+  {
+   "gurmukhi": "ਸਲੋਕ ਮਹਲਾ ੧ ॥",
+   "translit": "salok mahalaa 1 |",
+   "english": "Salok, First Mehl:",
+   "shabadId": "4UN"
+  },
+  {
+   "gurmukhi": "ਘਰਿ ਨਾਰਾਇਣੁ ਸਭਾ ਨਾਲਿ ॥",
+   "translit": "ghar naaraaein sabhaa naal |",
+   "english": "In your home, is the Lord God, along with all your other gods.",
+   "shabadId": "4UN"
+  }
+ ]
+}

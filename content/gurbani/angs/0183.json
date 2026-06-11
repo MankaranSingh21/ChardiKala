@@ -1,0 +1,335 @@
+{
+ "ang": 183,
+ "lines": [
+  {
+   "gurmukhi": "ਹਰਿ ਹਰਿ ਨਾਮੁ ਜਨ ਪ੍ਰਾਨ ਅਧਾਰੁ ॥",
+   "translit": "har har naam jan praan adhaar |",
+   "english": "The Name of the Lord, Har, Har, is the Support of the breath of life of His servant.",
+   "shabadId": "ERW"
+  },
+  {
+   "gurmukhi": "ਜਿਸੁ ਸਿਮਰਤ ਡੂਬਤ ਪਾਹਨ ਤਰੇ ॥੩॥",
+   "translit": "jis simarat ddoobat paahan tare |3|",
+   "english": "Remembering Him in meditation, sinking stones are made to float. ||3||",
+   "shabadId": "ERW"
+  },
+  {
+   "gurmukhi": "ਸੰਤ ਸਭਾ ਕਉ ਸਦਾ ਜੈਕਾਰੁ ॥",
+   "translit": "sant sabhaa kau sadaa jaikaar |",
+   "english": "I salute and applaud the Society of the Saints.",
+   "shabadId": "ERW"
+  },
+  {
+   "gurmukhi": "ਕਹੁ ਨਾਨਕ ਮੇਰੀ ਸੁਣੀ ਅਰਦਾਸਿ ॥",
+   "translit": "kahu naanak meree sunee aradaas |",
+   "english": "Says Nanak, the Lord has heard my prayer;",
+   "shabadId": "ERW"
+  },
+  {
+   "gurmukhi": "ਸੰਤ ਪ੍ਰਸਾਦਿ ਮੋ ਕਉ ਨਾਮ ਨਿਵਾਸਿ ॥੪॥੨੧॥੯੦॥",
+   "translit": "sant prasaad mo kau naam nivaas |4|21|90|",
+   "english": "by the Grace of the Saints, I dwell in the Naam, the Name of the Lord. ||4||21||90||",
+   "shabadId": "ERW"
+  },
+  {
+   "gurmukhi": "ਗਉੜੀ ਗੁਆਰੇਰੀ ਮਹਲਾ ੫ ॥",
+   "translit": "gaurree guaareree mahalaa 5 |",
+   "english": "Gauree Gwaarayree, Fifth Mehl:",
+   "shabadId": "9MV"
+  },
+  {
+   "gurmukhi": "ਸਤਿਗੁਰ ਭੇਟਤ ਹਉਮੈ ਮਾਰੀ ॥",
+   "translit": "satigur bhettat haumai maaree |",
+   "english": "Meeting the True Guru, egotism is subdued.",
+   "shabadId": "9MV"
+  },
+  {
+   "gurmukhi": "ਸਤਿਗੁਰ ਦਰਸਨਿ ਅਗਨਿ ਨਿਵਾਰੀ ॥",
+   "translit": "satigur darasan agan nivaaree |",
+   "english": "By the Blessed Vision of the True Guru's Darshan, the fire of desire is quenched.",
+   "shabadId": "9MV"
+  },
+  {
+   "gurmukhi": "ਅੰਮ੍ਰਿਤ ਬਾਣੀ ਗੁਰਮੁਖਿ ਬੋਲੈ ॥੧॥",
+   "translit": "amrit baanee guramukh bolai |1|",
+   "english": "The Gurmukh speaks the Ambrosial Word of Gurbani. ||1||",
+   "shabadId": "9MV"
+  },
+  {
+   "gurmukhi": "ਸਤਿਗੁਰ ਸੰਗਿ ਨਾਹੀ ਮਨੁ ਡੋਲੈ ॥",
+   "translit": "satigur sang naahee man ddolai |",
+   "english": "In the Company of the True Guru, the mind does not waver.",
+   "shabadId": "9MV"
+  },
+  {
+   "gurmukhi": "ਸਭੁ ਜਗੁ ਸਾਚਾ ਜਾ ਸਚ ਮਹਿ ਰਾਤੇ ॥",
+   "translit": "sabh jag saachaa jaa sach meh raate |",
+   "english": "He sees the True One pervading the whole world; he is imbued with the True One.",
+   "shabadId": "9MV"
+  },
+  {
+   "gurmukhi": "ਸੰਤ ਪ੍ਰਸਾਦਿ ਜਪੈ ਹਰਿ ਨਾਉ ॥",
+   "translit": "sant prasaad japai har naau |",
+   "english": "By the Grace of the Saints, one chants the Lord's Name.",
+   "shabadId": "9MV"
+  },
+  {
+   "gurmukhi": "ਸੀਤਲ ਸਾਤਿ ਗੁਰ ਤੇ ਪ੍ਰਭ ਜਾਤੇ ॥੧॥ ਰਹਾਉ ॥",
+   "translit": "seetal saat gur te prabh jaate |1| rahaau |",
+   "english": "I have become cool and tranquil, knowing God, through the Guru. ||1||Pause||",
+   "shabadId": "9MV"
+  },
+  {
+   "gurmukhi": "ਸੰਤ ਪ੍ਰਸਾਦਿ ਹਰਿ ਕੀਰਤਨੁ ਗਾਉ ॥",
+   "translit": "sant prasaad har keeratan gaau |",
+   "english": "By the Grace of the Saints, one sings the Kirtan of the Lord's Praises.",
+   "shabadId": "9MV"
+  },
+  {
+   "gurmukhi": "ਸੰਤ ਕ੍ਰਿਪਾ ਤੇ ਮਿਟੇ ਮੋਹ ਭਰਮ ॥",
+   "translit": "sant kripaa te mitte moh bharam |",
+   "english": "By the kind Mercy of the Saints, emotional attachment and doubt are removed.",
+   "shabadId": "9MV"
+  },
+  {
+   "gurmukhi": "ਸੰਤ ਪ੍ਰਸਾਦਿ ਸਗਲ ਦੁਖ ਮਿਟੇ ॥",
+   "translit": "sant prasaad sagal dukh mitte |",
+   "english": "By the Grace of the Saints, all pains are erased.",
+   "shabadId": "9MV"
+  },
+  {
+   "gurmukhi": "ਸੰਤ ਪ੍ਰਸਾਦਿ ਬੰਧਨ ਤੇ ਛੁਟੇ ॥੨॥",
+   "translit": "sant prasaad bandhan te chhutte |2|",
+   "english": "By the Grace of the Saints, one is released from bondage. ||2||",
+   "shabadId": "9MV"
+  },
+  {
+   "gurmukhi": "ਸਾਧ ਕ੍ਰਿਪਾਲ ਦਇਆਲ ਗੋਵਿੰਦੁ ॥",
+   "translit": "saadh kripaal deaal govind |",
+   "english": "By the kindness of the Holy, the Lord of the Universe becomes merciful.",
+   "shabadId": "9MV"
+  },
+  {
+   "gurmukhi": "ਸਾਧ ਰੇਣ ਮਜਨ ਸਭਿ ਧਰਮ ॥",
+   "translit": "saadh ren majan sabh dharam |",
+   "english": "Taking a bath in the dust of the feet of the Holy - this is true Dharmic faith.",
+   "shabadId": "9MV"
+  },
+  {
+   "gurmukhi": "ਸਾਧਾ ਮਹਿ ਇਹ ਹਮਰੀ ਜਿੰਦੁ ॥੩॥",
+   "translit": "saadhaa meh ih hamaree jind |3|",
+   "english": "The life of my soul is with the Holy. ||3||",
+   "shabadId": "9MV"
+  },
+  {
+   "gurmukhi": "ਕਿਰਪਾ ਨਿਧਿ ਕਿਰਪਾਲ ਧਿਆਵਉ ॥",
+   "translit": "kirapaa nidh kirapaal dhiaavau |",
+   "english": "Meditating on the Merciful Lord, the Treasure of Mercy,",
+   "shabadId": "9MV"
+  },
+  {
+   "gurmukhi": "ਸਾਧਸੰਗਿ ਤਾ ਬੈਠਣੁ ਪਾਵਉ ॥",
+   "translit": "saadhasang taa baitthan paavau |",
+   "english": "I have obtained a seat in the Saadh Sangat.",
+   "shabadId": "9MV"
+  },
+  {
+   "gurmukhi": "ਮੋਹਿ ਨਿਰਗੁਣ ਕਉ ਪ੍ਰਭਿ ਕੀਨੀ ਦਇਆ ॥",
+   "translit": "mohi niragun kau prabh keenee deaa |",
+   "english": "I am worthless, but God has been kind to me.",
+   "shabadId": "9MV"
+  },
+  {
+   "gurmukhi": "ਸਾਧਸੰਗਿ ਨਾਨਕ ਨਾਮੁ ਲਇਆ ॥੪॥੨੨॥੯੧॥",
+   "translit": "saadhasang naanak naam leaa |4|22|91|",
+   "english": "In the Saadh Sangat, Nanak has taken to the Naam, the Name of the Lord. ||4||22||91||",
+   "shabadId": "9MV"
+  },
+  {
+   "gurmukhi": "ਗਉੜੀ ਗੁਆਰੇਰੀ ਮਹਲਾ ੫ ॥",
+   "translit": "gaurree guaareree mahalaa 5 |",
+   "english": "Gauree Gwaarayree, Fifth Mehl:",
+   "shabadId": "MJQ"
+  },
+  {
+   "gurmukhi": "ਸਾਧਸੰਗਿ ਜਪਿਓ ਭਗਵੰਤੁ ॥",
+   "translit": "saadhasang japio bhagavant |",
+   "english": "In the Saadh Sangat, the Company of the Holy, I meditate on the Lord God.",
+   "shabadId": "MJQ"
+  },
+  {
+   "gurmukhi": "ਆਠ ਪਹਰ ਪੂਜਹੁ ਗੁਰ ਪੈਰ ॥੧॥",
+   "translit": "aatth pehar poojahu gur pair |1|",
+   "english": "Twenty-four hours a day, I worship the Guru's Feet. ||1||",
+   "shabadId": "MJQ"
+  },
+  {
+   "gurmukhi": "ਤਜਿ ਅਭਿਮਾਨ ਭਏ ਨਿਰਵੈਰ ॥",
+   "translit": "taj abhimaan bhe niravair |",
+   "english": "Shedding my ego, I have become free of hate.",
+   "shabadId": "MJQ"
+  },
+  {
+   "gurmukhi": "ਕੇਵਲ ਨਾਮੁ ਦੀਓ ਗੁਰਿ ਮੰਤੁ ॥",
+   "translit": "keval naam deeo gur mant |",
+   "english": "The Guru has given me the Mantra of the Naam, the Name of the Lord.",
+   "shabadId": "MJQ"
+  },
+  {
+   "gurmukhi": "ਜਬ ਤੇ ਸੁਣਿਆ ਹਰਿ ਜਸੁ ਕਾਨੀ ॥੧॥ ਰਹਾਉ ॥",
+   "translit": "jab te suniaa har jas kaanee |1| rahaau |",
+   "english": "since I have heard the Praises of the Lord with my ears. ||1||Pause||",
+   "shabadId": "MJQ"
+  },
+  {
+   "gurmukhi": "ਸਹਜ ਸੂਖ ਆਨੰਦ ਨਿਧਾਨ ॥",
+   "translit": "sehaj sookh aanand nidhaan |",
+   "english": "The Savior Lord is the treasure of intuitive peace, poise and bliss.",
+   "shabadId": "MJQ"
+  },
+  {
+   "gurmukhi": "ਅਬ ਮਤਿ ਬਿਨਸੀ ਦੁਸਟ ਬਿਗਾਨੀ ॥",
+   "translit": "ab mat binasee dusatt bigaanee |",
+   "english": "Now, my evil sense of alienation is eliminated,",
+   "shabadId": "MJQ"
+  },
+  {
+   "gurmukhi": "ਰਾਖਨਹਾਰ ਰਖਿ ਲੇਇ ਨਿਦਾਨ ॥",
+   "translit": "raakhanahaar rakh lee nidaan |",
+   "english": "He shall save me in the end.",
+   "shabadId": "MJQ"
+  },
+  {
+   "gurmukhi": "ਆਵਣ ਜਾਣ ਰਖੇ ਕਰਿ ਕਰਮ ॥੨॥",
+   "translit": "aavan jaan rakhe kar karam |2|",
+   "english": "He has mercifully saved me from coming and going in reincarnation. ||2||",
+   "shabadId": "MJQ"
+  },
+  {
+   "gurmukhi": "ਦੂਖ ਦਰਦ ਬਿਨਸੇ ਭੈ ਭਰਮ ॥",
+   "translit": "dookh darad binase bhai bharam |",
+   "english": "My pains, sufferings, fears and doubts have been erased.",
+   "shabadId": "MJQ"
+  },
+  {
+   "gurmukhi": "ਸੰਤ ਪ੍ਰਸਾਦਿ ਭਇਓ ਪਰਗਾਸੁ ॥",
+   "translit": "sant prasaad bheo paragaas |",
+   "english": "By the Grace of the Saints, the Light has dawned.",
+   "shabadId": "MJQ"
+  },
+  {
+   "gurmukhi": "ਪੇਖੈ ਬੋਲੈ ਸੁਣੈ ਸਭੁ ਆਪਿ ॥",
+   "translit": "pekhai bolai sunai sabh aap |",
+   "english": "He Himself beholds, speaks and hears all.",
+   "shabadId": "MJQ"
+  },
+  {
+   "gurmukhi": "ਸਦਾ ਸੰਗਿ ਤਾ ਕਉ ਮਨ ਜਾਪਿ ॥",
+   "translit": "sadaa sang taa kau man jaap |",
+   "english": "O my mind, meditate on the One who is always with you.",
+   "shabadId": "MJQ"
+  },
+  {
+   "gurmukhi": "ਪੂਰਿ ਰਹੇ ਏਕੈ ਗੁਣਤਾਸੁ ॥੩॥",
+   "translit": "poor rahe ekai gunataas |3|",
+   "english": "The One Lord, the Treasure of Excellence, is perfectly pervading everywhere. ||3||",
+   "shabadId": "MJQ"
+  },
+  {
+   "gurmukhi": "ਕਹਤ ਪਵਿਤ੍ਰ ਸੁਣਤ ਪੁਨੀਤ ॥",
+   "translit": "kehat pavitr sunat puneet |",
+   "english": "Pure are those who speak, and sanctified are those who hear and sing,",
+   "shabadId": "MJQ"
+  },
+  {
+   "gurmukhi": "ਗੁਣ ਗੋਵਿੰਦ ਗਾਵਹਿ ਨਿਤ ਨੀਤ ॥",
+   "translit": "gun govind gaaveh nit neet |",
+   "english": "Forever and ever, the Glorious Praises of the Lord of the Universe.",
+   "shabadId": "MJQ"
+  },
+  {
+   "gurmukhi": "ਕਹੁ ਨਾਨਕ ਜਾ ਕਉ ਹੋਹੁ ਕ੍ਰਿਪਾਲ ॥",
+   "translit": "kahu naanak jaa kau hohu kripaal |",
+   "english": "Says Nanak, when the Lord bestows His Mercy,",
+   "shabadId": "MJQ"
+  },
+  {
+   "gurmukhi": "ਤਿਸੁ ਜਨ ਕੀ ਸਭ ਪੂਰਨ ਘਾਲ ॥੪॥੨੩॥੯੨॥",
+   "translit": "tis jan kee sabh pooran ghaal |4|23|92|",
+   "english": "all one's efforts are fulfilled. ||4||23||92||",
+   "shabadId": "MJQ"
+  },
+  {
+   "gurmukhi": "ਗਉੜੀ ਗੁਆਰੇਰੀ ਮਹਲਾ ੫ ॥",
+   "translit": "gaurree guaareree mahalaa 5 |",
+   "english": "Gauree Gwaarayree, Fifth Mehl:",
+   "shabadId": "68K"
+  },
+  {
+   "gurmukhi": "ਮਨ ਮਹਿ ਲਾਗੈ ਸਾਚੁ ਧਿਆਨੁ ॥",
+   "translit": "man meh laagai saach dhiaan |",
+   "english": "With the mind centered in meditation on the True Lord,",
+   "shabadId": "68K"
+  },
+  {
+   "gurmukhi": "ਬੰਧਨ ਤੋੜਿ ਬੋਲਾਵੈ ਰਾਮੁ ॥",
+   "translit": "bandhan torr bolaavai raam |",
+   "english": "He breaks our bonds, and inspires us to chant the Lord's Name.",
+   "shabadId": "68K"
+  },
+  {
+   "gurmukhi": "ਮਿਟਹਿ ਕਲੇਸ ਸੁਖੀ ਹੋਇ ਰਹੀਐ ॥",
+   "translit": "mitteh kales sukhee hoe raheeai |",
+   "english": "Anguish is eradicated, and one comes to dwell in peace.",
+   "shabadId": "68K"
+  },
+  {
+   "gurmukhi": "ਸੋ ਸੁਖਦਾਤਾ ਜਿ ਨਾਮੁ ਜਪਾਵੈ ॥",
+   "translit": "so sukhadaataa ji naam japaavai |",
+   "english": "He alone is the Giver of peace, who inspires us to chant the Naam, the Name of the Lord.",
+   "shabadId": "68K"
+  },
+  {
+   "gurmukhi": "ਕਰਿ ਕਿਰਪਾ ਤਿਸੁ ਸੰਗਿ ਮਿਲਾਵੈ ॥੧॥ ਰਹਾਉ ॥",
+   "translit": "kar kirapaa tis sang milaavai |1| rahaau |",
+   "english": "By His Grace, He leads us to merge with Him. ||1||Pause||",
+   "shabadId": "68K"
+  },
+  {
+   "gurmukhi": "ਐਸਾ ਦਾਤਾ ਸਤਿਗੁਰੁ ਕਹੀਐ ॥੧॥",
+   "translit": "aisaa daataa satigur kaheeai |1|",
+   "english": "Such is the True Guru, the Great Giver. ||1||",
+   "shabadId": "68K"
+  },
+  {
+   "gurmukhi": "ਜਿਸੁ ਹੋਇ ਦਇਆਲੁ ਤਿਸੁ ਆਪਿ ਮਿਲਾਵੈ ॥",
+   "translit": "jis hoe deaal tis aap milaavai |",
+   "english": "He unites with Himself those unto whom He has shown His Mercy.",
+   "shabadId": "68K"
+  },
+  {
+   "gurmukhi": "ਆਪੁ ਤਿਆਗਿ ਮਿਟੈ ਆਵਣ ਜਾਣਾ ॥",
+   "translit": "aap tiaag mittai aavan jaanaa |",
+   "english": "Renouncing selfishness and conceit, coming and going come to an end.",
+   "shabadId": "68K"
+  },
+  {
+   "gurmukhi": "ਸਰਬ ਨਿਧਾਨ ਗੁਰੂ ਤੇ ਪਾਵੈ ॥",
+   "translit": "sarab nidhaan guroo te paavai |",
+   "english": "All treasures are received from the Guru.",
+   "shabadId": "68K"
+  },
+  {
+   "gurmukhi": "ਜਨ ਊਪਰਿ ਪ੍ਰਭ ਭਏ ਦਇਆਲ ॥",
+   "translit": "jan aoopar prabh bhe deaal |",
+   "english": "God has become merciful to His humble servant.",
+   "shabadId": "68K"
+  },
+  {
+   "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਪਾਰਬ੍ਰਹਮੁ ਪਛਾਣਾ ॥੨॥",
+   "translit": "saadh kai sang paarabraham pachhaanaa |2|",
+   "english": "In the Saadh Sangat, the Company of the Holy, the Supreme Lord God is recognized. ||2||",
+   "shabadId": "68K"
+  }
+ ]
+}

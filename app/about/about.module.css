@@ -1,0 +1,51 @@
+.about {
+  max-width: 760px;
+}
+
+.section {
+  margin-top: 2.4rem;
+}
+
+.section h2 {
+  font-family: var(--font-display);
+  font-weight: 550;
+  font-size: 1.4rem;
+  margin-bottom: 0.7rem;
+}
+
+.section p {
+  font-size: 1.04rem;
+  line-height: 1.78;
+  color: var(--cream-dim);
+}
+
+.section a {
+  color: var(--marigold);
+  border-bottom: 1px solid rgba(255, 201, 94, 0.35);
+}
+
+.section strong {
+  color: var(--cream);
+  font-weight: 600;
+}
+
+.closing {
+  margin-top: 3.5rem;
+  padding: 1.8rem 1.5rem;
+  border: 1px solid rgba(240, 163, 46, 0.3);
+  border-radius: 14px;
+  text-align: center;
+  display: grid;
+  gap: 0.5rem;
+}
+
+.closing .gurmukhi {
+  font-size: 1.25rem;
+  color: var(--marigold);
+}
+
+.closing span:last-child {
+  font-style: italic;
+  font-size: 0.96rem;
+  color: var(--cream-dim);
+}

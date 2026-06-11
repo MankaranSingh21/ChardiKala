@@ -1,0 +1,124 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 50;
+  background: linear-gradient(180deg, rgba(10, 14, 30, 0.94) 0%, rgba(10, 14, 30, 0.78) 70%, transparent 100%);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+}
+
+.brand {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.15;
+}
+
+.brandGurmukhi {
+  color: var(--saffron);
+  font-size: 1.3rem;
+}
+
+.brandLatin {
+  font-family: var(--font-body);
+  font-style: italic;
+  font-size: 0.82rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--cream-dim);
+}
+
+.nav {
+  display: flex;
+  gap: 0.15rem;
+}
+
+.link {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.05rem;
+  padding: 0.4rem 0.8rem;
+  font-family: var(--font-body);
+  font-size: 0.92rem;
+  letter-spacing: 0.03em;
+  color: var(--cream-dim);
+  border-bottom: 1px solid transparent;
+  transition: color 0.25s var(--ease-soft), border-color 0.25s var(--ease-soft);
+}
+
+.linkGurmukhi {
+  font-size: 0.78rem;
+  color: var(--muted);
+  transition: color 0.25s var(--ease-soft);
+}
+
+.link:hover,
+.link:focus-visible {
+  color: var(--cream);
+}
+
+.link:hover .linkGurmukhi,
+.active .linkGurmukhi {
+  color: var(--saffron);
+}
+
+.active {
+  color: var(--cream);
+  border-bottom-color: var(--saffron);
+}
+
+.menuButton {
+  display: none;
+  font-size: 1.3rem;
+  color: var(--cream);
+  padding: 0.3rem 0.6rem;
+}
+
+.mobileNav {
+  display: none;
+}
+
+@media (max-width: 880px) {
+  .bar {
+    padding: 0.85rem 1.1rem;
+  }
+  .nav {
+    display: none;
+  }
+  .menuButton {
+    display: block;
+  }
+  .mobileNav {
+    display: flex;
+    flex-direction: column;
+    padding: 0.4rem 0.6rem 1rem;
+    background: rgba(10, 14, 30, 0.97);
+    border-bottom: 1px solid var(--line);
+  }
+  .mobileLink {
+    display: flex;
+    align-items: baseline;
+    gap: 0.7rem;
+    padding: 0.75rem 0.9rem;
+    font-size: 1.05rem;
+    color: var(--cream-dim);
+    border-left: 2px solid transparent;
+  }
+  .mobileLink .linkGurmukhi {
+    font-size: 0.95rem;
+    min-width: 4.5rem;
+  }
+  .mobileLink.active {
+    color: var(--cream);
+    border-left-color: var(--saffron);
+  }
+}

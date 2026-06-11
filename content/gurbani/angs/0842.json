@@ -1,0 +1,383 @@
+{
+ "ang": 842,
+ "lines": [
+  {
+   "gurmukhi": "ਤੂ ਸੁਖਦਾਤਾ ਲੈਹਿ ਮਿਲਾਇ ॥",
+   "translit": "too sukhadaataa laihi milaae |",
+   "english": "You are the Giver of peace; You merge them into Yourself.",
+   "shabadId": "0QS"
+  },
+  {
+   "gurmukhi": "ਗੁਰਮੁਖਿ ਬੂਝੈ ਸੋਝੀ ਹੋਇ ॥੯॥",
+   "translit": "guramukh boojhai sojhee hoe |9|",
+   "english": "The Gurmukh realizes this, and understands. ||9||",
+   "shabadId": "0QS"
+  },
+  {
+   "gurmukhi": "ਏਕਸ ਤੇ ਦੂਜਾ ਨਾਹੀ ਕੋਇ ॥",
+   "translit": "ekas te doojaa naahee koe |",
+   "english": "Everything comes from the One and only Lord; there is no other at all.",
+   "shabadId": "0QS"
+  },
+  {
+   "gurmukhi": "ਪੰਦ੍ਰਹ ਥਿਤਂ‍ੀ ਤੈ ਸਤ ਵਾਰ ॥",
+   "translit": "pandrah thitanee tai sat vaar |",
+   "english": "The fifteen lunar days, the seven days of the week,",
+   "shabadId": "0QS"
+  },
+  {
+   "gurmukhi": "ਮਾਹਾ ਰੁਤੀ ਆਵਹਿ ਵਾਰ ਵਾਰ ॥",
+   "translit": "maahaa rutee aaveh vaar vaar |",
+   "english": "the months, seasons, days and nights, come over and over again;",
+   "shabadId": "0QS"
+  },
+  {
+   "gurmukhi": "ਦਿਨਸੁ ਰੈਣਿ ਤਿਵੈ ਸੰਸਾਰੁ ॥",
+   "translit": "dinas rain tivai sansaar |",
+   "english": "so the world goes on.",
+   "shabadId": "0QS"
+  },
+  {
+   "gurmukhi": "ਆਵਾ ਗਉਣੁ ਕੀਆ ਕਰਤਾਰਿ ॥",
+   "translit": "aavaa gaun keea karataar |",
+   "english": "Coming and going were created by the Creator Lord.",
+   "shabadId": "0QS"
+  },
+  {
+   "gurmukhi": "ਨਿਹਚਲੁ ਸਾਚੁ ਰਹਿਆ ਕਲ ਧਾਰਿ ॥",
+   "translit": "nihachal saach rahiaa kal dhaar |",
+   "english": "The True Lord remains steady and stable, by His almighty power.",
+   "shabadId": "0QS"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਗੁਰਮੁਖਿ ਬੂਝੈ ਕੋ ਸਬਦੁ ਵੀਚਾਰਿ ॥੧੦॥੧॥",
+   "translit": "naanak guramukh boojhai ko sabad veechaar |10|1|",
+   "english": "O Nanak, how rare is that Gurmukh who understands, and contemplates the Naam, the Name of the Lord. ||10||1||",
+   "shabadId": "0QS"
+  },
+  {
+   "gurmukhi": "ਬਿਲਾਵਲੁ ਮਹਲਾ ੩ ॥",
+   "translit": "bilaaval mahalaa 3 |",
+   "english": "Bilaaval, Third Mehl:",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਆਦਿ ਪੁਰਖੁ ਆਪੇ ਸ੍ਰਿਸਟਿ ਸਾਜੇ ॥",
+   "translit": "aad purakh aape srisatt saaje |",
+   "english": "The Primal Lord Himself formed the Universe.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਜੀਅ ਜੰਤ ਮਾਇਆ ਮੋਹਿ ਪਾਜੇ ॥",
+   "translit": "jeea jant maaeaa mohi paaje |",
+   "english": "The beings and creatures are engrossed in emotional attachment to Maya.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਦੂਜੈ ਭਾਇ ਪਰਪੰਚਿ ਲਾਗੇ ॥",
+   "translit": "doojai bhaae parapanch laage |",
+   "english": "In the love of duality, they are attached to the illusory material world.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਆਵਹਿ ਜਾਵਹਿ ਮਰਹਿ ਅਭਾਗੇ ॥",
+   "translit": "aaveh jaaveh mareh abhaage |",
+   "english": "The unfortunate ones die, and continue to come and go.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਪਰਪੰਚੁ ਚੂਕੈ ਸਚਿ ਸਮਾਇ ॥੧॥",
+   "translit": "parapanch chookai sach samaae |1|",
+   "english": "Then, the illusion of the material world is shattered, and one merges in Truth. ||1||",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਸਤਿਗੁਰਿ ਭੇਟਿਐ ਸੋਝੀ ਪਾਇ ॥",
+   "translit": "satigur bhettiai sojhee paae |",
+   "english": "Meeting with the True Guru, understanding is obtained.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਜਾ ਕੈ ਮਸਤਕਿ ਲਿਖਿਆ ਲੇਖੁ ॥",
+   "translit": "jaa kai masatak likhiaa lekh |",
+   "english": "One who has such pre-ordained destiny inscribed upon his forehead",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਸ੍ਰਿਸਟਿ ਉਪਾਇ ਆਪੇ ਸਭੁ ਵੇਖੈ ॥",
+   "translit": "srisatt upaae aape sabh vekhai |",
+   "english": "He created the Universe, and He Himself beholds all.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਤਾ ਕੈ ਮਨਿ ਵਸਿਆ ਪ੍ਰਭੁ ਏਕੁ ॥੧॥ ਰਹਾਉ ॥",
+   "translit": "taa kai man vasiaa prabh ek |1| rahaau |",
+   "english": "- the One God abides within his mind. ||1||Pause||",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਸਿਧ ਸਾਧਿਕ ਜੇ ਕੋ ਕਹੈ ਕਹਾਏ ॥",
+   "translit": "sidh saadhik je ko kahai kahaae |",
+   "english": "If someone calls himself a Siddha or a seeker,",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਸਤਿਗੁਰੁ ਸੇਵੈ ਸੋ ਜਨੁ ਬੂਝੈ ॥",
+   "translit": "satigur sevai so jan boojhai |",
+   "english": "That humble being alone understands, who serves the True Guru.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਕੋਇ ਨ ਮੇਟੈ ਤੇਰੈ ਲੇਖੈ ॥",
+   "translit": "koe na mettai terai lekhai |",
+   "english": "No one can erase Your record, Lord.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਭਰਮੇ ਭੂਲਾ ਆਵੈ ਜਾਏ ॥",
+   "translit": "bharame bhoolaa aavai jaae |",
+   "english": "he is deluded by doubt, and will continue coming and going.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਹਉਮੈ ਮਾਰੇ ਤਾ ਦਰੁ ਸੂਝੈ ॥੨॥",
+   "translit": "haumai maare taa dar soojhai |2|",
+   "english": "Conquering his ego, he finds the Lord's Door. ||2||",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਦੂਜੇ ਤੇ ਜੇ ਏਕੋ ਜਾਣੈ ॥",
+   "translit": "dooje te je eko jaanai |",
+   "english": "Renouncing duality, one comes to know the One Lord.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਏਕੋ ਵਰਤੈ ਅਵਰੁ ਨ ਬੀਆ ॥",
+   "translit": "eko varatai avar na beea |",
+   "english": "The One Lord is pervading everywhere; there is no other at all.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਏਕਸੁ ਤੇ ਸਭੁ ਦੂਜਾ ਹੂਆ ॥",
+   "translit": "ekas te sabh doojaa hooaa |",
+   "english": "From the One Lord, all others were formed.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਵਿਚਹੁ ਦੂਜਾ ਠਾਕਿ ਰਹਾਏ ॥੩॥",
+   "translit": "vichahu doojaa tthaak rahaae |3|",
+   "english": "Duality is subdued within. ||3||",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਸਤਿਗੁਰੁ ਭੇਟੇ ਤਾ ਏਕੋ ਪਾਏ ॥",
+   "translit": "satigur bhette taa eko paae |",
+   "english": "Meeting the True Guru, one finds the One Lord.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਗੁਰ ਕੈ ਸਬਦਿ ਹਰਿ ਦਰਿ ਨੀਸਾਣੈ ॥",
+   "translit": "gur kai sabad har dar neesaanai |",
+   "english": "Through the Word of the Guru's Shabad, one knows the Lord's Door, and His Banner.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਜਿਸ ਦਾ ਸਾਹਿਬੁ ਡਾਢਾ ਹੋਇ ॥",
+   "translit": "jis daa saahib ddaadtaa hoe |",
+   "english": "One who belongs to the All-powerful Lord and Master",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਸਾਹਿਬ ਕੀ ਸੇਵਕੁ ਰਹੈ ਸਰਣਾਈ ॥",
+   "translit": "saahib kee sevak rahai saranaaee |",
+   "english": "The Lord's servant remains under His protection;",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਤਿਸ ਨੋ ਮਾਰਿ ਨ ਸਾਕੈ ਕੋਇ ॥",
+   "translit": "tis no maar na saakai koe |",
+   "english": "no one can destroy him.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਆਪੇ ਬਖਸੇ ਦੇ ਵਡਿਆਈ ॥",
+   "translit": "aape bakhase de vaddiaaee |",
+   "english": "The Lord Himself forgives him, and blesses him with glorious greatness.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਤਿਸ ਤੇ ਊਪਰਿ ਨਾਹੀ ਕੋਇ ॥",
+   "translit": "tis te aoopar naahee koe |",
+   "english": "There is none higher than Him.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਕਉਣੁ ਡਰੈ ਡਰੁ ਕਿਸ ਕਾ ਹੋਇ ॥੪॥",
+   "translit": "kaun ddarai ddar kis kaa hoe |4|",
+   "english": "Why should he be afraid? What should he ever fear? ||4||",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਗੁਰਮਤੀ ਸਾਂਤਿ ਵਸੈ ਸਰੀਰ ॥",
+   "translit": "guramatee saant vasai sareer |",
+   "english": "Through the Guru's Teachings, peace and tranquility abide within the body.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਆਵੈ ਨ ਜਾਇ ਨਾ ਦੁਖੁ ਪਾਏ ॥",
+   "translit": "aavai na jaae naa dukh paae |",
+   "english": "You shall not have to come or go, or suffer in sorrow.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਸਬਦੁ ਚੀਨੑਿ ਫਿਰਿ ਲਗੈ ਨ ਪੀਰ ॥",
+   "translit": "sabad cheena fir lagai na peer |",
+   "english": "Remember the Word of the Shabad, and you shall never suffer pain.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਨਾਮੇ ਰਾਤੇ ਸਹਜਿ ਸਮਾਏ ॥",
+   "translit": "naame raate sehaj samaae |",
+   "english": "Imbued with the Naam, the Name of the Lord, you shall merge in celestial peace.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਗੁਰਮੁਖਿ ਵੇਖੈ ਹਦੂਰਿ ॥",
+   "translit": "naanak guramukh vekhai hadoor |",
+   "english": "O Nanak, the Gurmukh beholds Him ever-present, close at hand.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਮੇਰਾ ਪ੍ਰਭੁ ਸਦ ਰਹਿਆ ਭਰਪੂਰਿ ॥੫॥",
+   "translit": "meraa prabh sad rahiaa bharapoor |5|",
+   "english": "My God is always fully pervading everywhere. ||5||",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਇਕਿ ਸੇਵਕ ਇਕਿ ਭਰਮਿ ਭੁਲਾਏ ॥",
+   "translit": "eik sevak ik bharam bhulaae |",
+   "english": "Some are selfless servants, while others wander, deluded by doubt.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਆਪੇ ਕਰੇ ਹਰਿ ਆਪਿ ਕਰਾਏ ॥",
+   "translit": "aape kare har aap karaae |",
+   "english": "The Lord Himself does, and causes everything to be done.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਮਨਿ ਰੋਸੁ ਕੀਜੈ ਜੇ ਦੂਜਾ ਹੋਇ ॥",
+   "translit": "man ros keejai je doojaa hoe |",
+   "english": "The mortal might complain, if there were any other.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਏਕੋ ਵਰਤੈ ਅਵਰੁ ਨ ਕੋਇ ॥",
+   "translit": "eko varatai avar na koe |",
+   "english": "The One Lord is all-pervading; there is no other at all.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਸਤਿਗੁਰੁ ਸੇਵੇ ਕਰਣੀ ਸਾਰੀ ॥",
+   "translit": "satigur seve karanee saaree |",
+   "english": "Serve the True Guru; this is the most excellent action.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਥਿਤੀ ਵਾਰ ਸਭਿ ਸਬਦਿ ਸੁਹਾਏ ॥",
+   "translit": "thitee vaar sabh sabad suhaae |",
+   "english": "All the lunar days, and the days of the week are beautiful, when one contemplates the Shabad.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਦਰਿ ਸਾਚੈ ਸਾਚੇ ਵੀਚਾਰੀ ॥੬॥",
+   "translit": "dar saachai saache veechaaree |6|",
+   "english": "In the Court of the True Lord, you shall be judged true. ||6||",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਸਤਿਗੁਰੁ ਸੇਵੇ ਤਾ ਫਲੁ ਪਾਏ ॥",
+   "translit": "satigur seve taa fal paae |",
+   "english": "If one serves the True Guru, he obtains the fruits of his rewards.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਗੁਰਸਬਦੁ ਨਿਹਚਲੁ ਸਦਾ ਸਚਿ ਸਮਾਹਿ ॥",
+   "translit": "gurasabad nihachal sadaa sach samaeh |",
+   "english": "But the Word of the Guru's Shabad is eternal and unchanging. Through it, one merges in the True Lord.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਥਿਤੀ ਵਾਰ ਤਾ ਜਾ ਸਚਿ ਰਾਤੇ ॥",
+   "translit": "thitee vaar taa jaa sach raate |",
+   "english": "The days are auspicious, when one is imbued with Truth.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਥਿਤੀ ਵਾਰ ਸਭਿ ਆਵਹਿ ਜਾਹਿ ॥",
+   "translit": "thitee vaar sabh aaveh jaeh |",
+   "english": "The omens and days all come and go.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਨਾਵੈ ਸਭਿ ਭਰਮਹਿ ਕਾਚੇ ॥੭॥",
+   "translit": "bin naavai sabh bharameh kaache |7|",
+   "english": "Without the Name, all the false ones wander deluded. ||7||",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਮਨਮੁਖ ਮਰਹਿ ਮਰਿ ਬਿਗਤੀ ਜਾਹਿ ॥",
+   "translit": "manamukh mareh mar bigatee jaeh |",
+   "english": "The self-willed manmukhs die, and dead, they fall into the most evil state.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਏਕੁ ਨ ਚੇਤਹਿ ਦੂਜੈ ਲੋਭਾਹਿ ॥",
+   "translit": "ek na cheteh doojai lobhaeh |",
+   "english": "They do not remember the One Lord; they are deluded by duality.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਆਪਿ ਉਪਾਏ ਉਪਾਵਣਹਾਰੁ ॥",
+   "translit": "aap upaae upaavanahaar |",
+   "english": "The Creator Himself creates.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਸਬਦੈ ਕਿਉ ਪਾਏ ਪਾਰੁ ॥",
+   "translit": "bin sabadai kiau paae paar |",
+   "english": "Without the Word of the Shabad, how can anyone cross over?",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਅਚੇਤ ਪਿੰਡੀ ਅਗਿਆਨ ਅੰਧਾਰੁ ॥",
+   "translit": "achet pinddee agiaan andhaar |",
+   "english": "The human body is unconscious, ignorant and blind.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਐਥੈ ਸੁਖੁ ਨ ਆਗੈ ਹੋਇ ॥",
+   "translit": "aithai sukh na aagai hoe |",
+   "english": "They find no peace, here or hereafter.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਭਵਿ ਭਵਿ ਭਰਮਹਿ ਕਾਚੀ ਸਾਰੀ ॥",
+   "translit": "bhav bhav bharameh kaachee saaree |",
+   "english": "They roll around and wander around, like the false dice on the board.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਬਹੁਤੇ ਭੇਖ ਕਰਹਿ ਭੇਖਧਾਰੀ ॥",
+   "translit": "bahute bhekh kareh bhekhadhaaree |",
+   "english": "The religious fanatics wear all sorts of religious robes.",
+   "shabadId": "M0R"
+  },
+  {
+   "gurmukhi": "ਆਪੇ ਕੀਤੋਨੁ ਗੁਰ ਵੀਚਾਰੁ ॥੮॥",
+   "translit": "aape keeton gur veechaar |8|",
+   "english": "He Himself contemplates the Guru's Word. ||8||",
+   "shabadId": "M0R"
+  }
+ ]
+}

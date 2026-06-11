@@ -1,0 +1,62 @@
+[
+  {
+    "id": "harnam-kaur",
+    "name": "Bibi Harnam Kaur",
+    "punjabi": "ਬੀਬੀ ਹਰਨਾਮ ਕੌਰ",
+    "role": "The Well-Listener · hydrologist of the Faltering, architect of the Panj Paani Ahd",
+    "era": "2003–2091 · The Faltering & The Turning",
+    "region": "majha",
+    "quote": "Everyone asked me how to get more water. Wrong question. The question was how to become the kind of people a river could trust.",
+    "note": "She spent the drought years lowering microphones into dying wells and making politicians listen to the silence on loudspeakers. The treaty tent on the dry riverbed was her idea: 'Let the negotiators sit where the water should be.'"
+  },
+  {
+    "id": "fateh-aulakh",
+    "name": "Fateh Singh Aulakh",
+    "punjabi": "ਫ਼ਤਿਹ ਸਿੰਘ ਔਲਖ",
+    "role": "Langar-grid engineer · first weaver of the kitchen mesh",
+    "era": "2011–2087 · The Turning",
+    "region": "malwa",
+    "quote": "I did not invent anything. The langar was already a grid — five hundred years of load-balancing. I just added wires to a wisdom.",
+    "note": "A power engineer who lost his farm to the debt years and rebuilt his vocation in gurdwara kitchens. His founding schematic for the Langar Grid is drawn on the back of a degh requisition form, now in the Salt Archive."
+  },
+  {
+    "id": "iqbal-bano",
+    "name": "Iqbal Bano Sandhu",
+    "punjabi": "ਇਕਬਾਲ ਬਾਨੋ ਸੰਧੂ",
+    "role": "First head gardener of Sanjha Bagh · keeper of kilometre zero",
+    "era": "2029–2118 · The Turning & The Building",
+    "region": "sanjha-bagh",
+    "quote": "People say the garden healed the border. No. The border was never sick — the border was the sickness. We composted it.",
+    "note": "Granddaughter of Partition survivors from both directions. She instituted the vow of two scripts and personally planted the bench at kilometre zero, under the descendant of the original wire-grown vine."
+  },
+  {
+    "id": "roop-lal",
+    "name": "Roop Lal Sahota",
+    "punjabi": "ਰੂਪ ਲਾਲ ਸਹੋਤਾ",
+    "role": "Balladeer of the canopy roads · voice of the Sunfield Covenant",
+    "era": "2042–2131 · The Building",
+    "region": "malwa",
+    "quote": "They etched the names of the debt-dead into the pylon and asked me to sing something hopeful. I sang the names. Hope that skips the grief is just forgetting with a melody.",
+    "note": "Born landless in the old cotton tracts, he walked every kilometre of the canopy fields singing the covenant villages into the trust, one panchayat at a time. His song-cycle 'Chhaan Vando' is still sung at Vaisakhi before any other music."
+  },
+  {
+    "id": "sundar-cheema",
+    "name": "Sundar Kaur Cheema",
+    "punjabi": "ਸੁੰਦਰ ਕੌਰ ਚੀਮਾ",
+    "role": "Third trustee of the Glacier Trust · author of the Children's Renewal",
+    "era": "2040–2126 · The Building & The Long Green",
+    "region": "headwaters",
+    "quote": "Adults kept signing fifty-year promises with thirty years left in them. I simply matched the signature to the lifespan. The children were never the symbolic choice. They were the legal one.",
+    "note": "A water-rights lawyer who took the rotation at the headwaters and never fully came down. Her ruling on the Children's Renewal runs four pages; the dissent she wrote to her own ruling, anticipating its abuses, runs forty."
+  },
+  {
+    "id": "agam",
+    "name": "Agam",
+    "punjabi": "ਅਗੰਮ",
+    "role": "First child-signatory of the renewed Glacier Compact",
+    "era": "b. 2076 · The Long Green",
+    "region": "headwaters",
+    "quote": "I was eleven. I remember the cold of the water in my hand, and the keeper saying 'drink facing downstream.' I have made every decision of my life facing downstream since.",
+    "note": "History records only the single name, by Agam's own lifelong insistence: 'Four thousand of us climbed. I held the pen for a minute.' Later served sixty years as a snow surveyor and declined the trusteeship twice."
+  }
+]

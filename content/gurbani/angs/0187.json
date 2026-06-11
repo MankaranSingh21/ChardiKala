@@ -1,0 +1,323 @@
+{
+ "ang": 187,
+ "lines": [
+  {
+   "gurmukhi": "ਕਵਨ ਬੋਲ ਪਾਰਬ੍ਰਹਮ ਰੀਝਾਵਉ ॥੧॥ ਰਹਾਉ ॥",
+   "translit": "kavan bol paarabraham reejhaavau |1| rahaau |",
+   "english": "What is that speech, by which I may please the Supreme Lord God? ||1||Pause||",
+   "shabadId": "GPT"
+  },
+  {
+   "gurmukhi": "ਕਵਨ ਸੁ ਪੂਜਾ ਤੇਰੀ ਕਰਉ ॥",
+   "translit": "kavan su poojaa teree krau |",
+   "english": "What worship service shall I perform for You?",
+   "shabadId": "GPT"
+  },
+  {
+   "gurmukhi": "ਕਵਨ ਗੁਨੁ ਜੋ ਤੁਝੁ ਲੈ ਗਾਵਉ ॥",
+   "translit": "kavan gun jo tujh lai gaavau |",
+   "english": "What is that virtue, by which I may sing of You?",
+   "shabadId": "GPT"
+  },
+  {
+   "gurmukhi": "ਕਵਨ ਤਪੁ ਜਿਤੁ ਤਪੀਆ ਹੋਇ ॥",
+   "translit": "kavan tap jit tapeea hoe |",
+   "english": "What is that penance, by which I may become a penitent?",
+   "shabadId": "GPT"
+  },
+  {
+   "gurmukhi": "ਕਵਨੁ ਸੁ ਨਾਮੁ ਹਉਮੈ ਮਲੁ ਖੋਇ ॥੩॥",
+   "translit": "kavan su naam haumai mal khoe |3|",
+   "english": "What is that Name, by which the filth of egotism may be washed away? ||3||",
+   "shabadId": "GPT"
+  },
+  {
+   "gurmukhi": "ਕਵਨ ਸੁ ਬਿਧਿ ਜਿਤੁ ਭਵਜਲ ਤਰਉ ॥੨॥",
+   "translit": "kavan su bidh jit bhavajal trau |2|",
+   "english": "How can I cross over the terrifying world-ocean? ||2||",
+   "shabadId": "GPT"
+  },
+  {
+   "gurmukhi": "ਗੁਣ ਪੂਜਾ ਗਿਆਨ ਧਿਆਨ ਨਾਨਕ ਸਗਲ ਘਾਲ ॥",
+   "translit": "gun poojaa giaan dhiaan naanak sagal ghaal |",
+   "english": "Virtue, worship, spiritual wisdom, meditation and all service, O Nanak,",
+   "shabadId": "GPT"
+  },
+  {
+   "gurmukhi": "ਜਿਸੁ ਕਰਿ ਕਿਰਪਾ ਸਤਿਗੁਰੁ ਮਿਲੈ ਦਇਆਲ ॥੪॥",
+   "translit": "jis kar kirapaa satigur milai deaal |4|",
+   "english": "are obtained from the True Guru, when, in His Mercy and Kindness, He meets us. ||4||",
+   "shabadId": "GPT"
+  },
+  {
+   "gurmukhi": "ਜਿਸ ਕੀ ਮਾਨਿ ਲੇਇ ਸੁਖਦਾਤਾ ॥੧॥ ਰਹਾਉ ਦੂਜਾ ॥੩੬॥੧੦੫॥",
+   "translit": "jis kee maan lee sukhadaataa |1| rahaau doojaa |36|105|",
+   "english": "who are approved by the Giver of peace. ||1||Second Pause||36||105||",
+   "shabadId": "GPT"
+  },
+  {
+   "gurmukhi": "ਤਿਸ ਹੀ ਗੁਨੁ ਤਿਨ ਹੀ ਪ੍ਰਭੁ ਜਾਤਾ ॥",
+   "translit": "tis hee gun tin hee prabh jaataa |",
+   "english": "They alone receive this merit, and they alone know God,",
+   "shabadId": "GPT"
+  },
+  {
+   "gurmukhi": "ਰਾਜ ਮਿਲਖ ਨਹੀ ਆਪਨ ਦਰਬਾ ॥੧॥",
+   "translit": "raaj milakh nahee aapan darabaa |1|",
+   "english": "Power, property and wealth are not yours. ||1||",
+   "shabadId": "MF4"
+  },
+  {
+   "gurmukhi": "ਆਪਨ ਤਨੁ ਨਹੀ ਜਾ ਕੋ ਗਰਬਾ ॥",
+   "translit": "aapan tan nahee jaa ko garabaa |",
+   "english": "The body which you are so proud of, does not belong to you.",
+   "shabadId": "MF4"
+  },
+  {
+   "gurmukhi": "ਗਉੜੀ ਮਹਲਾ ੫ ॥",
+   "translit": "gaurree mahalaa 5 |",
+   "english": "Gauree, Fifth Mehl:",
+   "shabadId": "MF4"
+  },
+  {
+   "gurmukhi": "ਆਪਨ ਨਾਮੁ ਸਤਿਗੁਰ ਤੇ ਪਾਇਓ ॥੧॥ ਰਹਾਉ ॥",
+   "translit": "aapan naam satigur te paaeo |1| rahaau |",
+   "english": "Only the Naam, the Name of the Lord, is yours; it is received from the True Guru. ||1||Pause||",
+   "shabadId": "MF4"
+  },
+  {
+   "gurmukhi": "ਆਪਨ ਨਹੀ ਕਾ ਕਉ ਲਪਟਾਇਓ ॥",
+   "translit": "aapan nahee kaa kau lapattaaeo |",
+   "english": "They are not yours, so why do you cling to them?",
+   "shabadId": "MF4"
+  },
+  {
+   "gurmukhi": "ਇਸਟ ਮੀਤ ਆਪ ਬਾਪੁ ਨ ਮਾਈ ॥੨॥",
+   "translit": "eisatt meet aap baap na maaee |2|",
+   "english": "Dear friends, mother and father are not yours. ||2||",
+   "shabadId": "MF4"
+  },
+  {
+   "gurmukhi": "ਸੁਇਨਾ ਰੂਪਾ ਫੁਨਿ ਨਹੀ ਦਾਮ ॥",
+   "translit": "sueinaa roopaa fun nahee daam |",
+   "english": "Gold, silver and money are not yours.",
+   "shabadId": "MF4"
+  },
+  {
+   "gurmukhi": "ਸੁਤ ਬਨਿਤਾ ਆਪਨ ਨਹੀ ਭਾਈ ॥",
+   "translit": "sut banitaa aapan nahee bhaaee |",
+   "english": "Children, spouse and siblings are not yours.",
+   "shabadId": "MF4"
+  },
+  {
+   "gurmukhi": "ਤਿਸ ਕਾ ਸਭੁ ਕਿਛੁ ਜਿਸ ਕਾ ਹਰਿ ਰਾਇਆ ॥੪॥੩੭॥੧੦੬॥",
+   "translit": "tis kaa sabh kichh jis kaa har raaeaa |4|37|106|",
+   "english": "Everything belongs to those who have the Lord as their King. ||4||37||106||",
+   "shabadId": "MF4"
+  },
+  {
+   "gurmukhi": "ਹੈਵਰ ਗੈਵਰ ਆਪਨ ਨਹੀ ਕਾਮ ॥੩॥",
+   "translit": "haivar gaivar aapan nahee kaam |3|",
+   "english": "Fine horses and magnificent elephants are of no use to you. ||3||",
+   "shabadId": "MF4"
+  },
+  {
+   "gurmukhi": "ਕਹੁ ਨਾਨਕ ਜੋ ਗੁਰਿ ਬਖਸਿ ਮਿਲਾਇਆ ॥",
+   "translit": "kahu naanak jo gur bakhas milaaeaa |",
+   "english": "Says Nanak, those whom the Guru forgives, meet with the Lord.",
+   "shabadId": "MF4"
+  },
+  {
+   "gurmukhi": "ਗੁਰ ਕੇ ਚਰਣ ਊਪਰਿ ਮੇਰੇ ਮਾਥੇ ॥",
+   "translit": "gur ke charan aoopar mere maathe |",
+   "english": "I place the Guru's Feet on my forehead,",
+   "shabadId": "C4G"
+  },
+  {
+   "gurmukhi": "ਤਾ ਤੇ ਦੁਖ ਮੇਰੇ ਸਗਲੇ ਲਾਥੇ ॥੧॥",
+   "translit": "taa te dukh mere sagale laathe |1|",
+   "english": "and all my pains are gone. ||1||",
+   "shabadId": "C4G"
+  },
+  {
+   "gurmukhi": "ਗਉੜੀ ਮਹਲਾ ੫ ॥",
+   "translit": "gaurree mahalaa 5 |",
+   "english": "Gauree, Fifth Mehl:",
+   "shabadId": "C4G"
+  },
+  {
+   "gurmukhi": "ਆਤਮ ਚੀਨਿ ਪਰਮ ਰੰਗ ਮਾਨੀ ॥੧॥ ਰਹਾਉ ॥",
+   "translit": "aatam cheen param rang maanee |1| rahaau |",
+   "english": "I have come to understand my soul, and I enjoy supreme bliss. ||1||Pause||",
+   "shabadId": "C4G"
+  },
+  {
+   "gurmukhi": "ਸਤਿਗੁਰ ਅਪੁਨੇ ਕਉ ਕੁਰਬਾਨੀ ॥",
+   "translit": "satigur apune kau kurabaanee |",
+   "english": "I am a sacrifice to my True Guru.",
+   "shabadId": "C4G"
+  },
+  {
+   "gurmukhi": "ਗੁਰ ਕਾ ਸਬਦੁ ਲਗੋ ਮਨਿ ਮੀਠਾ ॥",
+   "translit": "gur kaa sabad lago man meetthaa |",
+   "english": "The Word of the Guru's Shabad has become sweet to my mind,",
+   "shabadId": "C4G"
+  },
+  {
+   "gurmukhi": "ਅਹੰਬੁਧਿ ਤਿਨਿ ਸਗਲ ਤਿਆਗੀ ॥੨॥",
+   "translit": "ahanbudh tin sagal tiaagee |2|",
+   "english": "which has removed all my arrogant intellect. ||2||",
+   "shabadId": "C4G"
+  },
+  {
+   "gurmukhi": "ਚਰਣ ਰੇਣੁ ਗੁਰ ਕੀ ਮੁਖਿ ਲਾਗੀ ॥",
+   "translit": "charan ren gur kee mukh laagee |",
+   "english": "I have applied the dust of the Guru's Feet to my face,",
+   "shabadId": "C4G"
+  },
+  {
+   "gurmukhi": "ਗੁਰੁ ਸੁਖਦਾਤਾ ਗੁਰੁ ਕਰਤਾਰੁ ॥",
+   "translit": "gur sukhadaataa gur karataar |",
+   "english": "The Guru is the Giver of peace; the Guru is the Creator.",
+   "shabadId": "C4G"
+  },
+  {
+   "gurmukhi": "ਜੀਅ ਪ੍ਰਾਣ ਨਾਨਕ ਗੁਰੁ ਆਧਾਰੁ ॥੪॥੩੮॥੧੦੭॥",
+   "translit": "jeea praan naanak gur aadhaar |4|38|107|",
+   "english": "O Nanak, the Guru is the Support of the breath of life and the soul. ||4||38||107||",
+   "shabadId": "C4G"
+  },
+  {
+   "gurmukhi": "ਪਾਰਬ੍ਰਹਮੁ ਤਾ ਤੇ ਮੋਹਿ ਡੀਠਾ ॥੩॥",
+   "translit": "paarabraham taa te mohi ddeetthaa |3|",
+   "english": "and I behold the Supreme Lord God. ||3||",
+   "shabadId": "C4G"
+  },
+  {
+   "gurmukhi": "ਰੇ ਮਨ ਮੇਰੇ ਤੂੰ ਤਾ ਕਉ ਆਹਿ ॥",
+   "translit": "re man mere toon taa kau aaeh |",
+   "english": "O my mind, seek the One,",
+   "shabadId": "NK7"
+  },
+  {
+   "gurmukhi": "ਜਾ ਕੈ ਊਣਾ ਕਛਹੂ ਨਾਹਿ ॥੧॥",
+   "translit": "jaa kai aoonaa kachhahoo naeh |1|",
+   "english": "who lacks nothing. ||1||",
+   "shabadId": "NK7"
+  },
+  {
+   "gurmukhi": "ਹਰਿ ਸਾ ਪ੍ਰੀਤਮੁ ਕਰਿ ਮਨ ਮੀਤ ॥",
+   "translit": "har saa preetam kar man meet |",
+   "english": "Make the Beloved Lord your friend.",
+   "shabadId": "NK7"
+  },
+  {
+   "gurmukhi": "ਗਉੜੀ ਮਹਲਾ ੫ ॥",
+   "translit": "gaurree mahalaa 5 |",
+   "english": "Gauree, Fifth Mehl:",
+   "shabadId": "NK7"
+  },
+  {
+   "gurmukhi": "ਪ੍ਰਾਨ ਅਧਾਰੁ ਰਾਖਹੁ ਸਦ ਚੀਤ ॥੧॥ ਰਹਾਉ ॥",
+   "translit": "praan adhaar raakhahu sad cheet |1| rahaau |",
+   "english": "Keep Him constantly in your mind; He is the Support of the breath of life. ||1||Pause||",
+   "shabadId": "NK7"
+  },
+  {
+   "gurmukhi": "ਰੇ ਮਨ ਮੇਰੇ ਤੂੰ ਤਾ ਕਉ ਸੇਵਿ ॥",
+   "translit": "re man mere toon taa kau sev |",
+   "english": "O my mind, serve Him;",
+   "shabadId": "NK7"
+  },
+  {
+   "gurmukhi": "ਆਦਿ ਜੁਗਾਦਿ ਜਾ ਕਾ ਭਰਵਾਸਾ ॥੩॥",
+   "translit": "aad jugaad jaa kaa bharavaasaa |3|",
+   "english": "who is the Support of all beings, from the very beginning of time, and throughout the ages. ||3||",
+   "shabadId": "NK7"
+  },
+  {
+   "gurmukhi": "ਤਿਸੁ ਊਪਰਿ ਮਨ ਕਰਿ ਤੂੰ ਆਸਾ ॥",
+   "translit": "tis aoopar man kar toon aasaa |",
+   "english": "Place your hopes in the One",
+   "shabadId": "NK7"
+  },
+  {
+   "gurmukhi": "ਆਦਿ ਪੁਰਖ ਅਪਰੰਪਰ ਦੇਵ ॥੨॥",
+   "translit": "aad purakh aparanpar dev |2|",
+   "english": "He is the Primal Being, the Infinite Divine Lord. ||2||",
+   "shabadId": "NK7"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕੁ ਗਾਵੈ ਗੁਰ ਮਿਲਿ ਸੋਇ ॥੪॥੩੯॥੧੦੮॥",
+   "translit": "naanak gaavai gur mil soe |4|39|108|",
+   "english": "meeting the Guru, Nanak sings His Glorious Praises. ||4||39||108||",
+   "shabadId": "NK7"
+  },
+  {
+   "gurmukhi": "ਜਾ ਕੀ ਪ੍ਰੀਤਿ ਸਦਾ ਸੁਖੁ ਹੋਇ ॥",
+   "translit": "jaa kee preet sadaa sukh hoe |",
+   "english": "His Love brings eternal peace;",
+   "shabadId": "NK7"
+  },
+  {
+   "gurmukhi": "ਗਉੜੀ ਮਹਲਾ ੫ ॥",
+   "translit": "gaurree mahalaa 5 |",
+   "english": "Gauree, Fifth Mehl:",
+   "shabadId": "MFD"
+  },
+  {
+   "gurmukhi": "ਮੀਤ ਕੇ ਕਰਤਬ ਕੁਸਲ ਸਮਾਨਾ ॥੧॥",
+   "translit": "meet ke karatab kusal samaanaa |1|",
+   "english": "My Friend's actions are pleasing to me. ||1||",
+   "shabadId": "MFD"
+  },
+  {
+   "gurmukhi": "ਏਕਾ ਟੇਕ ਮੇਰੈ ਮਨਿ ਚੀਤ ॥",
+   "translit": "ekaa ttek merai man cheet |",
+   "english": "Within my conscious mind, the One Lord is my only Support.",
+   "shabadId": "MFD"
+  },
+  {
+   "gurmukhi": "ਮੀਤੁ ਕਰੈ ਸੋਈ ਹਮ ਮਾਨਾ ॥",
+   "translit": "meet karai soee ham maanaa |",
+   "english": "Whatever my Friend does, I accept.",
+   "shabadId": "MFD"
+  },
+  {
+   "gurmukhi": "ਜਿਸੁ ਕਿਛੁ ਕਰਣਾ ਸੁ ਹਮਰਾ ਮੀਤ ॥੧॥ ਰਹਾਉ ॥",
+   "translit": "jis kichh karanaa su hamaraa meet |1| rahaau |",
+   "english": "One who does this is my Friend. ||1||Pause||",
+   "shabadId": "MFD"
+  },
+  {
+   "gurmukhi": "ਗੁਰ ਕਿਰਪਾ ਤੇ ਮੋਹਿ ਅਸਨਾਹਾ ॥੨॥",
+   "translit": "gur kirapaa te mohi asanaahaa |2|",
+   "english": "By Guru's Grace, I give my love to Him. ||2||",
+   "shabadId": "MFD"
+  },
+  {
+   "gurmukhi": "ਮੀਤੁ ਹਮਾਰਾ ਵੇਪਰਵਾਹਾ ॥",
+   "translit": "meet hamaaraa veparavaahaa |",
+   "english": "My Friend is Carefree.",
+   "shabadId": "MFD"
+  },
+  {
+   "gurmukhi": "ਹਮ ਦਾਸੇ ਤੁਮ ਠਾਕੁਰ ਮੇਰੇ ॥",
+   "translit": "ham daase tum tthaakur mere |",
+   "english": "I am Your servant; You are my Lord and Master.",
+   "shabadId": "MFD"
+  },
+  {
+   "gurmukhi": "ਮੀਤੁ ਹਮਾਰਾ ਅੰਤਰਜਾਮੀ ॥",
+   "translit": "meet hamaaraa antarajaamee |",
+   "english": "My Friend is the Inner-knower, the Searcher of hearts.",
+   "shabadId": "MFD"
+  },
+  {
+   "gurmukhi": "ਸਮਰਥ ਪੁਰਖੁ ਪਾਰਬ੍ਰਹਮੁ ਸੁਆਮੀ ॥੩॥",
+   "translit": "samarath purakh paarabraham suaamee |3|",
+   "english": "He is the All-powerful Being, the Supreme Lord and Master. ||3||",
+   "shabadId": "MFD"
+  }
+ ]
+}

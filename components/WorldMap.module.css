@@ -1,0 +1,132 @@
+.map {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.mountains path {
+  fill: none;
+  stroke: var(--ice);
+  stroke-opacity: 0.5;
+  stroke-width: 2;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+
+/* ----- zones ----- */
+
+.zone {
+  cursor: pointer;
+  outline: none;
+  color: var(--cream-dim);
+}
+
+.zone[data-hue="saffron"] { color: var(--saffron); }
+.zone[data-hue="leaf"] { color: var(--leaf); }
+.zone[data-hue="gold"] { color: var(--marigold); }
+.zone[data-hue="rose"] { color: var(--rose); }
+.zone[data-hue="slate"] { color: var(--slate); }
+.zone[data-hue="ice"] { color: var(--ice); }
+
+.zoneShape {
+  fill: url(#zoneGlow);
+  stroke: currentColor;
+  stroke-opacity: 0.5;
+  stroke-width: 1.4;
+  transition:
+    fill-opacity 0.35s var(--ease-soft),
+    stroke-opacity 0.35s var(--ease-soft),
+    filter 0.35s var(--ease-soft);
+  fill-opacity: 0.55;
+}
+
+/* fatten the border-garden ribbon's hit area and presence */
+.zone[data-ribbon] .zoneShape {
+  stroke-width: 10;
+  stroke-opacity: 0.28;
+  stroke-linejoin: round;
+}
+
+.zone:hover .zoneShape,
+.zone:focus-visible .zoneShape,
+.zone[data-selected] .zoneShape {
+  fill-opacity: 1;
+  stroke-opacity: 0.95;
+  filter: drop-shadow(0 0 14px currentColor);
+}
+
+.zone:focus-visible .zoneShape {
+  stroke-dasharray: 5 4;
+}
+
+.zoneLabel {
+  fill: var(--cream);
+  font-family: var(--font-display);
+  font-size: 19px;
+  letter-spacing: 0.02em;
+  paint-order: stroke;
+  stroke: rgba(10, 14, 30, 0.75);
+  stroke-width: 4;
+  pointer-events: none;
+  transition: fill 0.3s var(--ease-soft);
+}
+
+.zoneSub {
+  fill: currentColor;
+  font-size: 15px;
+  opacity: 0.85;
+  paint-order: stroke;
+  stroke: rgba(10, 14, 30, 0.75);
+  stroke-width: 4;
+  pointer-events: none;
+}
+
+.zone:hover .zoneLabel,
+.zone[data-selected] .zoneLabel {
+  fill: #ffffff;
+}
+
+/* ----- rivers ----- */
+
+.rivers path {
+  fill: none;
+  stroke: url(#riverStroke);
+  stroke-width: 2.4;
+  stroke-linecap: round;
+  opacity: 0.85;
+  filter: drop-shadow(0 0 6px rgba(95, 168, 184, 0.55));
+  pointer-events: none;
+}
+
+.riverLabels text {
+  fill: var(--river);
+  font-family: var(--font-body);
+  font-style: italic;
+  font-size: 13px;
+  letter-spacing: 0.14em;
+  opacity: 0.9;
+}
+
+/* ----- the rising sun ----- */
+
+.sun circle {
+  fill: var(--saffron);
+  filter: blur(1px) drop-shadow(0 0 30px rgba(240, 163, 46, 0.8));
+}
+
+.sun line {
+  stroke: var(--saffron);
+  stroke-width: 2;
+  stroke-linecap: round;
+  opacity: 0.7;
+  animation: shimmer 4s ease-in-out infinite;
+}
+
+.sun line:nth-child(odd) {
+  animation-delay: 2s;
+}
+
+@keyframes shimmer {
+  0%, 100% { opacity: 0.35; }
+  50% { opacity: 0.85; }
+}

@@ -1,0 +1,203 @@
+.overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  background: rgba(6, 9, 20, 0.6);
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+}
+
+.drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 61;
+  width: min(560px, 94vw);
+  background:
+    radial-gradient(120% 30% at 50% 0%, rgba(240, 163, 46, 0.07) 0%, transparent 70%),
+    linear-gradient(180deg, #11182f 0%, #0c1124 100%);
+  border-left: 1px solid var(--line);
+  box-shadow: -40px 0 90px rgba(0, 0, 0, 0.6);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+/* hue accent — a glowing seam along the drawer's left edge */
+.drawer::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 3px;
+  background: var(--accent, var(--saffron));
+  box-shadow: 0 0 18px var(--accent, var(--saffron));
+}
+
+.drawer[data-hue="saffron"] { --accent: var(--saffron); }
+.drawer[data-hue="leaf"] { --accent: var(--leaf); }
+.drawer[data-hue="gold"] { --accent: var(--marigold); }
+.drawer[data-hue="rose"] { --accent: var(--rose); }
+.drawer[data-hue="slate"] { --accent: var(--slate); }
+.drawer[data-hue="ice"] { --accent: var(--ice); }
+
+.inner {
+  position: relative;
+  padding: 2.6rem 2.4rem 3rem;
+}
+
+.close {
+  position: absolute;
+  top: 1.2rem;
+  right: 1.2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  border: 1px solid var(--line);
+  color: var(--cream-dim);
+  font-size: 0.85rem;
+  transition: color 0.25s, border-color 0.25s, transform 0.25s;
+}
+
+.close:hover {
+  color: var(--cream);
+  border-color: var(--accent, var(--saffron));
+  transform: rotate(90deg);
+}
+
+.head {
+  margin-bottom: 2rem;
+  padding-bottom: 1.6rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.oldName {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  font-style: italic;
+  font-size: 0.95rem;
+  color: var(--muted);
+}
+
+.oldGurmukhi {
+  font-style: normal;
+  font-size: 1.25rem;
+  color: var(--accent, var(--saffron));
+}
+
+.name {
+  font-family: var(--font-display);
+  font-weight: 560;
+  font-size: clamp(1.9rem, 5vw, 2.5rem);
+  line-height: 1.08;
+  margin: 0.5rem 0 0.6rem;
+}
+
+.epithet {
+  font-style: italic;
+  font-size: 1.08rem;
+  color: var(--cream-dim);
+}
+
+.epithet::before { content: "— "; color: var(--accent, var(--saffron)); }
+
+.section {
+  margin-bottom: 1.9rem;
+}
+
+.sectionTitle {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  font-family: var(--font-body);
+  font-weight: 500;
+  font-size: 0.82rem;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--cream-dim);
+  margin-bottom: 0.7rem;
+}
+
+.sectionGurmukhi {
+  font-size: 1.05rem;
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--accent, var(--saffron));
+}
+
+.body {
+  color: var(--cream);
+  font-size: 1.02rem;
+  line-height: 1.72;
+}
+
+.fragments {
+  list-style: none;
+  display: grid;
+  gap: 0.7rem;
+}
+
+.fragment {
+  display: grid;
+  gap: 0.1rem;
+  padding: 0.8rem 1rem;
+  border: 1px solid var(--line);
+  border-left: 2px solid var(--accent, var(--saffron));
+  border-radius: 0 8px 8px 0;
+  background: rgba(243, 234, 215, 0.03);
+}
+
+.fragmentGurmukhi {
+  font-size: 1.35rem;
+  color: var(--accent, var(--saffron));
+}
+
+.fragmentTranslit {
+  font-style: italic;
+  font-size: 0.95rem;
+  color: var(--cream);
+}
+
+.fragmentGloss {
+  font-size: 0.92rem;
+  color: var(--cream-dim);
+}
+
+.excerpt {
+  position: relative;
+  padding: 1.4rem 1.5rem;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background:
+    radial-gradient(100% 60% at 50% 0%, rgba(240, 163, 46, 0.05) 0%, transparent 70%),
+    rgba(243, 234, 215, 0.025);
+  font-size: 1.04rem;
+  line-height: 1.78;
+}
+
+.excerpt p + p {
+  margin-top: 0.9rem;
+}
+
+.excerpt > p:first-child::first-letter {
+  font-family: var(--font-display);
+  font-size: 3.1em;
+  line-height: 0.85;
+  float: left;
+  padding: 0.08em 0.12em 0 0;
+  color: var(--accent, var(--saffron));
+}
+
+.excerpt em {
+  color: var(--marigold);
+}
+
+@media (max-width: 560px) {
+  .inner {
+    padding: 2.2rem 1.4rem 2.6rem;
+  }
+}

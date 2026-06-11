@@ -1,0 +1,46 @@
+.jump {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.label {
+  font-style: italic;
+  font-size: 0.95rem;
+  color: var(--cream-dim);
+}
+
+.input {
+  width: 6.5rem;
+  padding: 0.5rem 0.8rem;
+  font: inherit;
+  color: var(--cream);
+  background: rgba(243, 234, 215, 0.05);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
+
+.input::-webkit-outer-spin-button,
+.input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.input:focus {
+  outline: none;
+  border-color: var(--saffron);
+}
+
+.button {
+  padding: 0.5rem 1.1rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  color: var(--cream-dim);
+  transition: color 0.25s, border-color 0.25s;
+}
+
+.button:hover {
+  color: var(--marigold);
+  border-color: var(--saffron);
+}

@@ -1,0 +1,132 @@
+.browser {
+  margin-top: 3rem;
+}
+
+.controls {
+  display: grid;
+  gap: 1rem;
+  margin-bottom: 2.2rem;
+}
+
+.search {
+  width: 100%;
+  max-width: 560px;
+  padding: 0.85rem 1.2rem;
+  font: inherit;
+  font-size: 1.05rem;
+  color: var(--cream);
+  background: rgba(243, 234, 215, 0.05);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+}
+
+.search::placeholder {
+  color: var(--muted);
+  font-style: italic;
+}
+
+.search:focus {
+  outline: none;
+  border-color: var(--saffron);
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.filter {
+  padding: 0.32rem 0.95rem;
+  font-size: 0.88rem;
+  color: var(--cream-dim);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  transition: color 0.2s, border-color 0.2s, background 0.2s;
+}
+
+.filter:hover {
+  color: var(--cream);
+  border-color: rgba(240, 163, 46, 0.5);
+}
+
+.filterActive {
+  color: var(--night);
+  background: var(--saffron);
+  border-color: var(--saffron);
+}
+
+.filterActive:hover {
+  color: var(--night);
+}
+
+.empty {
+  font-style: italic;
+  color: var(--muted);
+  padding: 2rem 0;
+}
+
+.grid {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  height: 100%;
+  padding: 1.2rem 1.3rem;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: rgba(16, 23, 51, 0.5);
+  transition: border-color 0.3s var(--ease-soft), transform 0.3s var(--ease-soft);
+}
+
+.card:hover {
+  border-color: rgba(240, 163, 46, 0.45);
+  transform: translateY(-2px);
+}
+
+.cardCategory {
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--saffron);
+}
+
+.cardTitle {
+  display: flex;
+  align-items: baseline;
+  gap: 0.55rem;
+  flex-wrap: wrap;
+  font-family: var(--font-display);
+  font-weight: 550;
+  font-size: 1.18rem;
+  line-height: 1.25;
+}
+
+.cardGurmukhi {
+  font-size: 1rem;
+  color: var(--marigold);
+}
+
+.cardSummary {
+  font-size: 0.9rem;
+  line-height: 1.55;
+  color: var(--cream-dim);
+}
+
+@media (max-width: 900px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,161 @@
+/* The hour before light: deep indigo night warming to a saffron horizon */
+:root {
+  --night: #0a0e1e;
+  --night-2: #101733;
+  --night-3: #182045;
+  --horizon: #2a2348;
+  --saffron: #f0a32e;
+  --marigold: #ffc95e;
+  --ember: #e07b39;
+  --rose: #e08a8a;
+  --leaf: #9dc183;
+  --ice: #aedce8;
+  --slate: #93a3bd;
+  --river: #5fa8b8;
+  --cream: #f3ead7;
+  --cream-dim: #cfc4ab;
+  --muted: #8d8775;
+  --line: rgba(243, 234, 215, 0.14);
+
+  --font-display: var(--fraunces), "Georgia", serif;
+  --font-body: var(--newsreader), "Georgia", serif;
+  --font-gurmukhi: var(--tiro), serif;
+
+  --ease-soft: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--night);
+  color: var(--cream);
+  font-family: var(--font-body);
+  font-size: 17px;
+  line-height: 1.65;
+  min-height: 100vh;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* The pre-dawn sky: fixed gradient backdrop with a warm seam at the horizon */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -2;
+  background:
+    radial-gradient(120% 55% at 50% 108%, rgba(240, 163, 46, 0.22) 0%, rgba(224, 123, 57, 0.10) 32%, transparent 62%),
+    radial-gradient(90% 60% at 80% -10%, rgba(95, 168, 184, 0.10) 0%, transparent 60%),
+    linear-gradient(180deg, var(--night) 0%, var(--night-2) 55%, var(--horizon) 100%);
+}
+
+/* Grain — the page is printed matter, not a screen */
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 10;
+  pointer-events: none;
+  opacity: 0.5;
+  mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)' opacity='0.35'/%3E%3C/svg%3E");
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+::selection {
+  background: var(--saffron);
+  color: var(--night);
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.gurmukhi {
+  font-family: var(--font-gurmukhi);
+  font-weight: 400;
+}
+
+/* Shared page scaffolding for the inner chapters */
+.page {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 9.5rem 2rem 6rem;
+}
+
+.pageKicker {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  color: var(--saffron);
+  font-family: var(--font-body);
+  font-style: italic;
+  font-size: 1.05rem;
+  letter-spacing: 0.04em;
+}
+
+.pageKicker::before {
+  content: "";
+  width: 3rem;
+  height: 1px;
+  background: linear-gradient(90deg, var(--saffron), transparent);
+}
+
+.pageTitle {
+  font-family: var(--font-display);
+  font-weight: 560;
+  font-size: clamp(2.6rem, 6vw, 4.2rem);
+  line-height: 1.05;
+  letter-spacing: -0.015em;
+  margin: 0.75rem 0 0.5rem;
+}
+
+.pageTitle .gurmukhi {
+  color: var(--marigold);
+}
+
+.pageLede {
+  max-width: 56ch;
+  color: var(--cream-dim);
+  font-size: 1.12rem;
+  margin-top: 1.1rem;
+}
+
+@media (max-width: 640px) {
+  .page {
+    padding: 7.5rem 1.25rem 4rem;
+  }
+}
+
+/* Inside the fiction wing, the subnav band already clears the fixed header */
+.worldWing main {
+  padding-top: 3.5rem !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

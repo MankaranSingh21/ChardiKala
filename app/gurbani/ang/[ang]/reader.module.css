@@ -1,0 +1,65 @@
+.readerPage {
+  max-width: 880px;
+}
+
+.head {
+  margin-bottom: 1.6rem;
+}
+
+.head a:hover {
+  color: var(--marigold);
+}
+
+.angTitle {
+  font-family: var(--font-display);
+  font-weight: 560;
+  font-size: clamp(2.2rem, 5vw, 3.2rem);
+  margin-top: 0.6rem;
+}
+
+.angNumber {
+  color: var(--marigold);
+}
+
+.angTotal {
+  font-size: 0.45em;
+  font-weight: 400;
+  font-style: italic;
+  color: var(--muted);
+}
+
+.pager {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: 1.4rem 0;
+}
+
+.pageLink {
+  padding: 0.45rem 1.1rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  font-size: 0.95rem;
+  color: var(--cream-dim);
+  transition: color 0.25s, border-color 0.25s;
+}
+
+a.pageLink:hover {
+  color: var(--marigold);
+  border-color: var(--saffron);
+}
+
+.disabled {
+  opacity: 0.4;
+  font-style: italic;
+}
+
+.credits {
+  margin-top: 2.5rem;
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--muted);
+  text-align: center;
+}

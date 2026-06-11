@@ -1,0 +1,9 @@
+{
+  "source": "Shabad OS Database (github.com/shabados/database) — Gurmukhi text from the SGPC Shabadaarth edition of Sri Guru Granth Sahib Ji",
+  "translationAttribution": "English translation by Dr. Sant Singh Khalsa, via the Shabad OS Database",
+  "transliterationAttribution": "Roman transliteration generated with gurmukhi-utils (Shabad OS)",
+  "extractedAt": "2026-06-11T08:37:39.534Z",
+  "notes": "Vishraam (pause) punctuation has been stripped from the Gurmukhi for display. Text content of the Shabad OS database is public domain; treat the bani with respect — derogatory alteration is forbidden by the database licence and by conscience.",
+  "totalAngs": 1430,
+  "totalLines": 60555
+}

@@ -1,0 +1,329 @@
+{
+ "ang": 164,
+ "lines": [
+  {
+   "gurmukhi": "ਮੈ ਮੂਰਖ ਹਰਿ ਆਸ ਤੁਮਾਰੀ ॥੨॥",
+   "translit": "mai moorakh har aas tumaaree |2|",
+   "english": "I am just a fool, Lord; I place my hopes in You! ||2||",
+   "shabadId": "VQV"
+  },
+  {
+   "gurmukhi": "ਪਰ ਤ੍ਰਿਅ ਤਿਆਗੁ ਕਰੀ ਬ੍ਰਹਮਚਾਰੀ ॥",
+   "translit": "par tria tiaag karee brahamachaaree |",
+   "english": "renouncing other men's women, he practices celibacy.",
+   "shabadId": "VQV"
+  },
+  {
+   "gurmukhi": "ਸੰਨਿਆਸੀ ਬਿਭੂਤ ਲਾਇ ਦੇਹ ਸਵਾਰੀ ॥",
+   "translit": "saniaasee bibhoot laae deh savaaree |",
+   "english": "The Sannyaasee smears his body with ashes;",
+   "shabadId": "VQV"
+  },
+  {
+   "gurmukhi": "ਮੈ ਮੂਰਖ ਹਰਿ ਨਾਮੁ ਛਡਾਵੈ ॥੩॥",
+   "translit": "mai moorakh har naam chhaddaavai |3|",
+   "english": "I am just a fool - I am saved by the Lord's Name. ||3||",
+   "shabadId": "VQV"
+  },
+  {
+   "gurmukhi": "ਖਤ੍ਰੀ ਕਰਮ ਕਰੇ ਸੂਰਤਣੁ ਪਾਵੈ ॥",
+   "translit": "khatree karam kare sooratan paavai |",
+   "english": "The Kh'shaatriya acts bravely, and is recognized as a warrior.",
+   "shabadId": "VQV"
+  },
+  {
+   "gurmukhi": "ਸੂਦੁ ਵੈਸੁ ਪਰ ਕਿਰਤਿ ਕਮਾਵੈ ॥",
+   "translit": "sood vais par kirat kamaavai |",
+   "english": "The Shoodra and the Vaisha work and slave for others;",
+   "shabadId": "VQV"
+  },
+  {
+   "gurmukhi": "ਮੈ ਅੰਧੁਲੇ ਹਰਿ ਟੇਕ ਟਿਕਾਈ ॥੪॥੧॥੩੯॥",
+   "translit": "mai andhule har ttek ttikaaee |4|1|39|",
+   "english": "I am blind - I have taken the Lord as my Support. ||4||1||39||",
+   "shabadId": "VQV"
+  },
+  {
+   "gurmukhi": "ਸਭ ਤੇਰੀ ਸ੍ਰਿਸਟਿ ਤੂੰ ਆਪਿ ਰਹਿਆ ਸਮਾਈ ॥",
+   "translit": "sabh teree srisatt toon aap rahiaa samaaee |",
+   "english": "The entire Universe is Yours; You Yourself permeate and pervade it.",
+   "shabadId": "VQV"
+  },
+  {
+   "gurmukhi": "ਗੁਰਮੁਖਿ ਨਾਨਕ ਦੇ ਵਡਿਆਈ ॥",
+   "translit": "guramukh naanak de vaddiaaee |",
+   "english": "O Nanak, the Gurmukhs are blessed with glorious greatness.",
+   "shabadId": "VQV"
+  },
+  {
+   "gurmukhi": "ਗਉੜੀ ਗੁਆਰੇਰੀ ਮਹਲਾ ੪ ॥",
+   "translit": "gaurree guaareree mahalaa 4 |",
+   "english": "Gauree Gwaarayree, Fourth Mehl:",
+   "shabadId": "14K"
+  },
+  {
+   "gurmukhi": "ਨਿਰਗੁਣ ਕਥਾ ਕਥਾ ਹੈ ਹਰਿ ਕੀ ॥",
+   "translit": "niragun kathaa kathaa hai har kee |",
+   "english": "The Speech of the Lord is the most sublime speech, free of any attributes.",
+   "shabadId": "14K"
+  },
+  {
+   "gurmukhi": "ਭਜੁ ਮਿਲਿ ਸਾਧੂ ਸੰਗਤਿ ਜਨ ਕੀ ॥",
+   "translit": "bhaj mil saadhoo sangat jan kee |",
+   "english": "Vibrate on it, meditate on it, and join the Saadh Sangat, the Company of the Holy.",
+   "shabadId": "14K"
+  },
+  {
+   "gurmukhi": "ਗੋਬਿੰਦ ਸਤਸੰਗਤਿ ਮੇਲਾਇ ॥",
+   "translit": "gobind satasangat melaae |",
+   "english": "O Lord of the Universe, unite me with the Sat Sangat, the True Congregation.",
+   "shabadId": "14K"
+  },
+  {
+   "gurmukhi": "ਤਰੁ ਭਉਜਲੁ ਅਕਥ ਕਥਾ ਸੁਨਿ ਹਰਿ ਕੀ ॥੧॥",
+   "translit": "tar bhaujal akath kathaa sun har kee |1|",
+   "english": "Cross over the terrifying world-ocean, listening to the Unspoken Speech of the Lord. ||1||",
+   "shabadId": "14K"
+  },
+  {
+   "gurmukhi": "ਹਰਿ ਰਸੁ ਰਸਨਾ ਰਾਮ ਗੁਨ ਗਾਇ ॥੧॥ ਰਹਾਉ ॥",
+   "translit": "har ras rasanaa raam gun gaae |1| rahaau |",
+   "english": "My tongue savors the sublime essence of the Lord, singing the Lord's Glorious Praises. ||1||Pause||",
+   "shabadId": "14K"
+  },
+  {
+   "gurmukhi": "ਤਿਨ ਦਾਸਨਿ ਦਾਸ ਕਰਹੁ ਹਮ ਰਾਮਾ ॥",
+   "translit": "tin daasan daas karahu ham raamaa |",
+   "english": "please make me the slave of their slaves, Lord.",
+   "shabadId": "14K"
+  },
+  {
+   "gurmukhi": "ਜੋ ਜਨ ਧਿਆਵਹਿ ਹਰਿ ਹਰਿ ਨਾਮਾ ॥",
+   "translit": "jo jan dhiaaveh har har naamaa |",
+   "english": "Those humble beings who meditate on the Name of the Lord, Har, Har",
+   "shabadId": "14K"
+  },
+  {
+   "gurmukhi": "ਸੋ ਜਨੁ ਹਮਰੈ ਮਨਿ ਚਿਤਿ ਭਾਵੈ ॥",
+   "translit": "so jan hamarai man chit bhaavai |",
+   "english": "that humble servant is pleasing to my conscious mind.",
+   "shabadId": "14K"
+  },
+  {
+   "gurmukhi": "ਜੋ ਹਰਿ ਕੀ ਹਰਿ ਕਥਾ ਸੁਣਾਵੈ ॥",
+   "translit": "jo har kee har kathaa sunaavai |",
+   "english": "One who chants the Speech of the Lord",
+   "shabadId": "14K"
+  },
+  {
+   "gurmukhi": "ਜਨ ਕੀ ਸੇਵਾ ਊਤਮ ਕਾਮਾ ॥੨॥",
+   "translit": "jan kee sevaa aootam kaamaa |2|",
+   "english": "Serving Your slaves is the ultimate good deed. ||2||",
+   "shabadId": "14K"
+  },
+  {
+   "gurmukhi": "ਜਨ ਪਗ ਰੇਣੁ ਵਡਭਾਗੀ ਪਾਵੈ ॥੩॥",
+   "translit": "jan pag ren vaddabhaagee paavai |3|",
+   "english": "Those who are blessed with great good fortune obtain the dust of the feet of the humble. ||3||",
+   "shabadId": "14K"
+  },
+  {
+   "gurmukhi": "ਸੰਤ ਜਨਾ ਸਿਉ ਪ੍ਰੀਤਿ ਬਨਿ ਆਈ ॥",
+   "translit": "sant janaa siau preet ban aaee |",
+   "english": "Those who are blessed with such pre-ordained destiny",
+   "shabadId": "14K"
+  },
+  {
+   "gurmukhi": "ਜਿਨ ਕਉ ਲਿਖਤੁ ਲਿਖਿਆ ਧੁਰਿ ਪਾਈ ॥",
+   "translit": "jin kau likhat likhiaa dhur paaee |",
+   "english": "Are in love with the humble Saints.",
+   "shabadId": "14K"
+  },
+  {
+   "gurmukhi": "ਤੇ ਜਨ ਨਾਨਕ ਨਾਮਿ ਸਮਾਈ ॥੪॥੨॥੪੦॥",
+   "translit": "te jan naanak naam samaaee |4|2|40|",
+   "english": "Those humble beings, O Nanak, are absorbed in the Naam, the Name of the Lord. ||4||2||40||",
+   "shabadId": "14K"
+  },
+  {
+   "gurmukhi": "ਮਾਤਾ ਪ੍ਰੀਤਿ ਕਰੇ ਪੁਤੁ ਖਾਇ ॥",
+   "translit": "maataa preet kare put khaae |",
+   "english": "The mother loves to see her son eat.",
+   "shabadId": "9K9"
+  },
+  {
+   "gurmukhi": "ਗਉੜੀ ਗੁਆਰੇਰੀ ਮਹਲਾ ੪ ॥",
+   "translit": "gaurree guaareree mahalaa 4 |",
+   "english": "Gauree Gwaarayree, Fourth Mehl:",
+   "shabadId": "9K9"
+  },
+  {
+   "gurmukhi": "ਤੇ ਹਰਿ ਜਨ ਹਰਿ ਮੇਲਹੁ ਹਮ ਪਿਆਰੇ ॥",
+   "translit": "te har jan har melahu ham piaare |",
+   "english": "If only I could meet those humble servants of the Lord, O my Beloved.",
+   "shabadId": "9K9"
+  },
+  {
+   "gurmukhi": "ਮੀਨੇ ਪ੍ਰੀਤਿ ਭਈ ਜਲਿ ਨਾਇ ॥",
+   "translit": "meene preet bhee jal naae |",
+   "english": "The fish loves to bathe in the water.",
+   "shabadId": "9K9"
+  },
+  {
+   "gurmukhi": "ਸਤਿਗੁਰ ਪ੍ਰੀਤਿ ਗੁਰਸਿਖ ਮੁਖਿ ਪਾਇ ॥੧॥",
+   "translit": "satigur preet gurasikh mukh paae |1|",
+   "english": "The True Guru loves to place food in the mouth of His GurSikh. ||1||",
+   "shabadId": "9K9"
+  },
+  {
+   "gurmukhi": "ਜਿਉ ਮਿਲਿ ਬਛਰੇ ਗਊ ਪ੍ਰੀਤਿ ਲਗਾਵੈ ॥",
+   "translit": "jiau mil bachhare gaoo preet lagaavai |",
+   "english": "As the cow shows her love to her strayed calf when she finds it,",
+   "shabadId": "9K9"
+  },
+  {
+   "gurmukhi": "ਜਿਨ ਮਿਲਿਆ ਦੁਖ ਜਾਹਿ ਹਮਾਰੇ ॥੧॥ ਰਹਾਉ ॥",
+   "translit": "jin miliaa dukh jaeh hamaare |1| rahaau |",
+   "english": "Meeting with them, my sorrows depart. ||1||Pause||",
+   "shabadId": "9K9"
+  },
+  {
+   "gurmukhi": "ਕਾਮਨਿ ਪ੍ਰੀਤਿ ਜਾ ਪਿਰੁ ਘਰਿ ਆਵੈ ॥",
+   "translit": "kaaman preet jaa pir ghar aavai |",
+   "english": "and as the bride shows her love for her husband when he returns home,",
+   "shabadId": "9K9"
+  },
+  {
+   "gurmukhi": "ਸਾਰਿੰਗ ਪ੍ਰੀਤਿ ਬਸੈ ਜਲ ਧਾਰਾ ॥",
+   "translit": "saaring preet basai jal dhaaraa |",
+   "english": "The rainbird loves the rainwater, falling in torrents;",
+   "shabadId": "9K9"
+  },
+  {
+   "gurmukhi": "ਹਰਿ ਜਨ ਪ੍ਰੀਤਿ ਜਾ ਹਰਿ ਜਸੁ ਗਾਵੈ ॥੨॥",
+   "translit": "har jan preet jaa har jas gaavai |2|",
+   "english": "so does the Lord's humble servant love to sing the Praises of the Lord. ||2||",
+   "shabadId": "9K9"
+  },
+  {
+   "gurmukhi": "ਨਰ ਪ੍ਰਾਣੀ ਪ੍ਰੀਤਿ ਮਾਇਆ ਧਨੁ ਖਾਟੇ ॥",
+   "translit": "nar praanee preet maaeaa dhan khaatte |",
+   "english": "The mortal man loves to accumulate wealth and property.",
+   "shabadId": "9K9"
+  },
+  {
+   "gurmukhi": "ਹਰਿ ਜਨ ਪ੍ਰੀਤਿ ਜਪੈ ਨਿਰੰਕਾਰਾ ॥੩॥",
+   "translit": "har jan preet japai nirankaaraa |3|",
+   "english": "The humble servant of the Lord loves to meditate on the Formless Lord. ||3||",
+   "shabadId": "9K9"
+  },
+  {
+   "gurmukhi": "ਨਰਪਤਿ ਪ੍ਰੀਤਿ ਮਾਇਆ ਦੇਖਿ ਪਸਾਰਾ ॥",
+   "translit": "narapat preet maaeaa dekh pasaaraa |",
+   "english": "the king loves to see his wealth on display.",
+   "shabadId": "9K9"
+  },
+  {
+   "gurmukhi": "ਗੁਰਸਿਖ ਪ੍ਰੀਤਿ ਗੁਰੁ ਮਿਲੈ ਗਲਾਟੇ ॥",
+   "translit": "gurasikh preet gur milai galaatte |",
+   "english": "The GurSikh loves to meet and embrace the Guru.",
+   "shabadId": "9K9"
+  },
+  {
+   "gurmukhi": "ਜਨ ਨਾਨਕ ਪ੍ਰੀਤਿ ਸਾਧ ਪਗ ਚਾਟੇ ॥੪॥੩॥੪੧॥",
+   "translit": "jan naanak preet saadh pag chaatte |4|3|41|",
+   "english": "Servant Nanak loves to kiss the feet of the Holy. ||4||3||41||",
+   "shabadId": "9K9"
+  },
+  {
+   "gurmukhi": "ਗੁਰਸਿਖ ਪ੍ਰੀਤਿ ਗੁਰ ਮਿਲਿ ਆਘਾਇ ॥੧॥",
+   "translit": "gurasikh preet gur mil aaghaae |1|",
+   "english": "The GurSikh loves to find satisfaction by meeting the Guru. ||1||",
+   "shabadId": "0N6"
+  },
+  {
+   "gurmukhi": "ਭੂਖੇ ਪ੍ਰੀਤਿ ਹੋਵੈ ਅੰਨੁ ਖਾਇ ॥",
+   "translit": "bhookhe preet hovai an khaae |",
+   "english": "The hungry person loves to eat food.",
+   "shabadId": "0N6"
+  },
+  {
+   "gurmukhi": "ਗਉੜੀ ਗੁਆਰੇਰੀ ਮਹਲਾ ੪ ॥",
+   "translit": "gaurree guaareree mahalaa 4 |",
+   "english": "Gauree Gwaarayree, Fourth Mehl:",
+   "shabadId": "0N6"
+  },
+  {
+   "gurmukhi": "ਭੀਖਕ ਪ੍ਰੀਤਿ ਭੀਖ ਪ੍ਰਭ ਪਾਇ ॥",
+   "translit": "bheekhak preet bheekh prabh paae |",
+   "english": "The beggar loves to receive charity from the wealthy landlord.",
+   "shabadId": "0N6"
+  },
+  {
+   "gurmukhi": "ਹਰਿ ਦਰਸਨੁ ਦੇਹੁ ਹਰਿ ਆਸ ਤੁਮਾਰੀ ॥",
+   "translit": "har darasan dehu har aas tumaaree |",
+   "english": "O Lord, grant me the Blessed Vision of Your Darshan; I place my hopes in You, Lord.",
+   "shabadId": "0N6"
+  },
+  {
+   "gurmukhi": "ਕਰਿ ਕਿਰਪਾ ਲੋਚ ਪੂਰਿ ਹਮਾਰੀ ॥੧॥ ਰਹਾਉ ॥",
+   "translit": "kar kirapaa loch poor hamaaree |1| rahaau |",
+   "english": "Shower me with Your Mercy, and fulfill my longing. ||1||Pause||",
+   "shabadId": "0N6"
+  },
+  {
+   "gurmukhi": "ਚਕਵੀ ਪ੍ਰੀਤਿ ਸੂਰਜੁ ਮੁਖਿ ਲਾਗੈ ॥",
+   "translit": "chakavee preet sooraj mukh laagai |",
+   "english": "The song-bird loves the sun shining in her face.",
+   "shabadId": "0N6"
+  },
+  {
+   "gurmukhi": "ਮਿਲੈ ਪਿਆਰੇ ਸਭ ਦੁਖ ਤਿਆਗੈ ॥",
+   "translit": "milai piaare sabh dukh tiaagai |",
+   "english": "Meeting her Beloved, all her pains are left behind.",
+   "shabadId": "0N6"
+  },
+  {
+   "gurmukhi": "ਗੁਰਸਿਖ ਪ੍ਰੀਤਿ ਗੁਰੂ ਮੁਖਿ ਲਾਗੈ ॥੨॥",
+   "translit": "gurasikh preet guroo mukh laagai |2|",
+   "english": "The GurSikh loves to gaze upon the Face of the Guru. ||2||",
+   "shabadId": "0N6"
+  },
+  {
+   "gurmukhi": "ਹਿਰਦੈ ਬਿਗਸੈ ਦੇਖੈ ਮਾਇ ॥",
+   "translit": "hiradai bigasai dekhai maae |",
+   "english": "its heart blossoms forth upon seeing its mother.",
+   "shabadId": "0N6"
+  },
+  {
+   "gurmukhi": "ਬਛਰੇ ਪ੍ਰੀਤਿ ਖੀਰੁ ਮੁਖਿ ਖਾਇ ॥",
+   "translit": "bachhare preet kheer mukh khaae |",
+   "english": "The calf loves to suck its mother's milk;",
+   "shabadId": "0N6"
+  },
+  {
+   "gurmukhi": "ਗੁਰਸਿਖ ਪ੍ਰੀਤਿ ਗੁਰੂ ਮੁਖਿ ਲਾਇ ॥੩॥",
+   "translit": "gurasikh preet guroo mukh laae |3|",
+   "english": "The GurSikh loves to gaze upon the Face of the Guru. ||3||",
+   "shabadId": "0N6"
+  },
+  {
+   "gurmukhi": "ਜਨ ਨਾਨਕ ਪ੍ਰੀਤਿ ਤ੍ਰਿਪਤਿ ਗੁਰੁ ਸਾਚਾ ॥੪॥੪॥੪੨॥",
+   "translit": "jan naanak preet tripat gur saachaa |4|4|42|",
+   "english": "Servant Nanak is fulfilled, through the Love of the True Guru. ||4||4||42||",
+   "shabadId": "0N6"
+  },
+  {
+   "gurmukhi": "ਬਿਨਸਿ ਜਾਇ ਕੂਰਾ ਕਚੁ ਪਾਚਾ ॥",
+   "translit": "binas jaae kooraa kach paachaa |",
+   "english": "They shall pass away, like false and transitory decorations.",
+   "shabadId": "0N6"
+  },
+  {
+   "gurmukhi": "ਹੋਰੁ ਸਭ ਪ੍ਰੀਤਿ ਮਾਇਆ ਮੋਹੁ ਕਾਚਾ ॥",
+   "translit": "hor sabh preet maaeaa mohu kaachaa |",
+   "english": "All other loves and emotional attachment to Maya are false.",
+   "shabadId": "0N6"
+  }
+ ]
+}

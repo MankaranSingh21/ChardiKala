@@ -1,0 +1,98 @@
+[
+  {
+    "id": "majha",
+    "name": "The Sarovar Crescent",
+    "oldName": "Majha",
+    "punjabi": "ਮਾਝਾ",
+    "epithet": "where the water remembers how to be still",
+    "hue": "saffron",
+    "geography": "The heartland between the Ravi and the Beas, re-stitched into a crescent of ten thousand sarovars — mirror-pools dug in concentric rings around the old cities. Each pool banks the monsoon against the dry months; together they form a cooling lattice that holds the land at orchard temperature through the long summers. From the air, Majha at amrit vela looks like a sky that fell and decided to stay.",
+    "people": "Pool-keepers, kirtan acousticians, dawn-swimmers, masons of the soft brick. Majhails hold that hospitality is a load-bearing structure: every third building in the Crescent is a langar hall, and the unit of urban planning is the distance an old woman can comfortably walk carrying nothing, because someone will hand her whatever she needs along the way.",
+    "philosophy": "Amrit vela — the discipline of the hour before light. The Crescent rises in the dark, works the cool hours, and rests through the heat. Stillness is not idleness here; a sarovar is most useful when it is most still. The deepest engineering principle in Majha is borrowed from meditation: settle the surface, and the depth clarifies itself.",
+    "fragments": [
+      { "gurmukhi": "ਪਾਣੀ ਪਿਤਾ", "translit": "paani pitaa", "gloss": "water, the father — carved above every sluice gate in the Crescent" },
+      { "gurmukhi": "ਠੰਢ ਵਰਤਾਓ", "translit": "thandh vartaao", "gloss": "serve the coolness — what pool-keepers say instead of goodbye" }
+    ],
+    "excerpt": "majha.md"
+  },
+  {
+    "id": "doaba",
+    "name": "The Graft Country",
+    "oldName": "Doaba",
+    "punjabi": "ਦੁਆਬਾ",
+    "epithet": "every tree here is two trees agreeing",
+    "hue": "leaf",
+    "geography": "The wedge of land between the Beas and the Sutlej, terraced into vertical orchards that climb the old grain silos like ivy given ambition. The Graft Country runs on the science of joining: rootstock libraries, pollination corridors, canal-cooled fruit caves. Its towns are small and many, strung along the waterways like beads on a kirpan cord.",
+    "people": "Grafters, seed librarians, and the Returned — the great wave of diaspora families who came back in the famine generation and brought with them every variety of Panjab that had survived in a backyard in Yuba City or a garden in Southall. A Doabi introduction still includes, after your name, the name of the tree your family keeps.",
+    "philosophy": "Vand chhakna — share what you have before you are asked. The grafters extend it into botany: no variety is owned, every scion is lent forward. A tree that fruits for one household is considered unfinished work. Doaba's quiet heresy is that abundance is a technique, not a blessing, and the technique is openness.",
+    "fragments": [
+      { "gurmukhi": "ਕਲਮ ਉਧਾਰੀ", "translit": "kalam udhaari", "gloss": "the borrowed graft — a debt repaid by grafting onward to a stranger" },
+      { "gurmukhi": "ਮੁੜ ਆਏ", "translit": "murh aaye", "gloss": "the Returned — spoken with the weight of a harvest finally home" }
+    ],
+    "excerpt": "doaba.md"
+  },
+  {
+    "id": "malwa",
+    "name": "The Sunfield Steppe",
+    "oldName": "Malwa",
+    "punjabi": "ਮਾਲਵਾ",
+    "epithet": "the sky does the sowing now",
+    "hue": "gold",
+    "geography": "The broad dry south below the Sutlej, where the cotton debt-lands were retired and the horizon was given over to the dhup-seva: grazing meadows under high solar canopies that track the sun like fields of slow sunflowers. The steppe powers half the watershed and shades the other half's lentils. Dust storms still come; the canopies fold like hands and wait them out.",
+    "people": "Sun-tenders, mirror-polishers, shepherds who run flocks beneath the panel-shade, and the balladeers of the long roads — Malwa was always the singing region, and the maintenance walkways of the canopy fields turned out to be excellent stages. Malwais are blunt, generous, and constitutionally incapable of believing any task is beneath them.",
+    "philosophy": "Kirat karo — honest work as worship. The steppe's covenant is with effort itself: the sun gives without being asked, so the only honest response is to pass the gift along with labour added. Malwa keeps the world's least sentimental optimism. Hope here is not a mood. It is a maintenance schedule, kept daily, in heat and in dust.",
+    "fragments": [
+      { "gurmukhi": "ਧੁੱਪ ਦੀ ਸੇਵਾ", "translit": "dhup di seva", "gloss": "sun-service — the tending of the solar commons" },
+      { "gurmukhi": "ਛਾਂ ਵੰਡੋ", "translit": "chhaan vando", "gloss": "distribute the shade — Malwai shorthand for sharing whatever power you hold" }
+    ],
+    "excerpt": "malwa.md"
+  },
+  {
+    "id": "sanjha-bagh",
+    "name": "Sanjha Bagh",
+    "oldName": "the Border Country",
+    "punjabi": "ਸਾਂਝਾ ਬਾਗ਼",
+    "epithet": "a garden planted where a wound was",
+    "hue": "rose",
+    "geography": "The long ribbon of land that was once the fenced border, now a two-thousand-kilometre linear garden running north to south — the widest hedgerow on Earth. Floodlights became trellis posts. Watchtowers became dovecotes and weather stations. The garden is jointly kept by villages on both sides, and it has no gates because it has no walls.",
+    "people": "Gardeners, archivists of the Partition silence, beekeepers whose hives ignore every map ever drawn. The Bagh draws pilgrims, botanists, and the grief-struck in equal number. Its keepers take a vow of two languages: every sign, every song, every argument in the garden happens in Panjabi written both ways, Gurmukhi and Shahmukhi, facing each other like old friends across a table.",
+    "philosophy": "Sarbat da bhala — the welfare of all, with no footnotes. The Bagh is the world's standing answer to the question of whether a border can be composted. Its philosophy is practiced rather than preached: tend something that belongs to neither side until it belongs to both. Forgiveness, the gardeners say, is a perennial — it has to come up every year or it isn't real.",
+    "fragments": [
+      { "gurmukhi": "ਕੰਡਿਆਲੀ ਤਾਰ ਤੇ ਅੰਗੂਰ", "translit": "kandiali taar te angoor", "gloss": "grapes on the barbed wire — the Bagh's founding image, now its flag" },
+      { "gurmukhi": "ਦੋਵੇਂ ਪਾਸੇ ਪਿੰਡ", "translit": "doven paase pind", "gloss": "villages on both sides — how Bagh-keepers say 'my family'" }
+    ],
+    "excerpt": "sanjha-bagh.md"
+  },
+  {
+    "id": "pothohar",
+    "name": "The Wind Terraces",
+    "oldName": "Pothohar",
+    "punjabi": "ਪੋਠੋਹਾਰ",
+    "epithet": "the plateau that keeps the world's diary",
+    "hue": "slate",
+    "geography": "The high broken plateau in the west, between the Jhelum and the Indus reaches, stepped with wind terraces that comb power from the loo winds and the winter northerlies. Beneath it, the old salt mines of the range have been rededicated as the Salt Archive — galleries of crystal-dry vaults where the watershed keeps its records, its seed duplicates, and its testimonies.",
+    "people": "Wind-wrights, salt archivists, long-distance runners who carry the yearly archive copies down to the plains in relay — a ritual nobody has automated because nobody wants to. Pothoharis are spare with words and lavish with memory; their dinner-table game is reciting the rainfall of years no one present was alive for.",
+    "philosophy": "Simran — remembrance as a daily practice, scaled to a civilisation. The Terraces hold that forgetting is the first infrastructure failure, the one that causes all the others. So the plateau remembers professionally: every famine, every treaty, every seed. Not to keep grief alive, the archivists say, but to keep gratitude accurate.",
+    "fragments": [
+      { "gurmukhi": "ਲੂਣ ਦੀ ਯਾਦ", "translit": "loon di yaad", "gloss": "the salt's memory — anything preserved so it cannot be denied" },
+      { "gurmukhi": "ਹਵਾ ਪੜ੍ਹੋ", "translit": "havaa parho", "gloss": "read the wind — taught to children before they read letters" }
+    ],
+    "excerpt": "pothohar.md"
+  },
+  {
+    "id": "headwaters",
+    "name": "The Glacier Trust",
+    "oldName": "the Headwaters",
+    "punjabi": "ਪੰਜ ਦਰਿਆਵਾਂ ਦਾ ਪੰਘੂੜਾ",
+    "epithet": "where the five rivers are still one snow",
+    "hue": "ice",
+    "geography": "The mountain crown where the five rivers begin — a protectorate of shaded ice, white-painted scree, and high meadows administered not by any region but by a trust whose beneficiaries are legally defined as 'everyone downstream, forever.' The ice-works are humble: woven shade sails, stone check-dams, artificial glaciers grown in winter like crops. Nothing up here is monumental except the silence.",
+    "people": "Ice-keepers, snow surveyors, and the smallest population of any region — by design. Service in the Trust is a rotation, never a residence; you come up for a season of nimrata, of smallness under the peaks, and you go back down changed. Every child of the watershed makes the pilgrimage once: to drink, from a cupped hand, the water their great-grandchildren will need.",
+    "philosophy": "Nimrata — humility before the source. The Trust's only doctrine is that the headwaters belong to no one because they belong to the unborn. Up here Chardi Kala shows its quietest face: optimism not as brightness but as patience, the long faith of planting ice in winter so that someone you will never meet can drink in summer.",
+    "fragments": [
+      { "gurmukhi": "ਅਣਜੰਮਿਆਂ ਦਾ ਪਾਣੀ", "translit": "anjammian da paani", "gloss": "the water of the unborn — the Trust's legal and spiritual term for the glaciers" },
+      { "gurmukhi": "ਬਰਫ਼ ਬੀਜੋ", "translit": "baraf beejo", "gloss": "sow the ice — the winter work of growing artificial glaciers" }
+    ],
+    "excerpt": "headwaters.md"
+  }
+]

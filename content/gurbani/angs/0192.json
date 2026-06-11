@@ -1,0 +1,335 @@
+{
+ "ang": 192,
+ "lines": [
+  {
+   "gurmukhi": "ਗਉੜੀ ਮਹਲਾ ੫ ॥",
+   "translit": "gaurree mahalaa 5 |",
+   "english": "Gauree, Fifth Mehl:",
+   "shabadId": "AMQ"
+  },
+  {
+   "gurmukhi": "ਨਾਮੁ ਸਿਮਰਿ ਚਿੰਤਾ ਸਭ ਜਾਹਿ ॥੧॥",
+   "translit": "naam simar chintaa sabh jaeh |1|",
+   "english": "Meditating in remembrance on the Naam, the Name of the Lord, all anxiety is removed. ||1||",
+   "shabadId": "AMQ"
+  },
+  {
+   "gurmukhi": "ਗੁਰ ਕਾ ਸਬਦੁ ਰਾਖੁ ਮਨ ਮਾਹਿ ॥",
+   "translit": "gur kaa sabad raakh man maeh |",
+   "english": "Keep the Word of the Guru's Shabad in your mind.",
+   "shabadId": "AMQ"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਭਗਵੰਤ ਨਾਹੀ ਅਨ ਕੋਇ ॥",
+   "translit": "bin bhagavant naahee an koe |",
+   "english": "Without the Lord God, there is no one else at all.",
+   "shabadId": "AMQ"
+  },
+  {
+   "gurmukhi": "ਅਗਨਿ ਸਾਗਰੁ ਜਪਿ ਉਤਰਹਿ ਪਾਰਿ ॥੨॥",
+   "translit": "agan saagar jap utareh paar |2|",
+   "english": "Meditate on Him and cross over the ocean of fire. ||2||",
+   "shabadId": "AMQ"
+  },
+  {
+   "gurmukhi": "ਮਾਰੈ ਰਾਖੈ ਏਕੋ ਸੋਇ ॥੧॥ ਰਹਾਉ ॥",
+   "translit": "maarai raakhai eko soe |1| rahaau |",
+   "english": "He alone preserves and destroys. ||1||Pause||",
+   "shabadId": "AMQ"
+  },
+  {
+   "gurmukhi": "ਗੁਰ ਕੇ ਚਰਣ ਰਿਦੈ ਉਰਿ ਧਾਰਿ ॥",
+   "translit": "gur ke charan ridai ur dhaar |",
+   "english": "Enshrine the Guru's Feet in your heart.",
+   "shabadId": "AMQ"
+  },
+  {
+   "gurmukhi": "ਗੁਰ ਮੂਰਤਿ ਸਿਉ ਲਾਇ ਧਿਆਨੁ ॥",
+   "translit": "gur moorat siau laae dhiaan |",
+   "english": "Focus your meditation on the Guru's Sublime Form.",
+   "shabadId": "AMQ"
+  },
+  {
+   "gurmukhi": "ਸਗਲ ਤਿਆਗਿ ਗੁਰ ਸਰਣੀ ਆਇਆ ॥",
+   "translit": "sagal tiaag gur saranee aaeaa |",
+   "english": "Renouncing everything, I have come to the Guru's Sanctuary.",
+   "shabadId": "AMQ"
+  },
+  {
+   "gurmukhi": "ਈਹਾ ਊਹਾ ਪਾਵਹਿ ਮਾਨੁ ॥੩॥",
+   "translit": "eehaa aoohaa paaveh maan |3|",
+   "english": "Here and hereafter, you shall be honored. ||3||",
+   "shabadId": "AMQ"
+  },
+  {
+   "gurmukhi": "ਮਿਟੇ ਅੰਦੇਸੇ ਨਾਨਕ ਸੁਖੁ ਪਾਇਆ ॥੪॥੬੧॥੧੩੦॥",
+   "translit": "mitte andese naanak sukh paaeaa |4|61|130|",
+   "english": "My anxieties are over - O Nanak, I have found peace. ||4||61||130||",
+   "shabadId": "AMQ"
+  },
+  {
+   "gurmukhi": "ਗਉੜੀ ਮਹਲਾ ੫ ॥",
+   "translit": "gaurree mahalaa 5 |",
+   "english": "Gauree, Fifth Mehl:",
+   "shabadId": "5HB"
+  },
+  {
+   "gurmukhi": "ਜਿਸੁ ਸਿਮਰਤ ਦੂਖੁ ਸਭੁ ਜਾਇ ॥",
+   "translit": "jis simarat dookh sabh jaae |",
+   "english": "Remembering Him in meditation, all pains are gone.",
+   "shabadId": "5HB"
+  },
+  {
+   "gurmukhi": "ਜਪਿ ਮਨ ਮੇਰੇ ਗੋਵਿੰਦ ਕੀ ਬਾਣੀ ॥",
+   "translit": "jap man mere govind kee baanee |",
+   "english": "O my mind, chant the Bani, the Hymns of the Lord of the Universe.",
+   "shabadId": "5HB"
+  },
+  {
+   "gurmukhi": "ਨਾਮੁ ਰਤਨੁ ਵਸੈ ਮਨਿ ਆਇ ॥੧॥",
+   "translit": "naam ratan vasai man aae |1|",
+   "english": "The jewel of the Naam, the Name of the Lord, comes to dwell in the mind. ||1||",
+   "shabadId": "5HB"
+  },
+  {
+   "gurmukhi": "ਸਾਧੂ ਜਨ ਰਾਮੁ ਰਸਨ ਵਖਾਣੀ ॥੧॥ ਰਹਾਉ ॥",
+   "translit": "saadhoo jan raam rasan vakhaanee |1| rahaau |",
+   "english": "The Holy People chant the Lord's Name with their tongues. ||1||Pause||",
+   "shabadId": "5HB"
+  },
+  {
+   "gurmukhi": "ਜਾ ਕੀ ਦ੍ਰਿਸਟਿ ਸਦਾ ਸੁਖੁ ਹੋਇ ॥੨॥",
+   "translit": "jaa kee drisatt sadaa sukh hoe |2|",
+   "english": "By His Glance of Grace, eternal peace is obtained. ||2||",
+   "shabadId": "5HB"
+  },
+  {
+   "gurmukhi": "ਇਕਸੁ ਬਿਨੁ ਨਾਹੀ ਦੂਜਾ ਕੋਇ ॥",
+   "translit": "eikas bin naahee doojaa koe |",
+   "english": "Without the One Lord, there is no other at all.",
+   "shabadId": "5HB"
+  },
+  {
+   "gurmukhi": "ਸਾਜਨੁ ਮੀਤੁ ਸਖਾ ਕਰਿ ਏਕੁ ॥",
+   "translit": "saajan meet sakhaa kar ek |",
+   "english": "Make the One Lord your friend, intimate and companion.",
+   "shabadId": "5HB"
+  },
+  {
+   "gurmukhi": "ਰਵਿ ਰਹਿਆ ਸਰਬਤ ਸੁਆਮੀ ॥",
+   "translit": "rav rahiaa sarabat suaamee |",
+   "english": "The Lord Master is totally pervading everywhere.",
+   "shabadId": "5HB"
+  },
+  {
+   "gurmukhi": "ਹਰਿ ਹਰਿ ਅਖਰ ਮਨ ਮਹਿ ਲੇਖੁ ॥੩॥",
+   "translit": "har har akhar man meh lekh |3|",
+   "english": "Write in your mind the Word of the Lord, Har, Har. ||3||",
+   "shabadId": "5HB"
+  },
+  {
+   "gurmukhi": "ਗੁਣ ਗਾਵੈ ਨਾਨਕੁ ਅੰਤਰਜਾਮੀ ॥੪॥੬੨॥੧੩੧॥",
+   "translit": "gun gaavai naanak antarajaamee |4|62|131|",
+   "english": "Nanak sings the Praises of the Inner-knower, the Searcher of hearts. ||4||62||131||",
+   "shabadId": "5HB"
+  },
+  {
+   "gurmukhi": "ਭੈ ਮਹਿ ਰਚਿਓ ਸਭੁ ਸੰਸਾਰਾ ॥",
+   "translit": "bhai meh rachio sabh sansaaraa |",
+   "english": "The whole world is engrossed in fear.",
+   "shabadId": "DEE"
+  },
+  {
+   "gurmukhi": "ਗਉੜੀ ਮਹਲਾ ੫ ॥",
+   "translit": "gaurree mahalaa 5 |",
+   "english": "Gauree, Fifth Mehl:",
+   "shabadId": "DEE"
+  },
+  {
+   "gurmukhi": "ਤਿਸੁ ਭਉ ਨਾਹੀ ਜਿਸੁ ਨਾਮੁ ਅਧਾਰਾ ॥੧॥",
+   "translit": "tis bhau naahee jis naam adhaaraa |1|",
+   "english": "Those who have the Naam, the Name of the Lord, as their Support, feel no fear. ||1||",
+   "shabadId": "DEE"
+  },
+  {
+   "gurmukhi": "ਜੋ ਤੁਧੁ ਭਾਵੈ ਸੋਈ ਕਰਣਾ ॥੧॥ ਰਹਾਉ ॥",
+   "translit": "jo tudh bhaavai soee karanaa |1| rahaau |",
+   "english": "You do whatever You please. ||1||Pause||",
+   "shabadId": "DEE"
+  },
+  {
+   "gurmukhi": "ਭਉ ਨ ਵਿਆਪੈ ਤੇਰੀ ਸਰਣਾ ॥",
+   "translit": "bhau na viaapai teree saranaa |",
+   "english": "Fear does not affect those who take to Your Sanctuary.",
+   "shabadId": "DEE"
+  },
+  {
+   "gurmukhi": "ਤਿਨਿ ਸੁਖੁ ਪਾਇਆ ਜੋ ਪ੍ਰਭ ਭਾਣਾ ॥੨॥",
+   "translit": "tin sukh paaeaa jo prabh bhaanaa |2|",
+   "english": "Those who are pleasing to God, find peace. ||2||",
+   "shabadId": "DEE"
+  },
+  {
+   "gurmukhi": "ਸੋਗ ਹਰਖ ਮਹਿ ਆਵਣ ਜਾਣਾ ॥",
+   "translit": "sog harakh meh aavan jaanaa |",
+   "english": "In pleasure and in pain, the world is coming and going in reincarnation.",
+   "shabadId": "DEE"
+  },
+  {
+   "gurmukhi": "ਅਗਨਿ ਸਾਗਰੁ ਮਹਾ ਵਿਆਪੈ ਮਾਇਆ ॥",
+   "translit": "agan saagar mahaa viaapai maaeaa |",
+   "english": "Maya pervades the awesome ocean of fire.",
+   "shabadId": "DEE"
+  },
+  {
+   "gurmukhi": "ਰਾਖਿ ਲੇਇ ਪ੍ਰਭੁ ਰਾਖਨਹਾਰਾ ॥",
+   "translit": "raakh lee prabh raakhanahaaraa |",
+   "english": "Please preserve me, O God, O Great Preserver!",
+   "shabadId": "DEE"
+  },
+  {
+   "gurmukhi": "ਸੇ ਸੀਤਲ ਜਿਨ ਸਤਿਗੁਰੁ ਪਾਇਆ ॥੩॥",
+   "translit": "se seetal jin satigur paaeaa |3|",
+   "english": "Those who have found the True Guru are calm and cool. ||3||",
+   "shabadId": "DEE"
+  },
+  {
+   "gurmukhi": "ਤੁਮਰੀ ਕ੍ਰਿਪਾ ਤੇ ਜਪੀਐ ਨਾਉ ॥",
+   "translit": "tumaree kripaa te japeeai naau |",
+   "english": "By Your Grace, I chant Your Name.",
+   "shabadId": "TJN"
+  },
+  {
+   "gurmukhi": "ਕਹੁ ਨਾਨਕ ਕਿਆ ਜੰਤ ਵਿਚਾਰਾ ॥੪॥੬੩॥੧੩੨॥",
+   "translit": "kahu naanak kiaa jant vichaaraa |4|63|132|",
+   "english": "Says Nanak, what a helpless creature I am! ||4||63||132||",
+   "shabadId": "DEE"
+  },
+  {
+   "gurmukhi": "ਗਉੜੀ ਮਹਲਾ ੫ ॥",
+   "translit": "gaurree mahalaa 5 |",
+   "english": "Gauree, Fifth Mehl:",
+   "shabadId": "TJN"
+  },
+  {
+   "gurmukhi": "ਤੁਮਰੀ ਕ੍ਰਿਪਾ ਤੇ ਦਰਗਹ ਥਾਉ ॥੧॥",
+   "translit": "tumaree kripaa te daragah thaau |1|",
+   "english": "By Your Grace, I obtain a seat in Your Court. ||1||",
+   "shabadId": "TJN"
+  },
+  {
+   "gurmukhi": "ਤੁਝ ਬਿਨੁ ਪਾਰਬ੍ਰਹਮ ਨਹੀ ਕੋਇ ॥",
+   "translit": "tujh bin paarabraham nahee koe |",
+   "english": "Without You, O Supreme Lord God, there is no one.",
+   "shabadId": "TJN"
+  },
+  {
+   "gurmukhi": "ਤੁਮਰੀ ਕ੍ਰਿਪਾ ਤੇ ਸਦਾ ਸੁਖੁ ਹੋਇ ॥੧॥ ਰਹਾਉ ॥",
+   "translit": "tumaree kripaa te sadaa sukh hoe |1| rahaau |",
+   "english": "By Your Grace, everlasting peace is obtained. ||1||Pause||",
+   "shabadId": "TJN"
+  },
+  {
+   "gurmukhi": "ਪਾਰਬ੍ਰਹਮ ਅਪਰੰਪਰ ਸੁਆਮੀ ॥",
+   "translit": "paarabraham aparanpar suaamee |",
+   "english": "O Supreme Lord God, Infinite Lord and Master,",
+   "shabadId": "TJN"
+  },
+  {
+   "gurmukhi": "ਤੁਮ ਮਨਿ ਵਸੇ ਤਉ ਦੂਖੁ ਨ ਲਾਗੈ ॥",
+   "translit": "tum man vase tau dookh na laagai |",
+   "english": "If You abide in the mind, we do not suffer in sorrow.",
+   "shabadId": "TJN"
+  },
+  {
+   "gurmukhi": "ਤੁਮਰੀ ਕ੍ਰਿਪਾ ਤੇ ਭ੍ਰਮੁ ਭਉ ਭਾਗੈ ॥੨॥",
+   "translit": "tumaree kripaa te bhram bhau bhaagai |2|",
+   "english": "By Your Grace, doubt and fear run away. ||2||",
+   "shabadId": "TJN"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਨਾਮੁ ਮਿਲੈ ਸਚੁ ਰਾਸਿ ॥੪॥੬੪॥੧੩੩॥",
+   "translit": "naanak naam milai sach raas |4|64|133|",
+   "english": "O Nanak, may I be blessed with the treasure of the True Name. ||4||64||133||",
+   "shabadId": "TJN"
+  },
+  {
+   "gurmukhi": "ਕਰਉ ਅਰਦਾਸਿ ਅਪਨੇ ਸਤਿਗੁਰ ਪਾਸਿ ॥",
+   "translit": "krau aradaas apane satigur paas |",
+   "english": "I offer this prayer to the True Guru:",
+   "shabadId": "TJN"
+  },
+  {
+   "gurmukhi": "ਸਗਲ ਘਟਾ ਕੇ ਅੰਤਰਜਾਮੀ ॥੩॥",
+   "translit": "sagal ghattaa ke antarajaamee |3|",
+   "english": "You are the Inner-knower, the Searcher of all hearts. ||3||",
+   "shabadId": "TJN"
+  },
+  {
+   "gurmukhi": "ਨਾਮ ਬਿਹੂਨ ਸੂਨੇ ਸੇ ਮੁਖਾ ॥੧॥",
+   "translit": "naam bihoon soone se mukhaa |1|",
+   "english": "so is the mouth empty without the Naam, the Name of the Lord. ||1||",
+   "shabadId": "B1E"
+  },
+  {
+   "gurmukhi": "ਗਉੜੀ ਮਹਲਾ ੫ ॥",
+   "translit": "gaurree mahalaa 5 |",
+   "english": "Gauree, Fifth Mehl:",
+   "shabadId": "B1E"
+  },
+  {
+   "gurmukhi": "ਕਣ ਬਿਨਾ ਜੈਸੇ ਥੋਥਰ ਤੁਖਾ ॥",
+   "translit": "kan binaa jaise thothar tukhaa |",
+   "english": "As the husk is empty without the grain,",
+   "shabadId": "B1E"
+  },
+  {
+   "gurmukhi": "ਨਾਮ ਬਿਹੂਨ ਧ੍ਰਿਗੁ ਦੇਹ ਬਿਗਾਨੀ ॥੧॥ ਰਹਾਉ ॥",
+   "translit": "naam bihoon dhrig deh bigaanee |1| rahaau |",
+   "english": "Without the Naam, cursed is the body, which shall be taken back by Death. ||1||Pause||",
+   "shabadId": "B1E"
+  },
+  {
+   "gurmukhi": "ਹਰਿ ਹਰਿ ਨਾਮੁ ਜਪਹੁ ਨਿਤ ਪ੍ਰਾਣੀ ॥",
+   "translit": "har har naam japahu nit praanee |",
+   "english": "O mortal, chant continually the Name of the Lord, Har, Har.",
+   "shabadId": "B1E"
+  },
+  {
+   "gurmukhi": "ਭਰਤ ਬਿਹੂਨ ਕਹਾ ਸੋਹਾਗੁ ॥੨॥",
+   "translit": "bharat bihoon kahaa sohaag |2|",
+   "english": "Without the Husband, where is the marriage? ||2||",
+   "shabadId": "B1E"
+  },
+  {
+   "gurmukhi": "ਨਾਮ ਬਿਨਾ ਨਾਹੀ ਮੁਖਿ ਭਾਗੁ ॥",
+   "translit": "naam binaa naahee mukh bhaag |",
+   "english": "Without the Naam, no one's face shows good fortune.",
+   "shabadId": "B1E"
+  },
+  {
+   "gurmukhi": "ਨਾਮੁ ਬਿਸਾਰਿ ਲਗੈ ਅਨ ਸੁਆਇ ॥",
+   "translit": "naam bisaar lagai an suaae |",
+   "english": "Forgetting the Naam, and attached to other tastes,",
+   "shabadId": "B1E"
+  },
+  {
+   "gurmukhi": "ਕਰਿ ਕਿਰਪਾ ਪ੍ਰਭ ਅਪਨੀ ਦਾਤਿ ॥",
+   "translit": "kar kirapaa prabh apanee daat |",
+   "english": "O God, grant Your Grace, and give me this gift.",
+   "shabadId": "B1E"
+  },
+  {
+   "gurmukhi": "ਤਾ ਕੀ ਆਸ ਨ ਪੂਜੈ ਕਾਇ ॥੩॥",
+   "translit": "taa kee aas na poojai kaae |3|",
+   "english": "no desires are fulfilled. ||3||",
+   "shabadId": "B1E"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਨਾਮੁ ਜਪੈ ਦਿਨ ਰਾਤਿ ॥੪॥੬੫॥੧੩੪॥",
+   "translit": "naanak naam japai din raat |4|65|134|",
+   "english": "Please, let Nanak chant Your Name, day and night. ||4||65||134||",
+   "shabadId": "B1E"
+  }
+ ]
+}

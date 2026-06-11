@@ -1,0 +1,16 @@
+---
+title: The Empty Seat at the Langar
+gurmukhi: ਨਸ਼ਾ
+kicker: On the addiction crisis
+order: 14
+summary: >-
+  Punjab's drug epidemic has taken a generation's worth of empty chairs. On chitta, shame, and what a tradition built on sangat and seva owes its addicted — recovery as congregation.
+---
+
+Every extended Punjabi family now has the photograph: the cousin, the nephew, the classmate — vital at sixteen, gone or ghosted by thirty. The crisis has a street name, **chitta** — "white," the heroin-and-synthetic blend that moved through Punjab's villages in the 2000s and 2010s like a second Partition, quieter and longer. The numbers argue about prevalence; the funerals do not. Unemployment, the agrarian debt spiral, trafficking routes, political protection rackets that survive every election cycle, and the diaspora's parallel battles — opioids in Brampton and Surrey, alcohol everywhere always — round out a catastrophe the community can no longer narrate as someone else's.
+
+The tradition's formal position is clear and, by itself, insufficient. The Khalsa rehat forbids intoxicants; the bani's lines are blunt — the wine that makes you forget the One is the false wine; Guru Gobind Singh's Khalsa was, among other things, history's most successful sobriety movement, an army famous for fighting clear-headed against opium-fed empires. But prohibition answers the question "should I start?" — and addiction is the condition of having lost access to that question. A theology adequate to the crisis has to speak to the person *already drowning*, and to a community whose first instinct — **shame, concealment, izzat** — is, by every clinical and spiritual measure, the disease's best friend.
+
+Here the tradition's actual equipment is better than its reflexes. Addiction's engine, the recovery sciences and the bani agree with eerie precision, is **disconnection** — the five thieves as a closed loop, the self curled around its anaesthetic. And disconnection is the one disease Sikhi was specifically built to treat. **Sangat** is, structurally, a recovery meeting that predates the concept: show up daily, same level, no résumé, held by people who expect you back tomorrow. **Seva** is occupational therapy with meaning attached — hands busy, worth demonstrated, the self released from its own case file an hour at a time. **Naam** is, in the tradition's claim and many a recovered Sikh's testimony, the replacement dependency that does not collapse: something to reach for at 3 a.m. that reaches back. The amrit itself has functioned, for thousands, as the bright line a recovery needs — not magic, but a vow witnessed by five and renewed every dawn.
+
+What the community owes, then, is specific. Gurdwara de-addiction camps and counselling — some exist, heroically; they should be as standard as the langar. The word *nashei* retired as an insult and readmitted as a diagnosis. Families released from the izzat-trap: the son in recovery is not the family's shame but its seva. And the empty seat at the langar kept visible — not as memorial first, but as **invitation**: the floor has no admission standard, the daal has no judgment in it, and the tradition's whole bet, five centuries running, is that nobody heals alone.

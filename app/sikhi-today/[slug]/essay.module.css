@@ -1,0 +1,82 @@
+.essayPage {
+  max-width: 760px;
+}
+
+.essayPage :global(.pageKicker) a:hover {
+  color: var(--marigold);
+}
+
+.summary {
+  margin-top: 1.2rem;
+  padding: 1.1rem 1.4rem;
+  border-left: 2px solid var(--saffron);
+  background: rgba(240, 163, 46, 0.05);
+  border-radius: 0 10px 10px 0;
+  font-family: var(--font-display);
+  font-weight: 430;
+  font-style: italic;
+  font-size: 1.12rem;
+  line-height: 1.6;
+}
+
+.body {
+  margin-top: 2.4rem;
+  font-size: 1.08rem;
+  line-height: 1.82;
+  color: var(--cream-dim);
+}
+
+.body p {
+  margin-bottom: 1.25rem;
+}
+
+.body p strong {
+  color: var(--cream);
+  font-weight: 600;
+}
+
+.body em {
+  color: var(--cream);
+}
+
+.body h2 {
+  font-family: var(--font-display);
+  font-weight: 550;
+  font-size: 1.5rem;
+  color: var(--cream);
+  margin: 2.4rem 0 0.9rem;
+}
+
+.body blockquote {
+  margin: 1.6rem 0;
+  padding: 1rem 1.4rem;
+  border-left: 2px solid var(--river);
+  background: rgba(95, 168, 184, 0.06);
+  border-radius: 0 10px 10px 0;
+  font-style: italic;
+  color: var(--cream);
+}
+
+.body ul {
+  margin: 0 0 1.25rem 1.2rem;
+}
+
+.body li {
+  margin-bottom: 0.45rem;
+}
+
+.body li::marker {
+  color: var(--saffron);
+}
+
+.next {
+  margin-top: 3rem;
+  padding-top: 1.6rem;
+  border-top: 1px solid var(--line);
+  font-style: italic;
+  color: var(--cream-dim);
+}
+
+.next a {
+  color: var(--marigold);
+}

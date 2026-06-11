@@ -1,0 +1,347 @@
+{
+ "ang": 269,
+ "lines": [
+  {
+   "gurmukhi": "ਮਿਥਿਆ ਚਰਨ ਪਰ ਬਿਕਾਰ ਕਉ ਧਾਵਹਿ ॥",
+   "translit": "mithiaa charan par bikaar kau dhaaveh |",
+   "english": "False are the feet which run to do evil to others.",
+   "shabadId": "AFT"
+  },
+  {
+   "gurmukhi": "ਮਿਥਿਆ ਰਸਨਾ ਭੋਜਨ ਅਨ ਸ੍ਵਾਦ ॥",
+   "translit": "mithiaa rasanaa bhojan an svaad |",
+   "english": "False is the tongue which enjoys delicacies and external tastes.",
+   "shabadId": "AFT"
+  },
+  {
+   "gurmukhi": "ਮਿਥਿਆ ਨੇਤ੍ਰ ਪੇਖਤ ਪਰ ਤ੍ਰਿਅ ਰੂਪਾਦ ॥",
+   "translit": "mithiaa netr pekhat par tria roopaad |",
+   "english": "False are the eyes which gaze upon the beauty of another's wife.",
+   "shabadId": "AFT"
+  },
+  {
+   "gurmukhi": "ਮਿਥਿਆ ਤਨ ਨਹੀ ਪਰਉਪਕਾਰਾ ॥",
+   "translit": "mithiaa tan nahee praupakaaraa |",
+   "english": "False is the body which does not do good to others.",
+   "shabadId": "AFT"
+  },
+  {
+   "gurmukhi": "ਮਿਥਿਆ ਬਾਸੁ ਲੇਤ ਬਿਕਾਰਾ ॥",
+   "translit": "mithiaa baas let bikaaraa |",
+   "english": "False is the nose which inhales corruption.",
+   "shabadId": "AFT"
+  },
+  {
+   "gurmukhi": "ਮਿਥਿਆ ਮਨ ਪਰ ਲੋਭ ਲੁਭਾਵਹਿ ॥",
+   "translit": "mithiaa man par lobh lubhaaveh |",
+   "english": "False is the mind which covets the wealth of others.",
+   "shabadId": "AFT"
+  },
+  {
+   "gurmukhi": "ਬਿਰਥੀ ਸਾਕਤ ਕੀ ਆਰਜਾ ॥",
+   "translit": "birathee saakat kee aarajaa |",
+   "english": "The life of the faithless cynic is totally useless.",
+   "shabadId": "DQX"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਬੂਝੇ ਮਿਥਿਆ ਸਭ ਭਏ ॥",
+   "translit": "bin boojhe mithiaa sabh bhe |",
+   "english": "Without understanding, everything is false.",
+   "shabadId": "AFT"
+  },
+  {
+   "gurmukhi": "ਸਫਲ ਦੇਹ ਨਾਨਕ ਹਰਿ ਹਰਿ ਨਾਮ ਲਏ ॥੫॥",
+   "translit": "safal deh naanak har har naam le |5|",
+   "english": "Fruitful is the body, O Nanak, which takes to the Lord's Name. ||5||",
+   "shabadId": "AFT"
+  },
+  {
+   "gurmukhi": "ਬਿਰਥਾ ਨਾਮ ਬਿਨਾ ਤਨੁ ਅੰਧ ॥",
+   "translit": "birathaa naam binaa tan andh |",
+   "english": "Useless is the body of the spiritually blind, without the Name of the Lord.",
+   "shabadId": "DQX"
+  },
+  {
+   "gurmukhi": "ਸਾਚ ਬਿਨਾ ਕਹ ਹੋਵਤ ਸੂਚਾ ॥",
+   "translit": "saach binaa keh hovat soochaa |",
+   "english": "Without the Truth, how can anyone be pure?",
+   "shabadId": "DQX"
+  },
+  {
+   "gurmukhi": "ਮੁਖਿ ਆਵਤ ਤਾ ਕੈ ਦੁਰਗੰਧ ॥",
+   "translit": "mukh aavat taa kai duragandh |",
+   "english": "From his mouth, a foul smell issues forth.",
+   "shabadId": "DQX"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਸਿਮਰਨ ਦਿਨੁ ਰੈਨਿ ਬ੍ਰਿਥਾ ਬਿਹਾਇ ॥",
+   "translit": "bin simaran din rain brithaa bihaae |",
+   "english": "Without the remembrance of the Lord, day and night pass in vain,",
+   "shabadId": "DQX"
+  },
+  {
+   "gurmukhi": "ਗੋਬਿਦ ਭਜਨ ਬਿਨੁ ਬ੍ਰਿਥੇ ਸਭ ਕਾਮ ॥",
+   "translit": "gobid bhajan bin brithe sabh kaam |",
+   "english": "Without meditation on the Lord of the Universe, all works are in vain,",
+   "shabadId": "DQX"
+  },
+  {
+   "gurmukhi": "ਮੇਘ ਬਿਨਾ ਜਿਉ ਖੇਤੀ ਜਾਇ ॥",
+   "translit": "megh binaa jiau khetee jaae |",
+   "english": "like the crop which withers without rain.",
+   "shabadId": "DQX"
+  },
+  {
+   "gurmukhi": "ਧੰਨਿ ਧੰਨਿ ਤੇ ਜਨ ਜਿਹ ਘਟਿ ਬਸਿਓ ਹਰਿ ਨਾਉ ॥",
+   "translit": "dhan dhan te jan jih ghatt basio har naau |",
+   "english": "Blessed, blessed are those, whose hearts are filled with the Name of the Lord.",
+   "shabadId": "DQX"
+  },
+  {
+   "gurmukhi": "ਜਿਉ ਕਿਰਪਨ ਕੇ ਨਿਰਾਰਥ ਦਾਮ ॥",
+   "translit": "jiau kirapan ke niraarath daam |",
+   "english": "like the wealth of a miser, which lies useless.",
+   "shabadId": "DQX"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਤਾ ਕੈ ਬਲਿ ਬਲਿ ਜਾਉ ॥੬॥",
+   "translit": "naanak taa kai bal bal jaau |6|",
+   "english": "Nanak is a sacrifice, a sacrifice to them. ||6||",
+   "shabadId": "DQX"
+  },
+  {
+   "gurmukhi": "ਰਹਤ ਅਵਰ ਕਛੁ ਅਵਰ ਕਮਾਵਤ ॥",
+   "translit": "rehat avar kachh avar kamaavat |",
+   "english": "He says one thing, and does something else.",
+   "shabadId": "74F"
+  },
+  {
+   "gurmukhi": "ਮਨਿ ਨਹੀ ਪ੍ਰੀਤਿ ਮੁਖਹੁ ਗੰਢ ਲਾਵਤ ॥",
+   "translit": "man nahee preet mukhahu gandt laavat |",
+   "english": "There is no love in his heart, and yet with his mouth he talks tall.",
+   "shabadId": "74F"
+  },
+  {
+   "gurmukhi": "ਜਾਨਨਹਾਰ ਪ੍ਰਭੂ ਪਰਬੀਨ ॥",
+   "translit": "jaananahaar prabhoo parabeen |",
+   "english": "The Omniscient Lord God is the Knower of all.",
+   "shabadId": "74F"
+  },
+  {
+   "gurmukhi": "ਅਵਰ ਉਪਦੇਸੈ ਆਪਿ ਨ ਕਰੈ ॥",
+   "translit": "avar upadesai aap na karai |",
+   "english": "One who does not practice what he preaches to others,",
+   "shabadId": "74F"
+  },
+  {
+   "gurmukhi": "ਬਾਹਰਿ ਭੇਖ ਨ ਕਾਹੂ ਭੀਨ ॥",
+   "translit": "baahar bhekh na kaahoo bheen |",
+   "english": "He is not impressed by outward display.",
+   "shabadId": "74F"
+  },
+  {
+   "gurmukhi": "ਆਵਤ ਜਾਵਤ ਜਨਮੈ ਮਰੈ ॥",
+   "translit": "aavat jaavat janamai marai |",
+   "english": "shall come and go in reincarnation, through birth and death.",
+   "shabadId": "74F"
+  },
+  {
+   "gurmukhi": "ਜਿਸ ਕੈ ਅੰਤਰਿ ਬਸੈ ਨਿਰੰਕਾਰੁ ॥",
+   "translit": "jis kai antar basai nirankaar |",
+   "english": "One whose inner being is filled with the Formless Lord",
+   "shabadId": "74F"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਉਨ ਜਨ ਚਰਨ ਪਰਾਤਾ ॥੭॥",
+   "translit": "naanak un jan charan paraataa |7|",
+   "english": "Nanak falls at their feet. ||7||",
+   "shabadId": "74F"
+  },
+  {
+   "gurmukhi": "ਤਿਸ ਕੀ ਸੀਖ ਤਰੈ ਸੰਸਾਰੁ ॥",
+   "translit": "tis kee seekh tarai sansaar |",
+   "english": "by his teachings, the world is saved.",
+   "shabadId": "74F"
+  },
+  {
+   "gurmukhi": "ਜੋ ਤੁਮ ਭਾਨੇ ਤਿਨ ਪ੍ਰਭੁ ਜਾਤਾ ॥",
+   "translit": "jo tum bhaane tin prabh jaataa |",
+   "english": "Those who are pleasing to You, God, know You.",
+   "shabadId": "74F"
+  },
+  {
+   "gurmukhi": "ਆਪਹਿ ਆਪ ਆਪਿ ਕਰਤ ਨਿਬੇਰਾ ॥",
+   "translit": "aapeh aap aap karat niberaa |",
+   "english": "He Himself, by Himself, makes the decisions.",
+   "shabadId": "BKY"
+  },
+  {
+   "gurmukhi": "ਕਰਉ ਬੇਨਤੀ ਪਾਰਬ੍ਰਹਮੁ ਸਭੁ ਜਾਨੈ ॥",
+   "translit": "krau benatee paarabraham sabh jaanai |",
+   "english": "Offer your prayers to the Supreme Lord God, who knows everything.",
+   "shabadId": "BKY"
+  },
+  {
+   "gurmukhi": "ਅਪਨਾ ਕੀਆ ਆਪਹਿ ਮਾਨੈ ॥",
+   "translit": "apanaa keea aapeh maanai |",
+   "english": "He Himself values His own creatures.",
+   "shabadId": "BKY"
+  },
+  {
+   "gurmukhi": "ਉਪਾਵ ਸਿਆਨਪ ਸਗਲ ਤੇ ਰਹਤ ॥",
+   "translit": "aupaav siaanap sagal te rehat |",
+   "english": "He is beyond all efforts and clever tricks.",
+   "shabadId": "BKY"
+  },
+  {
+   "gurmukhi": "ਕਿਸੈ ਦੂਰਿ ਜਨਾਵਤ ਕਿਸੈ ਬੁਝਾਵਤ ਨੇਰਾ ॥",
+   "translit": "kisai door janaavat kisai bujhaavat neraa |",
+   "english": "To some, He appears far away, while others perceive Him near at hand.",
+   "shabadId": "BKY"
+  },
+  {
+   "gurmukhi": "ਸੋ ਸੇਵਕੁ ਜਿਸੁ ਕਿਰਪਾ ਕਰੀ ॥",
+   "translit": "so sevak jis kirapaa karee |",
+   "english": "Those upon whom He bestows His favor, become His servants.",
+   "shabadId": "BKY"
+  },
+  {
+   "gurmukhi": "ਸਭੁ ਕਛੁ ਜਾਨੈ ਆਤਮ ਕੀ ਰਹਤ ॥",
+   "translit": "sabh kachh jaanai aatam kee rehat |",
+   "english": "He knows all the ways and means of the soul.",
+   "shabadId": "BKY"
+  },
+  {
+   "gurmukhi": "ਥਾਨ ਥਨੰਤਰਿ ਰਹਿਆ ਸਮਾਇ ॥",
+   "translit": "thaan thanantar rahiaa samaae |",
+   "english": "He is pervading all places and interspaces.",
+   "shabadId": "BKY"
+  },
+  {
+   "gurmukhi": "ਜਿਸੁ ਭਾਵੈ ਤਿਸੁ ਲਏ ਲੜਿ ਲਾਇ ॥",
+   "translit": "jis bhaavai tis le larr laae |",
+   "english": "Those with whom He is pleased are attached to the hem of His robe.",
+   "shabadId": "BKY"
+  },
+  {
+   "gurmukhi": "ਸਲੋਕੁ ॥",
+   "translit": "salok |",
+   "english": "Salok:",
+   "shabadId": "9JH"
+  },
+  {
+   "gurmukhi": "ਕਾਮ ਕ੍ਰੋਧ ਅਰੁ ਲੋਭ ਮੋਹ ਬਿਨਸਿ ਜਾਇ ਅਹੰਮੇਵ ॥",
+   "translit": "kaam krodh ar lobh moh binas jaae ahamev |",
+   "english": "Sexual desire, anger, greed and emotional attachment - may these be gone, and egotism as well.",
+   "shabadId": "9JH"
+  },
+  {
+   "gurmukhi": "ਨਿਮਖ ਨਿਮਖ ਜਪਿ ਨਾਨਕ ਹਰੀ ॥੮॥੫॥",
+   "translit": "nimakh nimakh jap naanak haree |8|5|",
+   "english": "Each and every moment, O Nanak, meditate on the Lord. ||8||5||",
+   "shabadId": "BKY"
+  },
+  {
+   "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਛਤੀਹ ਅੰਮ੍ਰਿਤ ਖਾਹਿ ॥",
+   "translit": "jih prasaad chhateeh amrit khaeh |",
+   "english": "By His Grace, you partake of the thirty-six delicacies;",
+   "shabadId": "HPD"
+  },
+  {
+   "gurmukhi": "ਅਸਟਪਦੀ ॥",
+   "translit": "asattapadee |",
+   "english": "Ashtapadee:",
+   "shabadId": "HPD"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਪ੍ਰਭ ਸਰਣਾਗਤੀ ਕਰਿ ਪ੍ਰਸਾਦੁ ਗੁਰਦੇਵ ॥੧॥",
+   "translit": "naanak prabh saranaagatee kar prasaad guradev |1|",
+   "english": "Nanak seeks the Sanctuary of God; please bless me with Your Grace, O Divine Guru. ||1||",
+   "shabadId": "9JH"
+  },
+  {
+   "gurmukhi": "ਤਿਸ ਕਉ ਸਿਮਰਤ ਪਰਮ ਗਤਿ ਪਾਵਹਿ ॥",
+   "translit": "tis kau simarat param gat paaveh |",
+   "english": "remembering Him, the supreme status is obtained.",
+   "shabadId": "HPD"
+  },
+  {
+   "gurmukhi": "ਤਿਸੁ ਠਾਕੁਰ ਕਉ ਰਖੁ ਮਨ ਮਾਹਿ ॥",
+   "translit": "tis tthaakur kau rakh man maeh |",
+   "english": "enshrine that Lord and Master within your mind.",
+   "shabadId": "HPD"
+  },
+  {
+   "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਸੁਗੰਧਤ ਤਨਿ ਲਾਵਹਿ ॥",
+   "translit": "jih prasaad sugandhat tan laaveh |",
+   "english": "By His Grace, you apply scented oils to your body;",
+   "shabadId": "HPD"
+  },
+  {
+   "gurmukhi": "ਤਿਸਹਿ ਧਿਆਇ ਸਦਾ ਮਨ ਅੰਦਰਿ ॥",
+   "translit": "tiseh dhiaae sadaa man andar |",
+   "english": "meditate forever on Him within your mind.",
+   "shabadId": "HPD"
+  },
+  {
+   "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਬਸਹਿ ਸੁਖ ਮੰਦਰਿ ॥",
+   "translit": "jih prasaad baseh sukh mandar |",
+   "english": "By His Grace, you dwell in the palace of peace;",
+   "shabadId": "HPD"
+  },
+  {
+   "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਗ੍ਰਿਹ ਸੰਗਿ ਸੁਖ ਬਸਨਾ ॥",
+   "translit": "jih prasaad grih sang sukh basanaa |",
+   "english": "By His Grace, you abide with your family in peace;",
+   "shabadId": "HPD"
+  },
+  {
+   "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਰੰਗ ਰਸ ਭੋਗ ॥",
+   "translit": "jih prasaad rang ras bhog |",
+   "english": "By His Grace, you enjoy tastes and pleasures;",
+   "shabadId": "HPD"
+  },
+  {
+   "gurmukhi": "ਆਠ ਪਹਰ ਸਿਮਰਹੁ ਤਿਸੁ ਰਸਨਾ ॥",
+   "translit": "aatth pehar simarahu tis rasanaa |",
+   "english": "keep His remembrance upon your tongue, twenty-four hours a day.",
+   "shabadId": "HPD"
+  },
+  {
+   "gurmukhi": "ਤਿਸਹਿ ਤਿਆਗਿ ਕਤ ਅਵਰ ਲੁਭਾਵਹਿ ॥",
+   "translit": "tiseh tiaag kat avar lubhaaveh |",
+   "english": "why abandon Him, to attach yourself to another?",
+   "shabadId": "K5M"
+  },
+  {
+   "gurmukhi": "ਨਾਨਕ ਸਦਾ ਧਿਆਈਐ ਧਿਆਵਨ ਜੋਗ ॥੧॥",
+   "translit": "naanak sadaa dhiaaeeai dhiaavan jog |1|",
+   "english": "O Nanak, meditate forever on the One, who is worthy of meditation. ||1||",
+   "shabadId": "HPD"
+  },
+  {
+   "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਪਾਟ ਪਟੰਬਰ ਹਢਾਵਹਿ ॥",
+   "translit": "jih prasaad paatt pattanbar hadtaaveh |",
+   "english": "By His Grace, you wear silks and satins;",
+   "shabadId": "K5M"
+  },
+  {
+   "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਸੁਖਿ ਸੇਜ ਸੋਈਜੈ ॥",
+   "translit": "jih prasaad sukh sej soeejai |",
+   "english": "By His Grace, you sleep in a cozy bed;",
+   "shabadId": "K5M"
+  },
+  {
+   "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਤੁਝੁ ਸਭੁ ਕੋਊ ਮਾਨੈ ॥",
+   "translit": "jih prasaad tujh sabh koaoo maanai |",
+   "english": "By His Grace, you are honored by everyone;",
+   "shabadId": "K5M"
+  },
+  {
+   "gurmukhi": "ਮਨ ਆਠ ਪਹਰ ਤਾ ਕਾ ਜਸੁ ਗਾਵੀਜੈ ॥",
+   "translit": "man aatth pehar taa kaa jas gaaveejai |",
+   "english": "O my mind, sing His Praises, twenty-four hours a day.",
+   "shabadId": "K5M"
+  }
+ ]
+}

@@ -1,0 +1,353 @@
+{
+ "ang": 1140,
+ "lines": [
+  {
+   "gurmukhi": "ਤਿਸ ਕਾ ਰਾਖਾ ਏਕੋ ਸੋਇ ॥",
+   "translit": "tis kaa raakhaa eko soe |",
+   "english": "The One Lord is his Protector.",
+   "shabadId": "GBU"
+  },
+  {
+   "gurmukhi": "ਤਿਸੁ ਜਨ ਕੇ ਸਭਿ ਕਾਜ ਸਵਾਰਿ ॥",
+   "translit": "tis jan ke sabh kaaj savaar |",
+   "english": "all his affairs are resolved.",
+   "shabadId": "GBU"
+  },
+  {
+   "gurmukhi": "ਜਨ ਨਾਨਕ ਅਪੜਿ ਨ ਸਾਕੈ ਕੋਇ ॥੪॥੪॥੧੭॥",
+   "translit": "jan naanak aparr na saakai koe |4|4|17|",
+   "english": "O servant Nanak, no one can equal him. ||4||4||17||",
+   "shabadId": "GBU"
+  },
+  {
+   "gurmukhi": "ਭੈਰਉ ਮਹਲਾ ੫ ॥",
+   "translit": "bhairau mahalaa 5 |",
+   "english": "Bhairao, Fifth Mehl:",
+   "shabadId": "VUL"
+  },
+  {
+   "gurmukhi": "ਤਉ ਕੜੀਐ ਜੇ ਵਿਸਰੈ ਨਰਹਰਿ ॥",
+   "translit": "tau karreeai je visarai narahar |",
+   "english": "We should feel sad, if we forget the Lord.",
+   "shabadId": "VUL"
+  },
+  {
+   "gurmukhi": "ਤਉ ਕੜੀਐ ਜੇ ਹੋਵੈ ਬਾਹਰਿ ॥",
+   "translit": "tau karreeai je hovai baahar |",
+   "english": "We should feel sad, if God were beyond us.",
+   "shabadId": "VUL"
+  },
+  {
+   "gurmukhi": "ਮਾਇਆ ਮੋਹਿ ਕੜੇ ਕੜਿ ਪਚਿਆ ॥",
+   "translit": "maaeaa mohi karre karr pachiaa |",
+   "english": "In love and attachment to Maya, the mortals are sad, and are consumed by sadness.",
+   "shabadId": "VUL"
+  },
+  {
+   "gurmukhi": "ਕਿਆ ਕੜੀਐ ਜਾਂ ਰਹਿਆ ਸਮਾਏ ॥੧॥",
+   "translit": "kiaa karreeai jaan rahiaa samaae |1|",
+   "english": "But why should we feel sad? The Lord is pervading everywhere. ||1||",
+   "shabadId": "VUL"
+  },
+  {
+   "gurmukhi": "ਤਉ ਕੜੀਐ ਜੇ ਦੂਜਾ ਭਾਏ ॥",
+   "translit": "tau karreeai je doojaa bhaae |",
+   "english": "We should feel sad, if we are in love with duality.",
+   "shabadId": "VUL"
+  },
+  {
+   "gurmukhi": "ਤਉ ਕੜੀਐ ਜੇ ਦੂਜਾ ਕਰਤਾ ॥",
+   "translit": "tau karreeai je doojaa karataa |",
+   "english": "We should feel sad, if there were another Creator Lord.",
+   "shabadId": "VUL"
+  },
+  {
+   "gurmukhi": "ਤਉ ਕੜੀਐ ਜੇ ਅਨਿਆਇ ਕੋ ਮਰਤਾ ॥",
+   "translit": "tau karreeai je aniaae ko marataa |",
+   "english": "We should feel sad, if someone dies by injustice.",
+   "shabadId": "VUL"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਨਾਵੈ ਭ੍ਰਮਿ ਭ੍ਰਮਿ ਭ੍ਰਮਿ ਖਪਿਆ ॥੧॥ ਰਹਾਉ ॥",
+   "translit": "bin naavai bhram bhram bhram khapiaa |1| rahaau |",
+   "english": "Without the Name, they wander and wander and wander, and waste away. ||1||Pause||",
+   "shabadId": "VUL"
+  },
+  {
+   "gurmukhi": "ਤਉ ਕੜੀਐ ਜੇ ਕਿਛੁ ਜਾਣੈ ਨਾਹੀ ॥",
+   "translit": "tau karreeai je kichh jaanai naahee |",
+   "english": "We should feel sad, if something were not known to the Lord.",
+   "shabadId": "VUL"
+  },
+  {
+   "gurmukhi": "ਤਉ ਕੜੀਐ ਜੇ ਕਿਛੁ ਹੋਇ ਧਿਙਾਣੈ ॥",
+   "translit": "tau karreeai je kichh hoe dhingaanai |",
+   "english": "We should feel sad, if God were a tyrant.",
+   "shabadId": "VUL"
+  },
+  {
+   "gurmukhi": "ਕਿਆ ਕੜੀਐ ਜਾਂ ਭਰਪੂਰਿ ਸਮਾਹੀ ॥੨॥",
+   "translit": "kiaa karreeai jaan bharapoor samaahee |2|",
+   "english": "But why should we feel sad? The Lord is totally permeating everywhere. ||2||",
+   "shabadId": "VUL"
+  },
+  {
+   "gurmukhi": "ਤਬ ਕਾੜਾ ਛੋਡਿ ਅਚਿੰਤ ਹਮ ਸੋਤੇ ॥੩॥",
+   "translit": "tab kaarraa chhodd achint ham sote |3|",
+   "english": "So I have abandoned sadness, and I now sleep without anxiety. ||3||",
+   "shabadId": "VUL"
+  },
+  {
+   "gurmukhi": "ਗੁਰਿ ਕਹਿਆ ਜੋ ਹੋਇ ਸਭੁ ਪ੍ਰਭ ਤੇ ॥",
+   "translit": "gur kahiaa jo hoe sabh prabh te |",
+   "english": "The Guru says that whatever happens is all by God's Will.",
+   "shabadId": "VUL"
+  },
+  {
+   "gurmukhi": "ਤਉ ਕੜੀਐ ਜੇ ਭੂਲਿ ਰੰਞਾਣੈ ॥",
+   "translit": "tau karreeai je bhool ranyaanai |",
+   "english": "We should feel sad, if He made us suffer by mistake.",
+   "shabadId": "VUL"
+  },
+  {
+   "gurmukhi": "ਪ੍ਰਭ ਤੂਹੈ ਠਾਕੁਰੁ ਸਭੁ ਕੋ ਤੇਰਾ ॥",
+   "translit": "prabh toohai tthaakur sabh ko teraa |",
+   "english": "O God, You alone are my Lord and Master; all belong to You.",
+   "shabadId": "VUL"
+  },
+  {
+   "gurmukhi": "ਜਿਉ ਭਾਵੈ ਤਿਉ ਕਰਹਿ ਨਿਬੇਰਾ ॥",
+   "translit": "jiau bhaavai tiau kareh niberaa |",
+   "english": "According to Your Will, You pass judgement.",
+   "shabadId": "VUL"
+  },
+  {
+   "gurmukhi": "ਰਾਖਹੁ ਪੈਜ ਨਾਨਕ ਸਰਣਾਇ ॥੪॥੫॥੧੮॥",
+   "translit": "raakhahu paij naanak saranaae |4|5|18|",
+   "english": "Please save Nanak's honor; I have come to Your Sanctuary. ||4||5||18||",
+   "shabadId": "VUL"
+  },
+  {
+   "gurmukhi": "ਭੈਰਉ ਮਹਲਾ ੫ ॥",
+   "translit": "bhairau mahalaa 5 |",
+   "english": "Bhairao, Fifth Mehl:",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਦੁਤੀਆ ਨਾਸਤਿ ਇਕੁ ਰਹਿਆ ਸਮਾਇ ॥",
+   "translit": "duteea naasat ik rahiaa samaae |",
+   "english": "There is no other at all; the One Lord is permeating and pervading everywhere.",
+   "shabadId": "VUL"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਬਾਜੇ ਕੈਸੋ ਨਿਰਤਿਕਾਰੀ ॥",
+   "translit": "bin baaje kaiso niratikaaree |",
+   "english": "Without music, how is one to dance?",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਜੀਲ ਬਿਨਾ ਕੈਸੇ ਬਜੈ ਰਬਾਬ ॥",
+   "translit": "jeel binaa kaise bajai rabaab |",
+   "english": "Without strings, how is a guitar to be played?",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਕੰਠੈ ਕੈਸੇ ਗਾਵਨਹਾਰੀ ॥",
+   "translit": "bin kantthai kaise gaavanahaaree |",
+   "english": "Without a voice, how is one to sing?",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਨਾਮ ਬਿਨਾ ਬਿਰਥੇ ਸਭਿ ਕਾਜ ॥੧॥",
+   "translit": "naam binaa birathe sabh kaaj |1|",
+   "english": "Without the Naam, all affairs are useless. ||1||",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਸਤਿਗੁਰ ਕੈਸੇ ਪਾਰਿ ਪਰਿਆ ॥੧॥ ਰਹਾਉ ॥",
+   "translit": "bin satigur kaise paar pariaa |1| rahaau |",
+   "english": "Without the True Guru, how can anyone cross over to the other side? ||1||Pause||",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਨਾਮ ਬਿਨਾ ਕਹਹੁ ਕੋ ਤਰਿਆ ॥",
+   "translit": "naam binaa kahahu ko tariaa |",
+   "english": "Without the Naam - tell me: who has ever been saved?",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਨੇਤ੍ਰਾ ਕਹਾ ਕੋ ਪੇਖੈ ॥",
+   "translit": "bin netraa kahaa ko pekhai |",
+   "english": "Without eyes, how can anyone see?",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਜਿਹਵਾ ਕਹਾ ਕੋ ਬਕਤਾ ॥",
+   "translit": "bin jihavaa kahaa ko bakataa |",
+   "english": "Without a tongue, how can anyone speak?",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਸ੍ਰਵਨਾ ਕਹਾ ਕੋ ਸੁਨਤਾ ॥",
+   "translit": "bin sravanaa kahaa ko sunataa |",
+   "english": "Without ears, how can anyone hear?",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਨਾਮ ਬਿਨਾ ਨਰੁ ਕਹੀ ਨ ਲੇਖੈ ॥੨॥",
+   "translit": "naam binaa nar kahee na lekhai |2|",
+   "english": "Without the Naam, the mortal is of no account at all. ||2||",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਬਿਦਿਆ ਕਹਾ ਕੋਈ ਪੰਡਿਤ ॥",
+   "translit": "bin bidiaa kahaa koee panddit |",
+   "english": "Without learning, how can one be a Pandit - a religious scholar?",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਬੂਝੇ ਕਹਾ ਮਨੁ ਠਹਰਾਨਾ ॥",
+   "translit": "bin boojhe kahaa man tthaharaanaa |",
+   "english": "Without understanding, how can the mind become steady?",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਅਮਰੈ ਕੈਸੇ ਰਾਜ ਮੰਡਿਤ ॥",
+   "translit": "bin amarai kaise raaj manddit |",
+   "english": "Without power, what is the glory of an empire?",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਬੈਰਾਗ ਕਹਾ ਬੈਰਾਗੀ ॥",
+   "translit": "bin bairaag kahaa bairaagee |",
+   "english": "Without detachment, how can one be a detached hermit?",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਨਾਮ ਬਿਨਾ ਸਭੁ ਜਗੁ ਬਉਰਾਨਾ ॥੩॥",
+   "translit": "naam binaa sabh jag bauraanaa |3|",
+   "english": "Without the Naam, the whole world is insane. ||3||",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਹਉ ਤਿਆਗਿ ਕਹਾ ਕੋਊ ਤਿਆਗੀ ॥",
+   "translit": "bin hau tiaag kahaa koaoo tiaagee |",
+   "english": "Without renouncing egotism, how can anyone be a renunciate?",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਬਸਿ ਪੰਚ ਕਹਾ ਮਨ ਚੂਰੇ ॥",
+   "translit": "bin bas panch kahaa man choore |",
+   "english": "Without overcoming the five thieves, how can the mind be subdued?",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਗੁਰ ਦੀਖਿਆ ਕੈਸੇ ਗਿਆਨੁ ॥",
+   "translit": "bin gur deekhiaa kaise giaan |",
+   "english": "Without the Guru's Teachings, how can anyone obtain spiritual wisdom?",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਨਾਮ ਬਿਨਾ ਸਦ ਸਦ ਹੀ ਝੂਰੇ ॥੪॥",
+   "translit": "naam binaa sad sad hee jhoore |4|",
+   "english": "Without the Naam, the mortal regrets and repents forever and ever. ||4||",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਕਹੁ ਨਾਨਕ ਦਰ ਕਾ ਬੀਚਾਰ ॥੫॥੬॥੧੯॥",
+   "translit": "kahu naanak dar kaa beechaar |5|6|19|",
+   "english": "Says Nanak, this is the wisdom of the Lord's Court. ||5||6||19||",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਭੈ ਕਥਨੀ ਸਰਬ ਬਿਕਾਰ ॥",
+   "translit": "bin bhai kathanee sarab bikaar |",
+   "english": "Without the Fear of God, all speech in useless.",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਬਿਨੁ ਪੇਖੇ ਕਹੁ ਕੈਸੋ ਧਿਆਨੁ ॥",
+   "translit": "bin pekhe kahu kaiso dhiaan |",
+   "english": "Without seeing - tell me: how can anyone visualize in meditation?",
+   "shabadId": "ADU"
+  },
+  {
+   "gurmukhi": "ਭੈਰਉ ਮਹਲਾ ੫ ॥",
+   "translit": "bhairau mahalaa 5 |",
+   "english": "Bhairao, Fifth Mehl:",
+   "shabadId": "8KL"
+  },
+  {
+   "gurmukhi": "ਕਾਮ ਰੋਗਿ ਮੈਗਲੁ ਬਸਿ ਲੀਨਾ ॥",
+   "translit": "kaam rog maigal bas leenaa |",
+   "english": "The disease of sexual desire overwhelms the elephant.",
+   "shabadId": "8KL"
+  },
+  {
+   "gurmukhi": "ਹਉਮੈ ਰੋਗੁ ਮਾਨੁਖ ਕਉ ਦੀਨਾ ॥",
+   "translit": "haumai rog maanukh kau deenaa |",
+   "english": "Mankind is afflicted with the disease of egotism.",
+   "shabadId": "8KL"
+  },
+  {
+   "gurmukhi": "ਰੋਗ ਰਹਿਤ ਮੇਰਾ ਸਤਿਗੁਰੁ ਜੋਗੀ ॥੧॥ ਰਹਾਉ ॥",
+   "translit": "rog rahit meraa satigur jogee |1| rahaau |",
+   "english": "Only my True Guru, the True Yogi, is free of disease. ||1||Pause||",
+   "shabadId": "8KL"
+  },
+  {
+   "gurmukhi": "ਦ੍ਰਿਸਟਿ ਰੋਗਿ ਪਚਿ ਮੁਏ ਪਤੰਗਾ ॥",
+   "translit": "drisatt rog pach mue patangaa |",
+   "english": "Because of the disease of vision, the moth is burnt to death.",
+   "shabadId": "8KL"
+  },
+  {
+   "gurmukhi": "ਜੋ ਜੋ ਦੀਸੈ ਸੋ ਸੋ ਰੋਗੀ ॥",
+   "translit": "jo jo deesai so so rogee |",
+   "english": "Whoever I see is diseased.",
+   "shabadId": "8KL"
+  },
+  {
+   "gurmukhi": "ਨਾਦ ਰੋਗਿ ਖਪਿ ਗਏ ਕੁਰੰਗਾ ॥੧॥",
+   "translit": "naad rog khap ge kurangaa |1|",
+   "english": "Because of the disease of the sound of the bell, the deer is lured to its death. ||1||",
+   "shabadId": "8KL"
+  },
+  {
+   "gurmukhi": "ਬਾਸਨ ਰੋਗਿ ਭਵਰੁ ਬਿਨਸਾਨੋ ॥",
+   "translit": "baasan rog bhavar binasaano |",
+   "english": "Because of the disease of smell, the bumble bee is destroyed.",
+   "shabadId": "8KL"
+  },
+  {
+   "gurmukhi": "ਜਿਹਵਾ ਰੋਗਿ ਮੀਨੁ ਗ੍ਰਸਿਆਨੋ ॥",
+   "translit": "jihavaa rog meen grasiaano |",
+   "english": "Because of the disease of taste, the fish is caught.",
+   "shabadId": "8KL"
+  },
+  {
+   "gurmukhi": "ਤ੍ਰਿਬਿਧਿ ਰੋਗ ਮਹਿ ਬਧੇ ਬਿਕਾਰਾ ॥੨॥",
+   "translit": "tribidh rog meh badhe bikaaraa |2|",
+   "english": "In the disease of the three qualities, corruption is multiplied. ||2||",
+   "shabadId": "8KL"
+  },
+  {
+   "gurmukhi": "ਹੇਤ ਰੋਗ ਕਾ ਸਗਲ ਸੰਸਾਰਾ ॥",
+   "translit": "het rog kaa sagal sansaaraa |",
+   "english": "The whole world is caught in the disease of attachment.",
+   "shabadId": "8KL"
+  },
+  {
+   "gurmukhi": "ਰੋਗੇ ਮਰਤਾ ਰੋਗੇ ਜਨਮੈ ॥",
+   "translit": "roge marataa roge janamai |",
+   "english": "In disease the mortals die, and in disease they are born.",
+   "shabadId": "8KL"
+  },
+  {
+   "gurmukhi": "ਰੋਗੇ ਫਿਰਿ ਫਿਰਿ ਜੋਨੀ ਭਰਮੈ ॥",
+   "translit": "roge fir fir jonee bharamai |",
+   "english": "In disease they wander in reincarnation again and again.",
+   "shabadId": "8KL"
+  }
+ ]
+}

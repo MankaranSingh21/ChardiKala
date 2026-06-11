@@ -1,0 +1,86 @@
+.list {
+  list-style: none;
+  margin-top: 3.5rem;
+  display: grid;
+  gap: 1rem;
+  counter-reset: essays;
+}
+
+.card {
+  display: flex;
+  align-items: baseline;
+  gap: 1.6rem;
+  padding: 1.7rem 2rem;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: rgba(16, 23, 51, 0.5);
+  transition: border-color 0.3s var(--ease-soft), transform 0.3s var(--ease-soft);
+}
+
+.card:hover {
+  border-color: rgba(240, 163, 46, 0.45);
+  transform: translateX(5px);
+}
+
+.number {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  color: var(--saffron);
+  opacity: 0.8;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  flex: 1;
+}
+
+.kicker {
+  font-style: italic;
+  font-size: 0.85rem;
+  letter-spacing: 0.07em;
+  color: var(--saffron);
+}
+
+.title {
+  display: flex;
+  align-items: baseline;
+  gap: 0.7rem;
+  flex-wrap: wrap;
+  font-family: var(--font-display);
+  font-weight: 560;
+  font-size: 1.45rem;
+  line-height: 1.2;
+}
+
+.gurmukhi {
+  font-size: 1.05rem;
+  color: var(--marigold);
+}
+
+.summary {
+  font-size: 0.97rem;
+  line-height: 1.6;
+  color: var(--cream-dim);
+  max-width: 64ch;
+}
+
+.arrow {
+  color: var(--saffron);
+  opacity: 0;
+  transform: translateX(-6px);
+  transition: opacity 0.3s var(--ease-soft), transform 0.3s var(--ease-soft);
+}
+
+.card:hover .arrow {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+@media (max-width: 560px) {
+  .card {
+    padding: 1.3rem 1.2rem;
+    gap: 1rem;
+  }
+}
