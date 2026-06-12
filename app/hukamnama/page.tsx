@@ -4,7 +4,7 @@ import { getHukamnama } from "@/lib/hukamnama";
 import { TOTAL_ANGS } from "@/lib/gurbani";
 import styles from "./hukamnama.module.css";
 
-export const revalidate = 3600;
+export const revalidate = 900;
 
 export const metadata: Metadata = {
   title: "Today's Hukamnama — Chardi Kala",
@@ -83,8 +83,9 @@ export default async function HukamnamaPage() {
       <footer className={styles.credits}>
         {hukam.fromApi ? (
           <p>
-            Daily hukamnama via the GurbaniNow API (api.gurbaninow.com),
-            English translation by Dr. Sant Singh Khalsa. Refreshed hourly.
+            Daily hukamnama via the BaniDB API (api.banidb.com, the
+            SikhiToTheMax feed), with GurbaniNow as backup; English
+            translation by Dr. Sant Singh Khalsa. Checked every 15 minutes.
           </p>
         ) : (
           <p>

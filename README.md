@@ -49,7 +49,7 @@ npm run extract-gurbani
 - Gurmukhi text: SGPC Shabadaarth edition of Sri Guru Granth Sahib Ji, via the Shabad OS Database (public-domain text content).
 - English translation: Dr. Sant Singh Khalsa.
 - Transliteration: generated with [gurmukhi-utils](https://github.com/shabados/gurmukhi-utils) (Shabad OS).
-- Daily hukamnama: [GurbaniNow API](https://github.com/gurbaninow/api).
+- Daily hukamnama: [BaniDB API](https://api.banidb.com) (the SikhiToTheMax feed), with [GurbaniNow](https://github.com/gurbaninow/api) as backup.
 
 The bani is presented with respect; derogatory alteration is forbidden by the source licence and by conscience. Corrections are seva — bhul chuk maaf.
 

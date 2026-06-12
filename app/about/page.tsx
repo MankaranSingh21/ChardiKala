@@ -47,11 +47,12 @@ export default function AboutPage() {
         </p>
         <p>
           The <Link href="/hukamnama">daily hukamnama</Link> is fetched from
-          the <strong>GurbaniNow API</strong> (api.gurbaninow.com), which
-          relays the day&apos;s hukamnama from Sri Harmandir Sahib, Amritsar;
-          it is refreshed hourly. When the feed is unreachable, the page
-          falls back to a date-chosen reading from this site&apos;s own local
-          text, and says so plainly.
+          the <strong>BaniDB API</strong> (api.banidb.com, the feed behind
+          SikhiToTheMax), which relays the day&apos;s hukamnama from Sri
+          Harmandir Sahib, Amritsar — with the GurbaniNow API as a backup
+          source. It is re-checked every 15 minutes. When both feeds are
+          unreachable, the page falls back to a date-chosen reading from
+          this site&apos;s own local text, and says so plainly.
         </p>
       </section>
 
